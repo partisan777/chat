@@ -83,10 +83,9 @@ export class Component<P extends Record<string, any> = any> {
 
   _removeEvents(): void {
     const {events = {}} = this.props as P & { events: Record<string, () => void> };
-
+    
     Object.keys(events).forEach(eventName => {
       this._element?.removeEventListener(eventName, events[eventName]);
-      this.eventBus().off(eventName, events[eventName]);
     });
   }
 
@@ -137,6 +136,7 @@ export class Component<P extends Record<string, any> = any> {
 
   private _render(): void {
     const fragment = this.render();
+    this._removeEvents();
     this._element!.innerHTML = '';
     this._element!.append(fragment);
     this._addEvents();

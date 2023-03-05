@@ -27,18 +27,17 @@ export class Input extends Component {
 		
 	}
 	_addEvents(): void {
-		const {events = {}} = this.props;
+		const {events = {}} = this.props as P & { events: Record<string, () => void> };
 
 		Object.keys(events).forEach(eventName => {
-				this._element?.querySelector('input').addEventListener(eventName, events[eventName]);
-			});
+				this._element?.querySelector('input')?.addEventListener(eventName, events[eventName]);
+		});
 	}
 	_removeEvents(): void {
 		const {events = {}} = this.props as P & { events: Record<string, () => void> };
 	
 		Object.keys(events).forEach(eventName => {
-		  this._element?.querySelector('input').removeEventListener(eventName, events[eventName]);
-		  this.eventBus().off(eventName, events[eventName]);
+		  this._element?.querySelector('input')?.removeEventListener(eventName, events[eventName]);
 		});
 	  }
 	
