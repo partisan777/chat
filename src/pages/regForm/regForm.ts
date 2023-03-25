@@ -4,26 +4,35 @@ import { Input } from '../../models/input/input';
 import { Component } from '../../models/components/components';
 // import submitRegForm from '../../utils/formValidate'
 import {checkValueInput} from "../../utils/formValidate"
-
+import AuthController from '../../controllers/authController';
+import { Link } from '../../models/link/link';
+import { SignupData } from '../../api/AuthAPI';
 
 interface RegFormPageProps {
   pageTitle?: string,
   regHasAccButtonEvents?: object,
-  registrationButtonEvents?: object
+  registrationButtonEvents?: object,
+  com_className?: string,
+  com_el_id?: string,
+  com_tagName?: string,
+  com_isVisible?: boolean
 };
 
-const props = { 
-    pageTitle: 'Регистрация',
-    events: {
-    submit: (e: Event) => {
-            e.preventDefault();
-        }
-    }   
-}
+// const props = { 
+//     pageTitle: 'Регистрация',
+//     events: {
+//     submit: (e: Event) => {
+//             e.preventDefault();
+//         }
+//     }   
+// }
 
 export class RegFormPage extends Component {
   constructor(props: RegFormPageProps) {
-    super('form', props, 'registration_form');
+    if (!props.com_tagName) props.com_tagName = 'form';
+    if (!props.com_className) props.com_className = 'registration_form';
+    if (!props.com_isVisible) props.com_isVisible = false;
+    super(props)
   };
 
   init() {
@@ -91,7 +100,7 @@ export class RegFormPage extends Component {
             }   
         });
             
-        this.children.secondName = new Input ({ 
+        this.children.second_name = new Input ({ 
             label: "second_name",
             labelVisible: "Фамилия",
             type: "text",
@@ -199,19 +208,33 @@ export class RegFormPage extends Component {
             buttonClass: "button-button",
             type: "submit",
             elem_id: "registration-button",
-            events: this.props.registrationButtonEvents.events
+            events: {
+                click: (e) => {
+                    e.preventDefault();
+                    this.onSubmit();
+                    
+                }
+                
+            }
         });
         
-        this.children.regHasAccButton = new Button ({
-            labelVisible: "Ecть аккаунт?",
-            buttonClass: "link-button",
-            elem_id: "reg-has-acc-button",
-            events: this.props.regHasAccButtonEvents.events
-        }); 
+        this.children.link = new Link({
+            label: 'Войти',
+            to: '/'
+          });
 
     }
+    onSubmit() {
+        const values = Object
+          .values(this.children)
+          .filter(child => child instanceof Input)
+          .map((child) => ([(child as Input).getName(), (child as Input).getValue()]))
+        const data = Object.fromEntries(values);
+        AuthController.signup(data as SignupData);
+    }
+    
     render() {
-        return this.compile(regPageTemplate, {pageTitle: 'Регистрация'});
+        return this.compile(regPageTemplate, this.props);
     }
     
 };

@@ -7,12 +7,17 @@ interface buttonDataProps  {
 	buttonClass?: string,
     type?: string,
     elem_id?: string,
-	events?: {}
+	events?: {},
+	com_className?: string,
+	com_el_id?: string,
+	com_tagName?: string,
+	com_isVisible?: boolean,
 };    
 
 export class Button extends Component {
 	constructor(props: buttonDataProps) {
-		super('div', props);
+		if (!props.com_tagName) props.com_tagName = 'div';
+		super(props);
 	}
 	render() {
 		return this.compile(buttonTemplate, this.props);

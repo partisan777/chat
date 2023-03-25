@@ -6,11 +6,19 @@ import { Input } from '../../models/input/input';
 
 interface AddLocationFormPageProps {
   pageTitle: string;
+  com_className?: string;
+  com_el_id?: string;
+  com_tagName?: string;
+	com_isVisible?: boolean;
 };
 
 export class AddLocationFormPage extends Component {
   constructor(props: AddLocationFormPageProps) {
-    super('div', props, "modal", "change-avatar-page", false)
+    if (!props.com_tagName) props.com_tagName = 'div';
+    if (!props.com_className) props.com_className = "modal";
+    if (!props.com_el_id) props.com_el_id = "change-avatar-page";
+    if (!props.com_isVisible) props.com_isVisible = false;
+    super(props)
   };
   init() {
 

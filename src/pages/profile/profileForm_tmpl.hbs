@@ -1,11 +1,15 @@
  <div class="profile-form" id="profile-form"> 
     <div class="profile-sidebar" id="profile-sidebar">
-        {{#if profileExit }} {{{ profileExit }}} {{/if}}
+        {{#if linkToMessenger }}
+            {{{ linkToMessenger }}}
+        {{/if}}
     </div>
     <div class="profile-subform" id="profile-subform">
         <div class="profile-avatar" id="profile-avatar">
-            <img src="#" alt="Avatar" />
+            <img src="{{{avatarLink}}}" alt="Avatar" />
         </div>
+        {{{ changePasswordFormPage }}}
+        {{{ changeAvatarFormPage }}}
         <form class="form-input" id="profile-form-input">
             <h2>Данные пользователя</h2>
             {{#if email }}  {{{ email }}} {{/if}}
@@ -18,6 +22,7 @@
             {{#if profileChangeData }} {{{ profileChangeData }}} {{/if}}
             {{#if profileChangePassword }} {{{ profileChangePassword }}} {{/if}}
             {{#if profileLogout }} {{{ profileLogout }}} {{/if}}
+           
         </form>
        <div>{{#if errormessage  }} {{{ errormessage }}} {{/if}}</div>
     </div> 
@@ -25,8 +30,6 @@
     {{#if changeAvatarFormPage }} {{{ changeAvatarFormPage }}} {{/if}}
 </div>
 
-            
-            
             
             
             

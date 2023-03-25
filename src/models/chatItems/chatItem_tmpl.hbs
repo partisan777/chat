@@ -1,9 +1,14 @@
-<div class="chat-avatar" id="chat-avatar-{{{id}}}"> 
-  <img src="#" alt="Avatar" />
+{{!-- <div className="chat-item {{#if isSelected }}{{ chat--selected }}{{/if}}"  --}}
+<div className="chat-item chat--selected" 
+id="chat-item-{{{id}}}">
+  <div class="chat-avatar" id="chat-avatar-{{{id}}}"> 
+      <img src="#" alt="Avatar" />
+    </div>
+    <div class="chat-name" id="chat-name-{{{id}}}">{{{title}}}</div>
+    <div class="chat-last-message-time" id="chat-last-message-time-{{{id}}}">{{{last_message.time_str}}}</div>
+    <div class="chat-last-message" id="chat-last-message-{{{id}}}">{{{last_message.content}}}</div>
+    {{#if unread_count }}
+      <div class="circle chat-unread-message-count" id="chat-unread-message-count-{{{id}}}">{{{unread_count}}}</div>
+    {{/if }}
+  </div>
 </div>
-<div class="chat-name" id="chat-name-{{{id}}}">{{{title}}}</div>
-<div class="chat-last-message-time" id="chat-last-message-time-{{{id}}}">{{{last_message.time}}}</div>
-<div class="chat-last-message" id="chat-last-message-{{{id}}}">{{{last_message.content}}}</div>
-{{#if unread_count }}
-  <div class="circle chat-unread-message-count" id="chat-unread-message-count-{{{id}}}">{{{unread_count}}}</div>
-{{/if }}

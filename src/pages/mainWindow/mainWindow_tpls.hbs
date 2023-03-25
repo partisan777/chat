@@ -1,69 +1,11 @@
 <div class="chat-sidebar" id="chat-sidebar">
-    <div class="chat-sidebar-header" id="chat-sidebar-header">
-        {{#if profileButton}} 
-            {{{profileButton}}}
-        {{/if}}
-        {{!-- {{{profileButton}}} --}}
-    </div>
-    <div class="search" id="search">
-        {{#if searchInput}}
-            {{{searchInput}}} 
-        {{/if}}
-        {{#if searchButton}}
-            {{{searchButton}}}
-        {{/if}}
-        
-    </div>
-    <div class="search" id="search"></div>
-    <div class="manage-chat-user" id="chat-sidebar-items">
-        {{#if chatList}}
-            {{#each chatList}}
-                {{{this}}}      
-            {{/each}}
-         {{/if}}
-        
-    </div>
-</div>
-<div class="dialog-window" id ="dialog-window">
-    <div class="dialog-header" id="dialog-header">
-        <div class="chat-header-descr" id="chat-header-descr">
-            <p>Название чата</p>
-        </div>
-        {{#if chatMenuButton}}
-            {{{chatMenuButton}}}
-        {{/if}}
-       
-    </div>
-    <div class="dialog" id="dialog">
-        <ul> 
-            <li><a href="./error.html">Ссылка на страницу с ошибками</a></li>
-            <li><a href="./notfound.html">Ссылка на несуществующую страницу</a></li>
-            {{#if messages}}
-                {{#each messages}}
-                    {{{this}}}      
-                {{/each}}
-            {{/if}}
-    </div>
-    <div class="dialog-footer" id="dialog-footer">
-        <form class="chat-input-form" id="chat-input-form" sendId="">
-            {{#if addButton }}
-                {{{addButton}}}
-            {{/if}}
-            {{#if messageInput }}
-                {{{messageInput}}}
-            {{/if}}
-            {{#if sendButton }}
-                {{{sendButton}}}
-            {{/if}}
-        </form>
-    </div>
-    {{#if addFiles }}
-        {{{ addFiles }}}
+    {{#if messengerHeader}}
+        {{{messengerHeader}}}      
     {{/if}}
-    {{#if chatMenu }}
-        {{{ chatMenu }}}
-    {{/if}}
+    {{{chatsList}}}
 </div>
+{{{messenger}}}
+
 
 
 

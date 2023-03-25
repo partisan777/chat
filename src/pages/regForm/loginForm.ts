@@ -2,17 +2,27 @@ import loginPageTemplate from './loginForm_tmpl.hbs';
 import { Button } from '../../models/button/button';
 import { Input } from '../../models/input/input';
 import { Component } from '../../models/components/components';
+import AuthController from '../../controllers/authController';
+import { Link } from '../../models/link/link';
+import { SignupData } from '../../api/AuthAPI';
 
 
-interface RegFormPageProps {
-  pageTitle: string;
-  logHasAccButtonEvent: object;
-  loginButtonEvents: object;
+
+interface LogFormPageProps {
+  // pageTitle: string;
+  // logHasAccButtonEvent: object;
+  // loginButtonEvents: object;
+  com_className?: string;
+  com_el_id?: string;
+  com_tagName?: string;
+  com_isVisible?: boolean;
 };
 
 export class LoginFormPage extends Component {
-  constructor(props: RegFormPageProps) {
-    super('div', props, 'registration_form');
+  constructor(props: LogFormPageProps) {
+    if (!props.com_tagName) props.com_tagName = 'div';
+    if (!props.com_className) props.com_className = 'registration_form';
+    super (props);
   };
 
   init() {
@@ -20,8 +30,8 @@ export class LoginFormPage extends Component {
             label: "login",
             labelVisible: "Логин",
             type: "text",
-            name: "login-log",
-            elem_id: "login",
+            name: "login",
+            elem_id: "login-log",
             placeholder: "Введите логин",
             autocomplete: "on",
             checkType: "login",
@@ -49,18 +59,47 @@ export class LoginFormPage extends Component {
             buttonClass: "button-button",
             type: "submit",
             elem_id:"login-button",
-            events: this.props.loginButtonEvents.events
+            events: {
+                click: (e) => {
+                  AuthController.logout();
+                  e.preventDefault();
+                  this.onSubmit()
+                }
+                
+            }
             
         });
         
-        this.children.logHasAccButton = new Button ({
+        /*this.children.logHasAccButton = new Button ({
             labelVisible: "Нет аккаунта?",
             buttonClass: "link-button",
             type:"submit",
-            elem_id: "log-has-acc-button",
-            events: this.props.logHasAccButtonEvent.events
-        });
-    }
+            elem_id: "log-has-acc-button"
+            
+        });*/
+        this.children.link = new Link({
+            label: 'Нет аккаунта',
+            to: '/register',
+            /*events: {
+              click: (e) => {
+                console.log(e);
+                e.preventDefault();                
+              }
+            }*/
+          });
+        }
+
+
+    onSubmit() {
+        const values = Object
+          .values(this.children)
+          .filter(child => child instanceof Input)
+          .map((child) => ([(child as Input).getName(), (child as Input).getValue()]))
+    
+        const data = Object.fromEntries(values);
+        console.log(data)
+        AuthController.signin(data as SignupData);
+      }
 
     render() {
         return this.compile(loginPageTemplate, {pageTitle: 'Войти'});

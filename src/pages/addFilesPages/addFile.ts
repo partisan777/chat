@@ -6,11 +6,19 @@ import { Input } from '../../models/input/input';
 
 interface AddFileFormPageProps {
   pageTitle: string;
+  com_className?: string;
+  com_el_id?: string;
+  com_tagName?: string;
+  com_isVisible?: boolean;
 };
 
 export class AddFileFormPage extends Component {
   constructor(props: AddFileFormPageProps) {
-    super('div', props, "modal", "change-file-page", false)
+    props.com_tagName = 'div'
+    props.com_className = "modal"
+    props.com_el_id = "change-file-page" 
+    if (!props.com_isVisible) props.com_isVisible = false;
+    super(props)
   };
   init() {
 

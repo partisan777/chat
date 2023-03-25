@@ -1,0 +1,48 @@
+
+
+<div class="dialog-header" id="dialog-header">
+        <div class="chat-header-descr" id="chat-header-descr">
+            <p>{{{chatTile}}}</p>
+        </div>
+        {{#if chatMenuButton}}
+            {{{chatMenuButton}}}
+        {{/if}}
+        {{{ chatMenuPage }}}
+        {{{ addUserFormPage }}}
+        {{{ delUserFormPage }}}
+    </div>
+    <div class="dialog" id="dialog">
+        <ul> 
+            {{#if messages}}
+                {{#each messages}}
+                    {{{this}}}      
+                {{/each}}
+            {{/if}}
+
+{{#each chatsList}}
+                    {{{this}}}      
+                {{/each}}
+            {{!-- {{{chatsList}}} --}}
+    </div>
+    <div class="dialog-footer" id="dialog-footer">
+        
+        {{{ addFilesPage }}}
+        {{{ addFileFormPage }}}
+		{{{ addFotoVideoFormPage }}}
+        {{{ addLocationFormPage }}}
+        <form class="chat-input-form" id="chat-input-form" sendId="">
+           
+            {{#if addButton }}
+                {{{addButton}}}
+            {{/if}}
+            {{#if messageInput }}
+                {{{messageInput}}}
+            {{/if}}
+            {{#if sendButton }}
+                {{{sendButton}}}
+            {{/if}}
+        </form>
+    </div>
+    
+        
+    

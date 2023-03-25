@@ -28,23 +28,22 @@ export class Component<P extends Record<string, any> = any> {
 	public children: Record<string, Component>;
 	protected eventBus: () => EventBus;
 	protected _element: HTMLElement | null = null;
-	private _meta: { tagName: string; props: P; className: string, el_id: string};
+	private _meta: { props: P};
   private _el: HTMLElement | null = null;
-  protected isVisible: boolean; 
+  protected com_isVisible: boolean = true; 
+  private com_className: string = '';
+  private com_el_id: string = '';
+  private com_tagName: string = 'div';
+  protected selected_chat: number;
  
- 
-  constructor(tagName = "div", propsWithChildren: P, className = '', el_id = '', isVisible = true ) {
+  constructor(propsWithChildren?: P ) {
     const eventBus = new EventBus();
-    this.isVisible = isVisible;
-
     const { props, children } = this._getChildrenAndProps(propsWithChildren);
-
-    this._meta = {
-		  tagName,
-    	props: props as P,
-      className,
-      el_id
-    };
+   
+    this.com_tagName =  props.com_tagName;
+    this.com_className = props.com_className;
+    this.com_el_id = props.com_el_id;
+    this.com_isVisible = props.com_isVisible;
 
     this.children = children;
     this.props = this._makePropsProxy(props);
@@ -97,8 +96,7 @@ export class Component<P extends Record<string, any> = any> {
   }
 
   _createResources(): void {
-    const { tagName, className, el_id } = this._meta;
-    this._element = this._createDocumentElement(tagName, className, el_id);
+    this._element = this._createDocumentElement(this.com_tagName, this.com_className, this.com_el_id);
   }
 
   private _init(): void {
@@ -231,17 +229,17 @@ export class Component<P extends Record<string, any> = any> {
   }
 
   show(): void {
-    this.isVisible = true;
+    this.com_isVisible = true;
     this.getContent()!.style.display = "flex";
   }
 
   hide(): void {
-    this.isVisible = false;
+    this.com_isVisible = false;
     this.getContent()!.style.display = "none";
   }
 
   changeVisible(): void {
-    if (!this.isVisible) {
+    if (!this.com_isVisible) {
       this.show()
     } else {
       this.hide()

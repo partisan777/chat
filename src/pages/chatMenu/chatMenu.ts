@@ -10,11 +10,19 @@ interface chatMenuPageProps{
 	pageTitle?: string;
 	addUserFormPageEvents?: object;
 	delUserFormPageEvents?: object;
+	com_className?: string;
+    com_el_id?: string;
+    com_tagName?: string;
+	com_isVisible?: boolean;
 }
 
 export class ChatMenuPage extends Component {
 	constructor(props: chatMenuPageProps) {
-		super('div', props, 'chat-menu-list', 'chat-menu-list', false)
+		if (!props.com_tagName) props.com_tagName = 'div';
+		if (!props.com_className) props.com_className = 'chat-menu-list';
+		if (!props.com_el_id) props.com_el_id = 'chat-menu-list';
+		if (!props.com_isVisible) props.com_isVisible = false;
+		super(props)
 	}
 	init() {
 		
@@ -36,6 +44,6 @@ export class ChatMenuPage extends Component {
 	render() {
         return this.compile(ChatMenuPageTemplate, this.props);
     }
-}
+};
 
 

@@ -6,11 +6,19 @@ import { Input } from '../../models/input/input';
 
 interface AddFotoVideoFormPageProps {
   pageTitle: string;
+  com_className?: string;
+  com_el_id?: string;
+  com_tagName?: string;
+  com_isVisible?: boolean;
 };
 
 export class AddFotoVideoFormPage extends Component {
   constructor(props: AddFotoVideoFormPageProps) {
-    super('div', props, "modal", "add-fotovideo-page", false)
+    props.com_className = "modal";
+    props.com_el_id = "add-fotovideo-page";
+    props.com_tagName = 'div';
+    props.com_isVisible = false;
+    super(props)
   };
   init() {
 

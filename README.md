@@ -51,3 +51,4 @@ ESLint использовал от Google
 
 ссылка на Netlify
 https://deploy--eloquent-malasada-d64c47.netlify.app/
+
