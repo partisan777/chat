@@ -337,7 +337,7 @@
 79D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss\lib\container.js133238060202872016 0
 99D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\node\Dimension.js133238060255012062 0
 60D:\_yandex\chat_deploy\node_modules\snapdragon\lib\parser.js133238060212112053 0
-35D:\_yandex\chat_deploy\package.json133242228745309484 0
+35D:\_yandex\chat_deploy\package.json133242230175455134 0
 69D:\_yandex\chat_deploy\node_modules\cosmiconfig\node_modules\argparse133242205864523483 1
 64D:\_yandex\chat_deploy\node_modules\unbox-primitive\package.json133238060214202092 0
 84D:\_yandex\chat_deploy\node_modules\log-symbols\node_modules\color-convert\README.md133238060210562069 0
