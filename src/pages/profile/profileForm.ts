@@ -5,7 +5,7 @@ import { Component } from '../../models/components/components';
 import { checkValueInput } from "../../utils/formValidate"
 import  AuthController from '../../controllers/authController';
 import store, { withStore }  from '../../models/components/store';
-import UserController from '../../controllers/UserController';
+import UserController from '../../controllers/userController';
 import { Link } from '../../models/link/link';
 import { ChangePasswordFormPage } from "../changePassword/changePassword";
 import { ChangeAvatarFormPage } from "../changeAvatar/changeAvatar";
