@@ -301,7 +301,7 @@
 81D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\vocabularies\core133242207498738536 1
 65D:\_yandex\chat_deploy\node_modules\markdown-escapes\package.json133238060191972021 0
 104D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\dollar-variable-colon-space-after\index.js133238060262242079 0
-35D:\_yandex\chat_deploy\node_modules133242207657202499 1
+35D:\_yandex\chat_deploy\node_modules133242228418357146 1
 82D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_class_private_method_get.mjs133238060275942033 0
 51D:\_yandex\chat_deploy\node_modules\trough\index.js133238060185742020 0
 63D:\_yandex\chat_deploy\node_modules\sass\types\value\color.d.ts133238060262352077 0
@@ -317,7 +317,7 @@
 93D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__133242207595690388 1
 118D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\table\dist\calculateCellWidthIndex.js133238060245802046 0
 67D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\chalk133242206841652605 1
-40D:\_yandex\chat_deploy\package-lock.json133238060351743043 0
+40D:\_yandex\chat_deploy\package-lock.json133242228423697181 0
 52D:\_yandex\chat_deploy\node_modules\array-find-index133242205734720703 1
 104D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\vocabularies\validation\uniqueItems.d.ts133238060302702056 0
 54D:\_yandex\chat_deploy\node_modules\function-bind\test133242206223068217 1
@@ -337,7 +337,7 @@
 79D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss\lib\container.js133238060202872016 0
 99D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\node\Dimension.js133238060255012062 0
 60D:\_yandex\chat_deploy\node_modules\snapdragon\lib\parser.js133238060212112053 0
-35D:\_yandex\chat_deploy\package.json133242225668794058 0
+35D:\_yandex\chat_deploy\package.json133242228745309484 0
 69D:\_yandex\chat_deploy\node_modules\cosmiconfig\node_modules\argparse133242205864523483 1
 64D:\_yandex\chat_deploy\node_modules\unbox-primitive\package.json133238060214202092 0
 84D:\_yandex\chat_deploy\node_modules\log-symbols\node_modules\color-convert\README.md133238060210562069 0
@@ -757,7 +757,7 @@
 58D:\_yandex\chat_deploy\node_modules\term-size\vendor\macos133242207533503764 1
 75D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_iterable_to_array.mjs133238060280102092 0
 55D:\_yandex\chat_deploy\node_modules\trim\component.json133238060196242095 0
-41D:\_yandex\chat_deploy\node_modules\@lmdb133242205420184326 1
+41D:\_yandex\chat_deploy\node_modules\@lmdb133242228418367163 1
 71D:\_yandex\chat_deploy\node_modules\es-abstract\2022\BigIntBitwiseOp.js133238060270782043 0
 60D:\_yandex\chat_deploy\node_modules\postcss-syntax\syntax.js133238060233682062 0
 72D:\_yandex\chat_deploy\node_modules\xml-name-validator\lib\grammar.pegjs133238060205472046 0
@@ -1075,7 +1075,7 @@
 70D:\_yandex\chat_deploy\node_modules\resolve\test\node-modules-paths.js133238060264472078 0
 108D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\table\dist\wrapCell.js.flow133238060241092035 0
 56D:\_yandex\chat_deploy\node_modules\lodash\conformsTo.js133238060296362021 0
-54D:\_yandex\chat_deploy\node_modules\.package-lock.json133238060354373125 0
+54D:\_yandex\chat_deploy\node_modules\.package-lock.json133242228427167203 0
 91D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\lib\values\expressions\ChainExpression.js133238060233302124 0
 84D:\_yandex\chat_deploy\node_modules\@parcel\node-resolver-core\test\fixture\packages133242205502595840 1
 63D:\_yandex\chat_deploy\node_modules\postcss-convert-values\dist133242206644854571 1
@@ -1139,7 +1139,7 @@
 61D:\_yandex\chat_deploy\node_modules\yargs-parser\package.json133238060224192098 0
 69D:\_yandex\chat_deploy\node_modules\@parcel\reporter-cli\src\emoji.js133238060227862065 0
 66D:\_yandex\chat_deploy\node_modules\detect-libc\lib\detect-libc.js133238060212602141 0
-53D:\_yandex\chat_deploy\node_modules\@msgpackr-extract133242205423374332 1
+53D:\_yandex\chat_deploy\node_modules\@msgpackr-extract133242228418367163 1
 134D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\font-family-name-quotes\README.md133238060283752113 0
 49D:\_yandex\chat_deploy\node_modules\react-refresh133242206924595802 1
 102D:\_yandex\chat_deploy\node_modules\@babel\helper-module-transforms\lib\rewrite-live-references.js.map133238060232222073 0
