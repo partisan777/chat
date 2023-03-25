@@ -1,4 +1,4 @@
-import { EventBus } from './EventBus';
+import { EventBus } from './eventBus';
 
 export enum WSTransportEvents {
   Connected = 'connected',
