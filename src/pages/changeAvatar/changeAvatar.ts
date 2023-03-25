@@ -2,7 +2,7 @@ import { Component } from '../../models/components/components';
 import changeAvatarTemplate from './changeAvatar_tmpl.hbs';
 import { Button } from '../../models/button/button';
 import { Input } from '../../models/input/input';
-import UserController from "../../controllers/UserController"
+import UserController from "../../controllers/userController"
 
 
 interface ChangeAvatarFormPageProps {

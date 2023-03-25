@@ -3,7 +3,7 @@ import messenger_tmpl from './messenger_tmpl.hbs';
 import { Message } from '../../models/message/message';
 import { Input } from '../../models/input/input';
 import { Button } from '../../models/button/button';
-import MessagesController, { Message as MessageInfo } from '../../controllers/MessagesController';
+import MessagesController, { Message as MessageInfo } from '../../controllers/messagesController';
 import { withStore } from '../../models/components/store';
 import { AddFileFormPage } from '../addFilesPages/addFile';
 import { AddFotoVideoFormPage } from '../addFilesPages/addFotoVideo';
@@ -12,7 +12,7 @@ import { AddFilesPage } from '../addFilesMenu/addFilesMenu';
 import { AddUserFormPage } from '../chatMenuPages/addUserPage';
 import { DelUserFormPage } from '../chatMenuPages/delUserPage';
 import { ChatMenuPage } from '../chatMenu/chatMenu';
-import store from '../../models/components/store';
+
 
 
 interface MessengerProps {

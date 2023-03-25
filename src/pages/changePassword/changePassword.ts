@@ -2,7 +2,7 @@ import { Component } from '../../models/components/components';
 import changePasswordTemplate from './changePassword_tmpl.hbs';
 import { Button } from '../../models/button/button';
 import { Input } from '../../models/input/input';
-import UserController from '../../controllers/UserController';
+import UserController from '../../controllers/userController';
 
 interface ChangePasswordFormPageProps {
   pageTitle: string;

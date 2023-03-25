@@ -1,6 +1,6 @@
 import API, { ChatsAPI } from "../api/ChatApi";
 import store from "../models/components/store";
-import MessagesController from './MessagesController';
+import MessagesController from './messagesController';
 
 class ChatsController {
   private readonly api: ChatsAPI;

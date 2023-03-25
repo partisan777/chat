@@ -4,7 +4,7 @@ import { ChatItem } from '../chatItems/chatItem';
 import { withStore } from '../components/store';
 import { ChatsAPI } from '../../api/ChatApi';
 import ChatsController from '../../controllers/chatController';
-import MessagesController from '../../controllers/MessagesController';
+import MessagesController from '../../controllers/messagesController';
 import { Link } from '../link/link';
 import { ChatInfo } from '../../api/interfaces';
 

@@ -2,7 +2,7 @@ import { Component } from '../../models/components/components';
 import addUserPageTemplate from './addUserPage_tmpl.hbs';
 import { Button } from '../../models/button/button';
 import { Input } from '../../models/input/input';
-import ChatsController from '../../controllers/ChatController';
+import ChatsController from '../../controllers/chatController';
 import store from '../../models/components/store';
 import UserController from '../../controllers/userController'
 
