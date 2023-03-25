@@ -1,7 +1,7 @@
 import { Component } from '../../models/components/components';
 import messenger_tmpl from './messenger_tmpl.hbs';
 import { Message } from '../../models/message/message';
-import { Input } from '../../models/Input/input';
+import { Input } from '../../models/input/input';
 import { Button } from '../../models/button/button';
 import MessagesController, { Message as MessageInfo } from '../../controllers/MessagesController';
 import { withStore } from '../../models/components/store';
