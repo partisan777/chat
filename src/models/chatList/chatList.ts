@@ -2,7 +2,7 @@ import { Component }  from '../components/components';
 import chatsList_tmpl from './chatsList_tmpl.hbs';
 import { ChatItem } from '../chatItems/chatItem';
 import { withStore } from '../components/store';
-import { ChatsAPI } from '../../api/ChatApi';
+import { ChatsAPI } from '../../api/ChatAPI';
 import ChatsController from '../../controllers/chatController';
 import MessagesController from '../../controllers/messagesController';
 import { Link } from '../link/link';

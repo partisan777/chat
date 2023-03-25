@@ -1,4 +1,4 @@
-import API, { ChatsAPI } from "../api/ChatApi";
+import API, { ChatsAPI } from "../api/ChatAPI";
 import store from "../models/components/store";
 import MessagesController from './messagesController';
 

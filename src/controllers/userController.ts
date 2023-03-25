@@ -1,4 +1,4 @@
-import API, { UserAPI } from '../api/UserApi';
+import API, { UserAPI } from '../api/UserAPI';
 import { userUpdateProfile, updatePassword, userSearch } from '../api/interfaces';
 
 class UserController {
