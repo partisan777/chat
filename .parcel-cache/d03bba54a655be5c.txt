@@ -79,7 +79,7 @@
 100D:\_yandex\chat_deploy\node_modules\expand-brackets\node_modules\is-accessor-descriptor\package.json133238060181132043 0
 97D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\mdn-data\css\properties.schema.json133238060237052080 0
 90D:\_yandex\chat_deploy\node_modules\postcss-normalize-charset\node_modules\postcss\LICENSE133238060180522058 0
-32D:\_yandex\chat_deploy\.parcelrc133225978279813078 0
+32D:\_yandex\chat_deploy\.parcelrc133242219599070116 0
 44D:\_yandex\chat_deploy\node_modules\globjoin133242206241398112 1
 39D:\_yandex\chat_deploy\node_modules\sax133242206994500568 1
 70D:\_yandex\chat_deploy\node_modules\iconv-lite\encodings\dbcs-codec.js133238060206962087 0
@@ -121,7 +121,7 @@
 41D:\_yandex\chat_deploy\node_modules\uniqs133242207602192538 1
 80D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\NodeList.js133238060285972093 0
 58D:\_yandex\chat_deploy\node_modules\express\lib\express.js133238060193892068 0
-27D:\_yandex\chat_deploy\dist133242214244253526 1
+27D:\_yandex\chat_deploy\dist133242225962775835 1
 65D:\_yandex\chat_deploy\node_modules\remark-stringify\lib\visitors133242206952745757 1
 38D:\_yandex\chat_deploy\error-pages.css133225123993846480 0
 54D:\_yandex\chat_deploy\node_modules\caseless\README.md133238060187222045 0
@@ -283,12 +283,12 @@
 93D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\SVGBoundingBoxOptions.js133238060287612060 0
 84D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\length-zero-no-unit\index.js133238060283322053 0
 80D:\_yandex\chat_deploy\node_modules\tsconfig-paths\node_modules\json5\LICENSE.md133238060228472087 0
-35D:\_yandex\chat_deploy\netlify.toml133225978279983033 0
+35D:\_yandex\chat_deploy\netlify.toml133242224794367539 0
 100D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\double-slash-comment-whitespace-inside133242207439944666 1
 53D:\_yandex\chat_deploy\node_modules\neo-async\fast.js133238060254552038 0
 92D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\mdn-data\css\units.schema.json133238060245212055 0
 132D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-pseudo-class-blacklist133242207387856592 1
-58D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y133242206124143870 1
+58D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y133242206124563837 1
 59D:\_yandex\chat_deploy\node_modules\posix-character-classes133242206627283050 1
 74D:\_yandex\chat_deploy\node_modules\tsconfig-paths\node_modules\.bin\json5133238060332582069 0
 61D:\_yandex\chat_deploy\node_modules\yaml\browser\dist\util.js133238060256432117 0
@@ -337,7 +337,7 @@
 79D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss\lib\container.js133238060202872016 0
 99D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\node\Dimension.js133238060255012062 0
 60D:\_yandex\chat_deploy\node_modules\snapdragon\lib\parser.js133238060212112053 0
-35D:\_yandex\chat_deploy\package.json133225978280243170 0
+35D:\_yandex\chat_deploy\package.json133242225668794058 0
 69D:\_yandex\chat_deploy\node_modules\cosmiconfig\node_modules\argparse133242205864523483 1
 64D:\_yandex\chat_deploy\node_modules\unbox-primitive\package.json133238060214202092 0
 84D:\_yandex\chat_deploy\node_modules\log-symbols\node_modules\color-convert\README.md133238060210562069 0
@@ -387,7 +387,7 @@
 32D:\_yandex\chat_deploy\src\pages133242207665132513 1
 69D:\_yandex\chat_deploy\node_modules\es-abstract\2017\IsConstructor.js133238060306162080 0
 48D:\_yandex\chat_deploy\node_modules\style-search133242207059460404 1
-67D:\_yandex\chat_deploy\node_modules\request\node_modules\qs\.github133238060240272083 1
+67D:\_yandex\chat_deploy\node_modules\request\node_modules\qs\.github133242206957045764 1
 87D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\utils\unicode\is-surrogate-pair.js133238060277322053 0
 55D:\_yandex\chat_deploy\node_modules\yaml\browser\map.js133238060231322015 0
 70D:\_yandex\chat_deploy\node_modules\regexp.prototype.flags\polyfill.js133238060224792048 0
@@ -419,7 +419,7 @@
 126D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\no-empty-source\README.md133238060291472072 0
 58D:\_yandex\chat_deploy\node_modules\neo-async\forEachOf.js133238060258052067 0
 87D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\node_modules\.bin\semver.ps1133238060332512034 0
-52D:\_yandex\chat_deploy\node_modules\postcss-colormin133242206640353447 1
+52D:\_yandex\chat_deploy\node_modules\postcss-colormin133242206640724644 1
 86D:\_yandex\chat_deploy\node_modules\postcss-selector-parser\dist\selectors\selector.js133238060242432090 0
 82D:\_yandex\chat_deploy\node_modules\@babel\runtime\helpers\esm\asyncToGenerator.js133238060259852045 0
 35D:\_yandex\chat_deploy\src\index.ts133242162376105963 0
@@ -488,7 +488,7 @@
 72D:\_yandex\chat_deploy\node_modules\typescript\lib\lib.es2019.array.d.ts133238060314712055 0
 77D:\_yandex\chat_deploy\node_modules\postcss-resolve-nested-selector\README.md133238060186282083 0
 99D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\micromatch\LICENSE133238060198182078 0
-57D:\_yandex\chat_deploy\node_modules\object.assign\.github133238060252132081 1
+57D:\_yandex\chat_deploy\node_modules\object.assign\.github133242206590403020 1
 44D:\_yandex\chat_deploy\node_modules\readdirp133242206939415806 1
 43D:\_yandex\chat_deploy\src\utils\helpers.ts133242162773434246 0
 62D:\_yandex\chat_deploy\node_modules\file-entry-cache\README.md133238060205122059 0
@@ -627,7 +627,7 @@
 83D:\_yandex\chat_deploy\node_modules\eslint-plugin-import\lib\rules\group-exports.js133238060237352106 0
 67D:\_yandex\chat_deploy\node_modules\es-abstract\2021\ToPrimitive.js133238060326862059 0
 51D:\_yandex\chat_deploy\src\pages\regForm\regForm.ts133242161547335173 0
-43D:\_yandex\chat_deploy\node_modules\sax\lib133238060196612041 1
+43D:\_yandex\chat_deploy\node_modules\sax\lib133242206994870396 1
 67D:\_yandex\chat_deploy\node_modules\type-fest\ts41\pascal-case.d.ts133238060245612079 0
 59D:\_yandex\chat_deploy\node_modules\unbox-primitive\LICENSE133238060196212046 0
 90D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\DocumentReadyState.js133238060266912119 0
@@ -935,7 +935,7 @@
 70D:\_yandex\chat_deploy\node_modules\object-copy\node_modules\is-buffer133242206581042987 1
 106D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\container.js133238060253422139 0
 100D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\lib\vocabularies\validation\limitItems.ts133238060298092015 0
-48D:\_yandex\chat_deploy\node_modules\postcss-calc133242206634113406 1
+48D:\_yandex\chat_deploy\node_modules\postcss-calc133242206636103540 1
 81D:\_yandex\chat_deploy\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc133238060234512086 0
 55D:\_yandex\chat_deploy\node_modules\lodash\stubFalse.js133238060314632010 0
 83D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\helpers\form-controls.js133238060289742048 0
@@ -1037,7 +1037,7 @@
 95D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\AddEventListenerOptions.js133238060261342023 0
 81D:\_yandex\chat_deploy\node_modules\string.prototype.matchall\.github\FUNDING.yml133238060236912062 0
 68D:\_yandex\chat_deploy\node_modules\node-gyp-build-optional-packages133242206560529065 1
-39D:\_yandex\chat_deploy\node_modules\coa133242205841953496 1
+39D:\_yandex\chat_deploy\node_modules\coa133242205843213593 1
 43D:\_yandex\chat_deploy\node_modules\gensync133242206226588208 1
 80D:\_yandex\chat_deploy\node_modules\@parcel\workers\src\process\ProcessWorker.js133238060246452028 0
 121D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint-order\utils\isRuleWithNodes.js133238060252372105 0
@@ -1068,7 +1068,7 @@
 58D:\_yandex\chat_deploy\node_modules\uglify-js\lib\parse.js133238060243562013 0
 62D:\_yandex\chat_deploy\node_modules\unist-util-visit\readme.md133238060196192048 0
 70D:\_yandex\chat_deploy\node_modules\unist-util-visit-parents\readme.md133238060196192048 0
-65D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\lib\rules133242206139118769 1
+65D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\lib\rules133242206139158682 1
 78D:\_yandex\chat_deploy\node_modules\@parcel\node-resolver-core\src\builtins.js133238060238192068 0
 49D:\_yandex\chat_deploy\node_modules\cssnano-utils133242205924138215 1
 64D:\_yandex\chat_deploy\node_modules\parse5\lib\common\unicode.js133238060216902084 0
@@ -1084,7 +1084,7 @@
 126D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-attribute-quotes133242207374537131 1
 81D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\css-text-indent.js133238060286482073 0
 141D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\at-rule-semicolon-space-before\README.md133238060267432044 0
-58D:\_yandex\chat_deploy\node_modules\normalize-package-data133242206562649512 1
+58D:\_yandex\chat_deploy\node_modules\normalize-package-data133242206563079509 1
 42D:\_yandex\chat_deploy\node_modules\@babel133242205358571315 1
 86D:\_yandex\chat_deploy\node_modules\postcss-colormin\node_modules\postcss-value-parser133242206643974594 1
 78D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\configs\jsx-runtime.js133238060260622173 0
@@ -1294,7 +1294,7 @@
 50D:\_yandex\chat_deploy\node_modules\is-core-module133242206310967748 1
 82D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\lib\util\linkComponents.js133238060262882087 0
 72D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\incorrect_main133242206973315878 1
-47D:\_yandex\chat_deploy\node_modules\es-abstract133242206048608332 1
+47D:\_yandex\chat_deploy\node_modules\es-abstract133242206051968143 1
 93D:\_yandex\chat_deploy\node_modules\postcss-ordered-values\node_modules\postcss\lib\vendor.js133238060246572065 0
 44D:\_yandex\chat_deploy\node_modules\argparse133242205719188840 1
 66D:\_yandex\chat_deploy\node_modules\table\dist\src\createStream.js133238060228902090 0
@@ -1302,7 +1302,7 @@
 68D:\_yandex\chat_deploy\node_modules\@jridgewell\set-array\dist\types133242205411794272 1
 67D:\_yandex\chat_deploy\node_modules\css-tree\lib\convertor\index.js133238060260872058 0
 62D:\_yandex\chat_deploy\node_modules\lodash\fp\assignAllWith.js133238060290842128 0
-55D:\_yandex\chat_deploy\node_modules\has-bigints\.github133238060222102075 1
+55D:\_yandex\chat_deploy\node_modules\has-bigints\.github133242206267295559 1
 47D:\_yandex\chat_deploy\node_modules\array-equal133242205734180709 1
 66D:\_yandex\chat_deploy\node_modules\es-abstract\2016\CreateHTML.js133238060285292076 0
 60D:\_yandex\chat_deploy\node_modules\relateurl\lib\options.js133238060211312083 0
@@ -1429,12 +1429,12 @@
 81D:\_yandex\chat_deploy\node_modules\autoprefixer\node_modules\picocolors\types.ts133238060213882058 0
 59D:\_yandex\chat_deploy\node_modules\function.prototype.name133242206223938079 1
 145D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\media-feature-name-no-vendor-prefix\index.js133238060288752100 0
-49D:\_yandex\chat_deploy\node_modules\async-limiter133242205749910682 1
+49D:\_yandex\chat_deploy\node_modules\async-limiter133242205749960746 1
 52D:\_yandex\chat_deploy\node_modules\lodash\uniqBy.js133238060318232096 0
 59D:\_yandex\chat_deploy\node_modules\extend-shallow\index.js133238060197452032 0
 85D:\_yandex\chat_deploy\node_modules\cssnano\node_modules\postcss\lib\map-generator.js133238060229922072 0
 51D:\_yandex\chat_deploy\node_modules\resolve\example133242206962715762 1
-60D:\_yandex\chat_deploy\node_modules\postcss-unique-selectors133242206899760182 1
+60D:\_yandex\chat_deploy\node_modules\postcss-unique-selectors133242206899960202 1
 88D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\nodes\HTMLDataElement-impl.js133238060295622087 0
 91D:\_yandex\chat_deploy\node_modules\eslint\lib\source-code\token-store\decorative-cursor.js133238060258872062 0
 101D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\path-exists\index.js133238060185852061 0
@@ -1452,7 +1452,7 @@
 40D:\_yandex\chat_deploy\node_modules\atob133242205752510666 1
 85D:\_yandex\chat_deploy\node_modules\postcss-calc\node_modules\picocolors\package.json133238060196912042 0
 102D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\lib\rules\no-static-element-interactions.js133238060281142038 0
-48D:\_yandex\chat_deploy\node_modules\autoprefixer133242205754560695 1
+48D:\_yandex\chat_deploy\node_modules\autoprefixer133242205760520728 1
 56D:\_yandex\chat_deploy\node_modules\.bin\detect-libc.cmd133238060332622063 0
 86D:\_yandex\chat_deploy\node_modules\tsconfig-paths\src\__tests__\mapping-entry.test.ts133238060261402071 0
 61D:\_yandex\chat_deploy\node_modules\stylelint-config-standard133242207421434733 1
@@ -1475,7 +1475,7 @@
 61D:\_yandex\chat_deploy\node_modules\neo-async\eachOfSeries.js133238060252172021 0
 54D:\_yandex\chat_deploy\node_modules\lodash\uniqWith.js133238060318362077 0
 72D:\_yandex\chat_deploy\node_modules\coa\node_modules\chalk\index.js.flow133238060192552034 0
-51D:\_yandex\chat_deploy\node_modules\resolve\.github133238060274682057 1
+51D:\_yandex\chat_deploy\node_modules\resolve\.github133242206962465893 1
 60D:\_yandex\chat_deploy\node_modules\safe-regex-test\index.js133238060191462025 0
 103D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\astral-regex\readme.md133238060196432100 0
 62D:\_yandex\chat_deploy\node_modules\svg-tags\lib\svg-tags.json133238060204652088 0
@@ -1493,7 +1493,7 @@
 83D:\_yandex\chat_deploy\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h133238060273022136 0
 56D:\_yandex\chat_deploy\node_modules\request-promise-core133242206960285789 1
 67D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\regions\GE.js133238060296222038 0
-43D:\_yandex\chat_deploy\node_modules\cssnano133242205907873421 1
+43D:\_yandex\chat_deploy\node_modules\cssnano133242205907993424 1
 95D:\_yandex\chat_deploy\node_modules\@babel\types\lib\modifications\flow\removeTypeDuplicates.js133238060278192054 0
 87D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\domutils\lib\traversal.js133238060227012072 0
 44D:\_yandex\chat_deploy\node_modules\axe-core133242205767250788 1
@@ -1545,7 +1545,7 @@
 47D:\_yandex\chat_deploy\node_modules\body-parser133242205778880695 1
 75D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\entities\test133242206683028477 1
 103D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\invalid_main133242206161274027 1
-52D:\_yandex\chat_deploy\node_modules\@eslint\eslintrc133242205396974569 1
+52D:\_yandex\chat_deploy\node_modules\@eslint\eslintrc133242205400614566 1
 78D:\_yandex\chat_deploy\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133238060221342055 0
 98D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\flat-cache\del.js133238060198192045 0
 81D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\lib\rules\aria-role.js133238060242922046 0
@@ -1658,7 +1658,7 @@
 61D:\_yandex\chat_deploy\node_modules\postcss-jsx\camel-case.js133238060186432042 0
 91D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\postcss\lib\rule.js133238060242172072 0
 93D:\_yandex\chat_deploy\node_modules\es-abstract\helpers\isFullyPopulatedPropertyDescriptor.js133238060307402043 0
-47D:\_yandex\chat_deploy\node_modules\cosmiconfig133242205862313516 1
+47D:\_yandex\chat_deploy\node_modules\cosmiconfig133242205863633900 1
 68D:\_yandex\chat_deploy\node_modules\type-fest\source\promisable.d.ts133238060246252056 0
 78D:\_yandex\chat_deploy\node_modules\global-prefix\node_modules\which\bin\which133238060210652091 0
 81D:\_yandex\chat_deploy\node_modules\uncss\node_modules\picocolors\picocolors.d.ts133238060209052046 0
@@ -1666,7 +1666,7 @@
 50D:\_yandex\chat_deploy\node_modules\camelcase-keys133242205790760726 1
 72D:\_yandex\chat_deploy\node_modules\cssstyle\lib\properties\fontStyle.js133238060258822004 0
 55D:\_yandex\chat_deploy\node_modules\neo-async\whilst.js133238060274082103 0
-65D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules133242206809962584 1
+65D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules133242206812692560 1
 63D:\_yandex\chat_deploy\node_modules\css-select\lib\procedure.js133238060225592046 0
 47D:\_yandex\chat_deploy\node_modules\caniuse-api133242205791170713 1
 77D:\_yandex\chat_deploy\node_modules\cosmiconfig\node_modules\.bin\js-yaml.cmd133238060332672068 0
@@ -1777,7 +1777,7 @@
 99D:\_yandex\chat_deploy\node_modules\postcss-normalize-charset\node_modules\postcss\lib\container.js133238060203892039 0
 78D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\comment-no-empty133242207434964659 1
 80D:\_yandex\chat_deploy\node_modules\@swc\helpers\lib\_class_private_field_get.js133238060241932052 0
-74D:\_yandex\chat_deploy\node_modules\es-array-method-boxes-properly\.github133238060214762064 1
+74D:\_yandex\chat_deploy\node_modules\es-array-method-boxes-properly\.github133242206052778133 1
 101D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\braces\lib\braces.js133238060207712060 0
 42D:\_yandex\chat_deploy\node_modules\lodash133242206497484430 1
 78D:\_yandex\chat_deploy\node_modules\stylelint\lib\utils\isPathNotFoundError.js133238060295532105 0
@@ -1829,7 +1829,7 @@
 49D:\_yandex\chat_deploy\node_modules\vfile-message133242207627382483 1
 113D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-calc\types\lib\transform.d.ts133238060240452083 0
 59D:\_yandex\chat_deploy\node_modules\rgb-regex\.editorconfig133238060203652072 0
-96D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\flatted\.github133238060225762042 1
+96D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\flatted\.github133242207251278517 1
 77D:\_yandex\chat_deploy\node_modules\global-prefix\node_modules\.bin\which.ps1133238060332532092 0
 82D:\_yandex\chat_deploy\node_modules\axobject-query\lib\etc\objects\SplitterRole.js133238060272162053 0
 53D:\_yandex\chat_deploy\node_modules\component-emitter133242205857203526 1
@@ -1870,7 +1870,7 @@
 96D:\_yandex\chat_deploy\node_modules\postcss-minify-gradients\node_modules\postcss\lib\comment.js133238060193092041 0
 93D:\_yandex\chat_deploy\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133238060231922055 0
 52D:\_yandex\chat_deploy\node_modules\ajv\lib\ajv.d.ts133238060272012093 0
-51D:\_yandex\chat_deploy\node_modules\expand-brackets133242206184878104 1
+51D:\_yandex\chat_deploy\node_modules\expand-brackets133242206186128418 1
 67D:\_yandex\chat_deploy\node_modules\source-map\lib\binary-search.js133238060220172032 0
 86D:\_yandex\chat_deploy\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133238060270822063 0
 142D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-combinator-space-after\README.md133238060296472058 0
@@ -1890,7 +1890,7 @@
 51D:\_yandex\chat_deploy\node_modules\snapdragon-node133242207019860371 1
 61D:\_yandex\chat_deploy\node_modules\es-abstract\5\MakeTime.js133238060311892038 0
 47D:\_yandex\chat_deploy\node_modules\cross-spawn133242205879211700 1
-46D:\_yandex\chat_deploy\dist\index.71b8dddc.css133242214244013644 0
+46D:\_yandex\chat_deploy\dist\index.71b8dddc.css133242225962545795 0
 49D:\_yandex\chat_deploy\node_modules\har-validator133242206265005525 1
 72D:\_yandex\chat_deploy\node_modules\@babel\core\node_modules\.bin\semver133238060332502078 0
 61D:\_yandex\chat_deploy\node_modules\eslint-scope\package.json133238060232132050 0
@@ -2020,9 +2020,9 @@
 51D:\_yandex\chat_deploy\node_modules\define-property133242205949718153 1
 62D:\_yandex\chat_deploy\node_modules\which-collection\README.md133238060214112080 0
 60D:\_yandex\chat_deploy\node_modules\json-parse-better-errors133242206417853793 1
-46D:\_yandex\chat_deploy\node_modules\snapdragon133242207007030375 1
+46D:\_yandex\chat_deploy\node_modules\snapdragon133242207007270410 1
 82D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\types\index.js.map133238060284162112 0
-67D:\_yandex\chat_deploy\node_modules\prettier-linter-helpers\.github133238060224262069 1
+67D:\_yandex\chat_deploy\node_modules\prettier-linter-helpers\.github133242206913755795 1
 74D:\_yandex\chat_deploy\node_modules\@nodelib\fs.walk\out\providers\sync.js133238060230622096 0
 73D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\svg-css.js133238060310672082 0
 138D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint-order\rules\properties-order\createFlatOrder.js133238060243462078 0
@@ -2244,7 +2244,7 @@
 61D:\_yandex\chat_deploy\node_modules\eslint-plugin-react-hooks133242206173848150 1
 53D:\_yandex\chat_deploy\node_modules\isarray\README.md133238060197172103 0
 75D:\_yandex\chat_deploy\node_modules\@parcel\core\test\InternalAsset.test.js133238060265972053 0
-66D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\.bin133242206834822602 1
+66D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\.bin133242206834862659 1
 46D:\_yandex\chat_deploy\node_modules\yaml\types133242207654392537 1
 56D:\_yandex\chat_deploy\node_modules\lodash\capitalize.js133238060293702075 0
 84D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\postcss\lib\at-rule.js133238060187702031 0
@@ -2253,14 +2253,14 @@
 55D:\_yandex\chat_deploy\node_modules\ecc-jsbn\lib\sec.js133238060220532048 0
 51D:\_yandex\chat_deploy\node_modules\xtend\.jshintrc133238060185632047 0
 64D:\_yandex\chat_deploy\node_modules\css-color-names\package.json133238060181342037 0
-56D:\_yandex\chat_deploy\node_modules\side-channel\.github133238060225352036 1
+56D:\_yandex\chat_deploy\node_modules\side-channel\.github133242207003300374 1
 67D:\_yandex\chat_deploy\node_modules\sprintf-js\dist\sprintf.min.map133238060227552051 0
 48D:\_yandex\chat_deploy\node_modules\eslint-scope133242206175888065 1
 88D:\_yandex\chat_deploy\node_modules\eslint-import-resolver-node\node_modules\ms\index.js133238060181182027 0
 84D:\_yandex\chat_deploy\node_modules\postcss-selector-parser\dist\selectors\pseudo.js133238060240642055 0
 88D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\bin\resolve133238060210702048 0
 83D:\_yandex\chat_deploy\node_modules\cssstyle\lib\properties\backgroundAttachment.js133238060237322055 0
-58D:\_yandex\chat_deploy\node_modules\postcss-convert-values133242206644634577 1
+58D:\_yandex\chat_deploy\node_modules\postcss-convert-values133242206646214583 1
 101D:\_yandex\chat_deploy\node_modules\@babel\types\lib\modifications\typescript\removeTypeDuplicates.js133238060279682060 0
 56D:\_yandex\chat_deploy\node_modules\functions-have-names133242206226128194 1
 55D:\_yandex\chat_deploy\node_modules\eslint-visitor-keys133242206178888141 1
@@ -2308,11 +2308,11 @@
 77D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\color-named\README.md133238060302532014 0
 66D:\_yandex\chat_deploy\node_modules\fast-glob\out\readers\async.js133238060209582069 0
 79D:\_yandex\chat_deploy\node_modules\cssstyle\lib\properties\borderRightStyle.js133238060250932075 0
-55D:\_yandex\chat_deploy\node_modules\postcss-merge-rules133242206699418524 1
+55D:\_yandex\chat_deploy\node_modules\postcss-merge-rules133242206699608449 1
 75D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\proximity.js133238060308372068 0
 104D:\_yandex\chat_deploy\node_modules\postcss-normalize-whitespace\node_modules\postcss\lib\stringifier.js133238060243332083 0
 84D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\vocabularies\dynamic133242207499758513 1
-51D:\_yandex\chat_deploy\node_modules\snapdragon-util133242207020390400 1
+51D:\_yandex\chat_deploy\node_modules\snapdragon-util133242207020430409 1
 60D:\_yandex\chat_deploy\node_modules\queue-microtask\index.js133238060186212051 0
 77D:\_yandex\chat_deploy\node_modules\autoprefixer\lib\hacks\justify-content.js133238060257362090 0
 79D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\BarProp.js133238060262082067 0
@@ -2362,7 +2362,7 @@
 62D:\_yandex\chat_deploy\node_modules\glob-to-regexp\.travis.yml133238060205092079 0
 84D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\helpers\validate-names.js133238060290722082 0
 114D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\table\dist\alignTableData.js.flow133238060192922017 0
-64D:\_yandex\chat_deploy\node_modules\functions-have-names\.github133238060225512068 1
+64D:\_yandex\chat_deploy\node_modules\functions-have-names\.github133242206226078089 1
 84D:\_yandex\chat_deploy\node_modules\stylehacks\node_modules\postcss\lib\warn-once.js133238060247192100 0
 43D:\_yandex\chat_deploy\node_modules\flatted133242206217578110 1
 114D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fast-glob\out\types\patterns.d.ts133238060249532039 0
@@ -2422,7 +2422,7 @@
 77D:\_yandex\chat_deploy\node_modules\stylehacks\dist\plugins\htmlFirstChild.js133238060233182078 0
 65D:\_yandex\chat_deploy\node_modules\update-browserslist-db\cli.js133238060191062041 0
 47D:\_yandex\chat_deploy\node_modules\graceful-fs133242206244078123 1
-64D:\_yandex\chat_deploy\node_modules\postcss-normalize-whitespace133242206781908097 1
+64D:\_yandex\chat_deploy\node_modules\postcss-normalize-whitespace133242206782018172 1
 81D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss\lib\stringifier.js133238060243292055 0
 43D:\_yandex\chat_deploy\node_modules\getpass133242206232968109 1
 70D:\_yandex\chat_deploy\node_modules\postcss-sorting\lib\getComments.js133238060212282081 0
@@ -2509,8 +2509,8 @@
 73D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\no-useless-rename.js133238060293512114 0
 53D:\_yandex\chat_deploy\node_modules\yaml\types\set.js133238060253612009 0
 63D:\_yandex\chat_deploy\node_modules\write-file-atomic\README.md133238060198112103 0
-74D:\_yandex\chat_deploy\node_modules\postcss-normalize-unicode\node_modules133242206769515356 1
-142D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-block-no-duplicate-properties133242207326131186 1
+74D:\_yandex\chat_deploy\node_modules\postcss-normalize-unicode\node_modules133242206774695594 1
+142D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-block-no-duplicate-properties133242207326171248 1
 61D:\_yandex\chat_deploy\node_modules\lodash\_baseDifference.js133238060251682050 0
 88D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets\lib\options.js.map133238060226082067 0
 49D:\_yandex\chat_deploy\node_modules\table\LICENSE133238060179972019 0
@@ -2541,7 +2541,7 @@
 63D:\_yandex\chat_deploy\node_modules\performance-now\license.txt133238060214562011 0
 94D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-bang-space-after\README.md133238060303072071 0
 44D:\_yandex\chat_deploy\node_modules\inherits133242206294065489 1
-50D:\_yandex\chat_deploy\node_modules\snapdragon\lib133242207007170392 1
+50D:\_yandex\chat_deploy\node_modules\snapdragon\lib133242207007210403 1
 63D:\_yandex\chat_deploy\node_modules\util-deprecate\package.json133238060179862045 0
 120D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\utils\atRuleParamIndex.js133238060303432033 0
 76D:\_yandex\chat_deploy\node_modules\remark-parse\lib\tokenize\code-inline.js133238060242782047 0
@@ -2625,7 +2625,7 @@
 46D:\_yandex\chat_deploy\node_modules\is-extglob133242206315897715 1
 73D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\x\ccc\index.js133238060255862044 0
 106D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\container.js133238060230032118 0
-68D:\_yandex\chat_deploy\node_modules\has-property-descriptors\.github133238060222112093 1
+68D:\_yandex\chat_deploy\node_modules\has-property-descriptors\.github133242206268315512 1
 48D:\_yandex\chat_deploy\node_modules\loose-envify133242206524465896 1
 139D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\media-feature-name-no-unknown\index.js133238060288622069 0
 65D:\_yandex\chat_deploy\node_modules\@babel\highlight\package.json133238060199232061 0
@@ -2747,7 +2747,7 @@
 55D:\_yandex\chat_deploy\node_modules\negotiator\index.js133238060198522057 0
 40D:\_yandex\chat_deploy\node_modules\jsbn133242206367652687 1
 95D:\_yandex\chat_deploy\node_modules\postcss-reduce-transforms\node_modules\postcss\package.json133238060248832046 0
-56D:\_yandex\chat_deploy\node_modules\msgpackr-extract\bin133238060198782087 1
+56D:\_yandex\chat_deploy\node_modules\msgpackr-extract\bin133242206549399321 1
 59D:\_yandex\chat_deploy\node_modules\terser\tools\props.html133238060211092088 0
 102D:\_yandex\chat_deploy\node_modules\postcss-unique-selectors\node_modules\postcss\lib\map-generator.js133238060229762030 0
 89D:\_yandex\chat_deploy\node_modules\@parcel\transformer-postcss\src\PostCSSTransformer.js133238060224592056 0
@@ -2777,7 +2777,7 @@
 144D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-descendant-combinator-no-non-space133242207375357095 1
 102D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules\postcss\lib\stringifier.js133238060243362037 0
 44D:\_yandex\chat_deploy\node_modules\react-is133242206924115844 1
-51D:\_yandex\chat_deploy\node_modules\spdx-exceptions133242207029170391 1
+51D:\_yandex\chat_deploy\node_modules\spdx-exceptions133242207029210396 1
 67D:\_yandex\chat_deploy\node_modules\source-map-resolve\package.json133238060211162046 0
 67D:\_yandex\chat_deploy\node_modules\eslint-plugin-import\docs\rules133242206106203871 1
 52D:\_yandex\chat_deploy\node_modules\coa\README.ru.md133238060211692098 0
@@ -2792,7 +2792,7 @@
 42D:\_yandex\chat_deploy\node_modules\jsprim133242206426833753 1
 105D:\_yandex\chat_deploy\node_modules\vfile-message\node_modules\unist-util-stringify-position\package.json133238060198102022 0
 58D:\_yandex\chat_deploy\node_modules\lodash\differenceBy.js133238060298842064 0
-49D:\_yandex\chat_deploy\node_modules\jsx-ast-utils133242206433643789 1
+49D:\_yandex\chat_deploy\node_modules\jsx-ast-utils133242206439403957 1
 117D:\_yandex\chat_deploy\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\selectors\pseudo.js133238060236782053 0
 81D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-select\index.js133238060204852057 0
 55D:\_yandex\chat_deploy\node_modules\whatwg-mimetype\lib133242207634292531 1
@@ -2859,7 +2859,7 @@
 58D:\_yandex\chat_deploy\node_modules\postcss-syntax\LICENSE133238060209212071 0
 68D:\_yandex\chat_deploy\node_modules\object.getownpropertydescriptors133242206595903008 1
 60D:\_yandex\chat_deploy\node_modules\mathml-tag-names\license133238060180792032 0
-120D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\number-leading-zero133242207365717077 1
+120D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\number-leading-zero133242207365757003 1
 101D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\vocabularies\validation\limitItems.js133238060261352080 0
 112D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\vocabularies\unevaluated\unevaluatedItems.js.map133238060287632038 0
 110D:\_yandex\chat_deploy\node_modules\postcss-normalize-positions\node_modules\postcss-value-parser\lib\parse.js133238060206272069 0
@@ -2985,7 +2985,7 @@
 75D:\_yandex\chat_deploy\node_modules\stylelint\lib\utils\atRuleParamIndex.js133238060225752073 0
 86D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\dom-serializer\README.md133238060203902117 0
 58D:\_yandex\chat_deploy\node_modules\util-deprecate\LICENSE133238060191042048 0
-71D:\_yandex\chat_deploy\node_modules\parse5\lib\extensions\location-info133242206611132981 1
+71D:\_yandex\chat_deploy\node_modules\parse5\lib\extensions\location-info133242206611173011 1
 42D:\_yandex\chat_deploy\node_modules\rimraf133242206985620387 1
 68D:\_yandex\chat_deploy\node_modules\tsconfig-paths\lib\try-path.d.ts133238060246662048 0
 70D:\_yandex\chat_deploy\node_modules\string.prototype.trimstart\shim.js133238060226942049 0
@@ -3011,7 +3011,7 @@
 46D:\_yandex\chat_deploy\node_modules\sass\types133242206992450394 1
 64D:\_yandex\chat_deploy\node_modules\typescript\lib\typesMap.json133238060313532146 0
 93D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\lib\rules\destructuring-assignment.js133238060231212042 0
-53D:\_yandex\chat_deploy\node_modules\call-bind\.github133238060229582054 1
+53D:\_yandex\chat_deploy\node_modules\call-bind\.github133242205786230725 1
 59D:\_yandex\chat_deploy\node_modules\style-search\.npmignore133238060185972021 0
 51D:\_yandex\chat_deploy\node_modules\stylelint-order133242207424884675 1
 81D:\_yandex\chat_deploy\node_modules\eslint-config-airbnb\test\test-react-order.js133238060231862027 0
@@ -3062,7 +3062,7 @@
 93D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\lib\tokenizer\const.js133238060239622080 0
 108D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-property-value-disallowed-list\README.md133238060303982090 0
 55D:\_yandex\chat_deploy\node_modules\lodash\takeRight.js133238060315212083 0
-62D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values133242206709866755 1
+62D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values133242206710276725 1
 67D:\_yandex\chat_deploy\node_modules\@parcel\transformer-css\LICENSE133238060181592064 0
 46D:\_yandex\chat_deploy\node_modules\optionator133242206601203057 1
 43D:\_yandex\chat_deploy\node_modules\p-limit133242206604102997 1
@@ -3149,10 +3149,10 @@
 78D:\_yandex\chat_deploy\node_modules\@parcel\core\lib\requests\TargetRequest.js133238060280102092 0
 109D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133238060272452049 0
 85D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\MimeTypeArray.js133238060284912050 0
-43D:\_yandex\chat_deploy\node_modules\postcss133242206627513079 1
+43D:\_yandex\chat_deploy\node_modules\postcss133242206630092992 1
 81D:\_yandex\chat_deploy\node_modules\tsconfig-paths\src\__tests__\try-path.test.ts133238060262162029 0
 66D:\_yandex\chat_deploy\node_modules\domutils\lib\querying.d.ts.map133238060234752116 0
-60D:\_yandex\chat_deploy\node_modules\postcss-discard-comments133242206650784615 1
+60D:\_yandex\chat_deploy\node_modules\postcss-discard-comments133242206651044568 1
 74D:\_yandex\chat_deploy\node_modules\yaml\browser\dist\warnings-df54cb69.js133238060258092083 0
 86D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\multirepo\packages\package-b133242206976185755 1
 98D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\lib\syntax\node\Declaration.js133238060282692155 0
@@ -3192,14 +3192,14 @@
 52D:\_yandex\chat_deploy\node_modules\postcss-markdown133242206690098456 1
 86D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\data\patch.json133238060278922083 0
 116D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\normalize-package-data\package.json133238060180042030 0
-58D:\_yandex\chat_deploy\node_modules\postcss-merge-longhand133242206693118521 1
+58D:\_yandex\chat_deploy\node_modules\postcss-merge-longhand133242206695728500 1
 89D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\lib\vocabularies\core\index.ts133238060296322082 0
 60D:\_yandex\chat_deploy\node_modules\postcss-minify-gradients133242206715960208 1
 82D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss\lib\previous-map.js133238060237692057 0
 109D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\docs\user-guide.md133238060239422011 0
 81D:\_yandex\chat_deploy\node_modules\@babel\core\lib\vendor\import-meta-resolve.js133238060275792059 0
 90D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\domutils\lib\manipulation.js133238060218702034 0
-57D:\_yandex\chat_deploy\node_modules\postcss-minify-params133242206719480222 1
+57D:\_yandex\chat_deploy\node_modules\postcss-minify-params133242206719570256 1
 83D:\_yandex\chat_deploy\node_modules\aria-query\lib\etc\roles\dpub\docChapterRole.js133238060252672032 0
 63D:\_yandex\chat_deploy\node_modules\tsconfig-paths\CHANGELOG.md133238060179932098 0
 100D:\_yandex\chat_deploy\node_modules\read-pkg\node_modules\normalize-package-data\lib\make_warning.js133238060215402062 0
@@ -3225,10 +3225,10 @@
 80D:\_yandex\chat_deploy\node_modules\aria-query\lib\etc\roles\literal\noneRole.js133238060272852043 0
 56D:\_yandex\chat_deploy\node_modules\yaml\types\binary.js133238060194472053 0
 90D:\_yandex\chat_deploy\node_modules\postcss-minify-params\node_modules\picocolors\types.ts133238060213312019 0
-70D:\_yandex\chat_deploy\node_modules\postcss-normalize-timing-functions133242206762174818 1
+70D:\_yandex\chat_deploy\node_modules\postcss-normalize-timing-functions133242206762494749 1
 57D:\_yandex\chat_deploy\node_modules\cssnano\quickstart.js133238060193352135 0
 53D:\_yandex\chat_deploy\node_modules\set-value\LICENSE133238060191452051 0
-57D:\_yandex\chat_deploy\node_modules\postcss-normalize-url133242206775485319 1
+57D:\_yandex\chat_deploy\node_modules\postcss-normalize-url133242206775585381 1
 75D:\_yandex\chat_deploy\node_modules\table\dist\src\calculateRowHeights.d.ts133238060266382080 0
 135D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-pseudo-element-no-unknown133242207391016538 1
 67D:\_yandex\chat_deploy\node_modules\esquery\dist\esquery.min.js.map133238060243622015 0
@@ -3242,12 +3242,12 @@
 72D:\_yandex\chat_deploy\node_modules\es-abstract\2018\NumberToRawBytes.js133238060313842060 0
 82D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\max-nesting-depth\index.js133238060283732092 0
 115D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\table\dist\makeStreamConfig.js.map133238060260992094 0
-58D:\_yandex\chat_deploy\node_modules\postcss-ordered-values133242206788512592 1
+58D:\_yandex\chat_deploy\node_modules\postcss-ordered-values133242206789752520 1
 59D:\_yandex\chat_deploy\node_modules\aria-query\lib\index.js133238060266682119 0
 56D:\_yandex\chat_deploy\node_modules\iconv-lite\encodings133242206287315517 1
 107D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\dependencies.js.map133238060282362035 0
 82D:\_yandex\chat_deploy\node_modules\handlebars\lib\handlebars\decorators\inline.js133238060269632052 0
-58D:\_yandex\chat_deploy\node_modules\postcss-reduce-initial133242206794802623 1
+58D:\_yandex\chat_deploy\node_modules\postcss-reduce-initial133242206794902617 1
 141D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\function-url-no-scheme-relative\index.js133238060286162080 0
 110D:\_yandex\chat_deploy\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\main.js133238060259342076 0
 54D:\_yandex\chat_deploy\node_modules\lodash\defaults.js133238060298092015 0
@@ -3271,13 +3271,13 @@
 125D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\max-line-length\index.js133238060287852119 0
 58D:\_yandex\chat_deploy\node_modules\is-bigint\package.json133238060214682045 0
 74D:\_yandex\chat_deploy\node_modules\eslint-config-airbnb\test\test-base.js133238060230522050 0
-48D:\_yandex\chat_deploy\node_modules\postcss-scss133242206819312589 1
+48D:\_yandex\chat_deploy\node_modules\postcss-scss133242206819962621 1
 81D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\nodes\Slotable-impl.js133238060300302049 0
-43D:\_yandex\chat_deploy\node_modules\request133242206954925783 1
+43D:\_yandex\chat_deploy\node_modules\request133242206956445767 1
 52D:\_yandex\chat_deploy\node_modules\mime\src\test.js133238060222022059 0
 92D:\_yandex\chat_deploy\node_modules\@csstools\media-query-list-parser\dist\parser\parse.d.ts133238060248932181 0
 124D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\custom-property-pattern133242207325231229 1
-48D:\_yandex\chat_deploy\node_modules\postcss-svgo133242206832692591 1
+48D:\_yandex\chat_deploy\node_modules\postcss-svgo133242206833942578 1
 77D:\_yandex\chat_deploy\node_modules\read-pkg-up\node_modules\find-up\index.js133238060191552092 0
 97D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\rimraf\README.md133238060196332032 0
 120D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\postcss-sorting\lib\isCustomProperty.js133238060234292105 0
@@ -3346,7 +3346,7 @@
 55D:\_yandex\chat_deploy\node_modules\react-error-overlay133242206922365795 1
 109D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules\postcss\lib\terminal-highlight.js133238060244842056 0
 48D:\_yandex\chat_deploy\node_modules\js-yaml\dist133242206364312605 1
-92D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-block-trailing-semicolon133242207098230377 1
+92D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-block-trailing-semicolon133242207098280383 1
 99D:\_yandex\chat_deploy\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\bar.js133238060220652081 0
 85D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\input-file-multiple.js133238060300342056 0
 112D:\_yandex\chat_deploy\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\combinator.js133238060199412080 0
@@ -3379,13 +3379,13 @@
 77D:\_yandex\chat_deploy\node_modules\svgo\plugins\addAttributesToSVGElement.js133238060219942033 0
 88D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\viewport-unit-variants.js133238060312702048 0
 82D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\value-list-max-empty-lines133242207162740550 1
-43D:\_yandex\chat_deploy\node_modules\regexpp133242206942125786 1
+43D:\_yandex\chat_deploy\node_modules\regexpp133242206942175762 1
 45D:\_yandex\chat_deploy\node_modules\relateurl133242206942405839 1
 116D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\normalize-package-data\lib\fixer.js133238060211112074 0
 82D:\_yandex\chat_deploy\node_modules\handlebars\dist\cjs\handlebars\compiler\ast.js133238060219592037 0
 67D:\_yandex\chat_deploy\node_modules\@parcel\core\test\utils.test.js133238060281462050 0
 96D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\argparse\lib\action\store\false.js133238060233472056 0
-94D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\rule-selector-property-disallowed-list133242207136450494 1
+94D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\rule-selector-property-disallowed-list133242207136490511 1
 108D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\camelcase-keys\package.json133238060180092076 0
 85D:\_yandex\chat_deploy\node_modules\aria-query\lib\etc\roles\dpub\docPagebreakRole.js133238060259382108 0
 42D:\_yandex\chat_deploy\node_modules\remark133242206944715776 1
@@ -3432,7 +3432,7 @@
 72D:\_yandex\chat_deploy\node_modules\validate-npm-package-license\LICENSE133238060191052018 0
 47D:\_yandex\chat_deploy\node_modules\resolve-url133242206980860380 1
 78D:\_yandex\chat_deploy\node_modules\jsdom\node_modules\prelude-ls\package.json133238060180872079 0
-130D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-bang-space-before133242207326021324 1
+130D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-bang-space-before133242207326061186 1
 94D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\media-feature-range-notation\README.md133238060305902103 0
 39D:\_yandex\chat_deploy\node_modules\ret133242206982490365 1
 70D:\_yandex\chat_deploy\node_modules\svgo\plugins\convertShapeToPath.js133238060241122038 0
@@ -3516,7 +3516,7 @@
 79D:\_yandex\chat_deploy\node_modules\@jridgewell\set-array\dist\set-array.umd.js133238060188502059 0
 56D:\_yandex\chat_deploy\node_modules\yaml\browser\util.js133238060256742084 0
 100D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\postcss-safe-parser133242207277680897 1
-91D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-url-scheme-disallowed-list133242207111090329 1
+91D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-url-scheme-disallowed-list133242207111130387 1
 104D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\node_modules\picocolors\picocolors.browser.js133238060187092108 0
 49D:\_yandex\chat_deploy\node_modules\source-map-js133242207025140347 1
 141D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\font-family-no-duplicate-names\README.md133238060283912087 0
@@ -3553,7 +3553,7 @@
 68D:\_yandex\chat_deploy\node_modules\yaml\dist\resolveSeq-d03cb037.js133238060248312037 0
 97D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\domhandler\test\cases\01-basic.json133238060221092069 0
 57D:\_yandex\chat_deploy\node_modules\lmdb\dependencies\lz4133242206461890444 1
-52D:\_yandex\chat_deploy\node_modules\spdx-license-ids133242207030280380 1
+52D:\_yandex\chat_deploy\node_modules\spdx-license-ids133242207030320442 1
 61D:\_yandex\chat_deploy\node_modules\state-toggle\package.json133238060191392051 0
 65D:\_yandex\chat_deploy\node_modules\eslint-config-airbnb\.babelrc133238060181212078 0
 50D:\_yandex\chat_deploy\node_modules\yaml\scalar.js133238060249542066 0
@@ -3752,7 +3752,7 @@
 49D:\_yandex\chat_deploy\node_modules\unist-util-is133242207603482484 1
 102D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\astral-regex\index.js133238060185932172 0
 51D:\_yandex\chat_deploy\node_modules\uniqs\README.md133238060185712042 0
-127D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-pseudo-class-case133242207388436706 1
+127D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-pseudo-class-case133242207388476590 1
 72D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\dot_slash_main133242206972975823 1
 62D:\_yandex\chat_deploy\node_modules\unist-util-remove-position133242207604722497 1
 45D:\_yandex\chat_deploy\node_modules\word-wrap133242207639892536 1
@@ -3950,7 +3950,7 @@
 68D:\_yandex\chat_deploy\node_modules\@swc\helpers\lib\_ts_decorate.js133238060265402019 0
 100D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\at-mixin-argumentless-call-parentheses133242207433314751 1
 75D:\_yandex\chat_deploy\node_modules\es-abstract\2019\IsSharedArrayBuffer.js133238060309192082 0
-69D:\_yandex\chat_deploy\node_modules\string.prototype.matchall\.github133238060236442037 1
+69D:\_yandex\chat_deploy\node_modules\string.prototype.matchall\.github133242207052630335 1
 55D:\_yandex\chat_deploy\node_modules\lodash\isInteger.js133238060307032085 0
 45D:\_yandex\chat_deploy\node_modules\jsesc\man133242206417543790 1
 50D:\_yandex\chat_deploy\node_modules\yaml\README.md133238060258902062 0
@@ -4099,7 +4099,7 @@
 132D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-colon-newline-after133242207331341220 1
 51D:\_yandex\chat_deploy\node_modules\xxhash-wasm\umd133242207649312474 1
 93D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\refs\json-schema-2019-09\meta133242207482225783 1
-61D:\_yandex\chat_deploy\node_modules\remark-stringify\lib\util133242206951595772 1
+61D:\_yandex\chat_deploy\node_modules\remark-stringify\lib\util133242206951635750 1
 137D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\function-comma-space-before\index.js133238060285332068 0
 66D:\_yandex\chat_deploy\node_modules\xxhash-wasm\umd\xxhash-wasm.js133238060196132084 0
 51D:\_yandex\chat_deploy\node_modules\ret\lib\util.js133238060218652123 0
@@ -4371,7 +4371,7 @@
 93D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\js-yaml\lib\js-yaml\type\seq.js133238060251152095 0
 61D:\_yandex\chat_deploy\node_modules\es-abstract\2020\floor.js133238060296612038 0
 116D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\postcss-selector-parser\LICENSE-MIT133238060180022052 0
-71D:\_yandex\chat_deploy\node_modules\postcss-convert-values\node_modules133242206646964569 1
+71D:\_yandex\chat_deploy\node_modules\postcss-convert-values\node_modules133242206650034562 1
 101D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\strip-ansi\readme.md133238060202902050 0
 62D:\_yandex\chat_deploy\node_modules\whatwg-url\lib\URL-impl.js133238060192872086 0
 71D:\_yandex\chat_deploy\node_modules\whatwg-url\lib\url-state-machine.js133238060201442117 0
@@ -4602,7 +4602,7 @@
 50D:\_yandex\chat_deploy\node_modules\verror\LICENSE133238060198102022 0
 57D:\_yandex\chat_deploy\node_modules\svgo\lib\css-tools.js133238060246322124 0
 112D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\docs\docs\060-contribute.md133238060262252072 0
-57D:\_yandex\chat_deploy\node_modules\postcss-svgo\dist\lib133238060193032062 1
+57D:\_yandex\chat_deploy\node_modules\postcss-svgo\dist\lib133242206833292543 1
 90D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\lib\util\implicitRoles\aside.js133238060245762050 0
 64D:\_yandex\chat_deploy\node_modules\postcss-value-parser\LICENSE133238060180372059 0
 55D:\_yandex\chat_deploy\node_modules\verror\node_modules133242207624142529 1
@@ -5220,7 +5220,7 @@
 112D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\table\dist\truncateTableData.js133238060254202034 0
 115D:\_yandex\chat_deploy\node_modules\static-extend\node_modules\is-data-descriptor\node_modules\kind-of\package.json133238060180152065 0
 56D:\_yandex\chat_deploy\node_modules\union-value\index.js133238060185712042 0
-48D:\_yandex\chat_deploy\node_modules\gopd\.github133238060218902046 1
+48D:\_yandex\chat_deploy\node_modules\gopd\.github133242206243588073 1
 81D:\_yandex\chat_deploy\node_modules\aria-query\lib\etc\roles\dpub\docCoverRole.js133238060253792029 0
 85D:\_yandex\chat_deploy\node_modules\axobject-query\lib\etc\objects\AlertDialogRole.js133238060195892013 0
 88D:\_yandex\chat_deploy\node_modules\sugarss\node_modules\postcss\lib\css-syntax-error.js133238060211132076 0
@@ -5368,7 +5368,7 @@
 60D:\_yandex\chat_deploy\node_modules\safe-regex\test\regex.js133238060215342091 0
 59D:\_yandex\chat_deploy\node_modules\handlebars\runtime.d.ts133238060281752054 0
 104D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\comment.js133238060252542035 0
-81D:\_yandex\chat_deploy\node_modules\postcss-normalize-display-values\node_modules133242206739582127 1
+81D:\_yandex\chat_deploy\node_modules\postcss-normalize-display-values\node_modules133242206741802070 1
 109D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\constructors.js133238060252942101 0
 59D:\_yandex\chat_deploy\node_modules\es-abstract\2020\abs.js133238060242302041 0
 103D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\guards.js133238060253762077 0
@@ -5379,11 +5379,11 @@
 92D:\_yandex\chat_deploy\node_modules\postcss-merge-longhand\node_modules\postcss\package.json133238060248882042 0
 59D:\_yandex\chat_deploy\node_modules\es-abstract\2018\Day.js133238060288132067 0
 151D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-block-no-redundant-longhand-properties133242207326361208 1
-68D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\navigator133242206394826666 1
+68D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\navigator133242206394866690 1
 57D:\_yandex\chat_deploy\node_modules\object.pick\README.md133238060186532025 0
 71D:\_yandex\chat_deploy\node_modules\sass\types\value\argument_list.d.ts133238060261962016 0
 114D:\_yandex\chat_deploy\node_modules\postcss-normalize-display-values\node_modules\postcss-value-parser\lib\walk.js133238060219402063 0
-49D:\_yandex\chat_deploy\dist\index.5074aba6.js.map133242214244243547 0
+49D:\_yandex\chat_deploy\dist\index.5074aba6.js.map133242225962755792 0
 106D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\namespace.js133238060254912087 0
 91D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\no-descending-specificity\README.md133238060306212035 0
 54D:\_yandex\chat_deploy\node_modules\esrecurse\.babelrc133238060181142050 0
@@ -5444,7 +5444,7 @@
 81D:\_yandex\chat_deploy\node_modules\log-symbols\node_modules\ansi-styles\index.js133238060186632092 0
 69D:\_yandex\chat_deploy\node_modules\es-abstract\2017\SameValueZero.js133238060320062049 0
 74D:\_yandex\chat_deploy\node_modules\uncss\node_modules\postcss\lib\node.js133238060231992088 0
-89D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\docs133242205516805561 1
+89D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\docs133242205517755554 1
 58D:\_yandex\chat_deploy\node_modules\immutable\package.json133238060230562148 0
 54D:\_yandex\chat_deploy\node_modules\http-signature\lib133242206286605542 1
 112D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\dot_main\package.json133238060269702038 0
@@ -5527,7 +5527,7 @@
 51D:\_yandex\chat_deploy\node_modules\uglify-js\tools133242207582280404 1
 78D:\_yandex\chat_deploy\node_modules\stylelint\lib\utils\isSharedLineComment.js133238060295762049 0
 62D:\_yandex\chat_deploy\node_modules\uglify-js\tools\exports.js133238060236122062 0
-124D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\media-feature-name-case133242207351768658 1
+124D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\media-feature-name-case133242207351808675 1
 118D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\lib\modules\removeOptionalTags.js133238060245242045 0
 97D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-colon-newline-after\README.md133238060303532040 0
 73D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\chalk\types133242206841722662 1
@@ -5609,7 +5609,7 @@
 58D:\_yandex\chat_deploy\node_modules\lodash\_LazyWrapper.js133238060285832093 0
 77D:\_yandex\chat_deploy\node_modules\typescript\lib\lib.es2015.collection.d.ts133238060313882016 0
 71D:\_yandex\chat_deploy\node_modules\typescript\lib\lib.es2015.core.d.ts133238060313942048 0
-62D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\cjs\container133242206345757694 1
+62D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\cjs\container133242206348957859 1
 68D:\_yandex\chat_deploy\node_modules\svgo\plugins\sortDefsChildren.js133238060262122117 0
 66D:\_yandex\chat_deploy\node_modules\typescript\lib\lib.es2015.d.ts133238060313972066 0
 65D:\_yandex\chat_deploy\node_modules\mdn-data\api\inheritance.json133238060231192070 0
@@ -5768,7 +5768,7 @@
 92D:\_yandex\chat_deploy\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.glibc.node133238060257692172 0
 114D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fast-glob\out\managers\options.js133238060234312109 0
 53D:\_yandex\chat_deploy\node_modules\typescript\lib\ru133242207579860425 1
-97D:\_yandex\chat_deploy\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist133242206706148480 1
+97D:\_yandex\chat_deploy\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist133242206706198531 1
 81D:\_yandex\chat_deploy\node_modules\object-copy\node_modules\kind-of\package.json133238060180702106 0
 71D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\mdn-data\api133242207209169264 1
 53D:\_yandex\chat_deploy\node_modules\typescript\lib\tr133242207579930335 1
@@ -5835,7 +5835,7 @@
 64D:\_yandex\chat_deploy\node_modules\typed-array-length\README.md133238060219252031 0
 93D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\node_modules\postcss\lib\parser.js133238060235382052 0
 61D:\_yandex\chat_deploy\node_modules\strip-indent\package.json133238060180132085 0
-65D:\_yandex\chat_deploy\node_modules\postcss-colormin\node_modules133242206641314601 1
+65D:\_yandex\chat_deploy\node_modules\postcss-colormin\node_modules133242206643754682 1
 115D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\unit-blacklist133242207395186640 1
 139D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\media-feature-name-whitelist\README.md133238060289112100 0
 86D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-not-notation\index.js133238060289582071 0
@@ -5859,7 +5859,7 @@
 53D:\_yandex\chat_deploy\node_modules\type-is\README.md133238060202852086 0
 63D:\_yandex\chat_deploy\node_modules\express\lib\router\layer.js133238060218922093 0
 58D:\_yandex\chat_deploy\node_modules\side-channel\.eslintrc133238060186122109 0
-129D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\value-list-comma-space-after133242207399744722 1
+129D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\value-list-comma-space-after133242207399794812 1
 95D:\_yandex\chat_deploy\node_modules\read-pkg\node_modules\type-fest\source\merge-exclusive.d.ts133238060219342083 0
 58D:\_yandex\chat_deploy\node_modules\acorn-globals\index.js133238060187322045 0
 55D:\_yandex\chat_deploy\node_modules\type-fest\base.d.ts133238060211982084 0
@@ -5879,7 +5879,7 @@
 55D:\_yandex\chat_deploy\node_modules\type-fest\readme.md133238060193622061 0
 78D:\_yandex\chat_deploy\node_modules\cssstyle\lib\properties\borderLeftWidth.js133238060249032090 0
 98D:\_yandex\chat_deploy\node_modules\postcss-unique-selectors\node_modules\postcss\lib\stringify.js133238060243992054 0
-46D:\_yandex\chat_deploy\node_modules\nanoid\bin133238060223922073 1
+46D:\_yandex\chat_deploy\node_modules\nanoid\bin133242206550299067 1
 59D:\_yandex\chat_deploy\node_modules\define-property\LICENSE133238060192442032 0
 100D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\anyOf.js.map133238060281512052 0
 52D:\_yandex\chat_deploy\node_modules\type-fest\source133242207567860384 1
@@ -5907,8 +5907,8 @@
 100D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133238060279292154 0
 86D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\lib\vocabularies\applicator133242207522012962 1
 63D:\_yandex\chat_deploy\node_modules\type-fest\source\basic.d.ts133238060216472090 0
-56D:\_yandex\chat_deploy\node_modules\safe-regex-test\test133238060196622076 1
-59D:\_yandex\chat_deploy\node_modules\is-array-buffer\.github133238060222852079 1
+56D:\_yandex\chat_deploy\node_modules\safe-regex-test\test133242206989740494 1
+59D:\_yandex\chat_deploy\node_modules\is-array-buffer\.github133242206301265782 1
 65D:\_yandex\chat_deploy\node_modules\react-error-overlay\README.md133238060222662139 0
 74D:\_yandex\chat_deploy\node_modules\type-fest\source\conditional-keys.d.ts133238060226152134 0
 93D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\supports-color\package.json133238060180432062 0
@@ -6132,7 +6132,7 @@
 97D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\braces\README.md133238060199392093 0
 90D:\_yandex\chat_deploy\node_modules\@babel\runtime\helpers\objectWithoutPropertiesLoose.js133238060281632049 0
 81D:\_yandex\chat_deploy\node_modules\tsconfig-paths\lib\__tests__\try-path.test.js133238060259822018 0
-87D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\argparse\lib\action\store133242206838012660 1
+87D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\argparse\lib\action\store133242206838062582 1
 57D:\_yandex\chat_deploy\node_modules\neo-async\asyncify.js133238060236322020 0
 88D:\_yandex\chat_deploy\node_modules\tsconfig-paths\lib\__tests__\tsconfig-loader.test.js133238060260542054 0
 65D:\_yandex\chat_deploy\node_modules\table\dist\src\drawTable.d.ts133238060267662051 0
@@ -6455,7 +6455,7 @@
 80D:\_yandex\chat_deploy\node_modules\table\node_modules\json-schema-traverse\spec133242207532893661 1
 97D:\_yandex\chat_deploy\node_modules\postcss-reduce-transforms\node_modules\postcss\lib\comment.js133238060193062050 0
 54D:\_yandex\chat_deploy\node_modules\lodash\fp\sumBy.js133238060314872068 0
-50D:\_yandex\chat_deploy\node_modules\is-set\.github133238060229492052 1
+50D:\_yandex\chat_deploy\node_modules\is-set\.github133242206328477669 1
 86D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\js-yaml\lib\js-yaml\type133242206880030196 1
 97D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\operator-no-newline-before\index.js133238060273082118 0
 88D:\_yandex\chat_deploy\node_modules\axobject-query\lib\etc\objects\EmbeddedObjectRole.js133238060252552030 0
@@ -6665,7 +6665,7 @@
 65D:\_yandex\chat_deploy\node_modules\svgo\plugins\convertColors.js133238060237892087 0
 55D:\_yandex\chat_deploy\node_modules\isstream\.npmignore133238060186712049 0
 49D:\_yandex\chat_deploy\node_modules\.bin\svgo.ps1133238060332652101 0
-81D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\convertor133242207171600518 1
+81D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\convertor133242207171640496 1
 79D:\_yandex\chat_deploy\node_modules\eslint-config-airbnb-base\test\test-base.js133238060233032058 0
 96D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\lib\refs\json-schema-2020-12\index.ts133238060296032069 0
 100D:\_yandex\chat_deploy\node_modules\stylelint-order\rules\properties-alphabetical-order\checkNode.js133238060224732075 0
@@ -7218,7 +7218,7 @@
 80D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\runtime\equal.js133238060249332074 0
 69D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\eme.js133238060290652082 0
 105D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\file-entry-cache\LICENSE133238060198182078 0
-59D:\_yandex\chat_deploy\node_modules\fastq\.github\workflows133238060231202063 1
+59D:\_yandex\chat_deploy\node_modules\fastq\.github\workflows133242206211168089 1
 60D:\_yandex\chat_deploy\node_modules\ajv\lib\dot\validate.jst133238060269232043 0
 84D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\runtime\equal.js.map133238060283162024 0
 83D:\_yandex\chat_deploy\node_modules\stylelint-order\rules\checkAlphabeticalOrder.js133238060207692039 0
@@ -7233,7 +7233,7 @@
 80D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\runtime\re2.d.ts133238060300542103 0
 60D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\utils.js133238060302512128 0
 58D:\_yandex\chat_deploy\node_modules\split-string\README.md133238060198222077 0
-134D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-list-comma-newline-after133242207375677016 1
+134D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-list-comma-newline-after133242207375717109 1
 78D:\_yandex\chat_deploy\node_modules\table\node_modules\ajv\dist\runtime\re2.js133238060267212081 0
 80D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\utils\isInlineComment.js133238060275522062 0
 95D:\_yandex\chat_deploy\node_modules\snapdragon\node_modules\source-map\dist\source-map.debug.js133238060225842055 0
@@ -7454,7 +7454,7 @@
 91D:\_yandex\chat_deploy\node_modules\eslint-plugin-import\lib\rules\prefer-default-export.js133238060261452077 0
 67D:\_yandex\chat_deploy\node_modules\table\dist\src\drawTable.js.map133238060258522172 0
 75D:\_yandex\chat_deploy\node_modules\table\dist\src\getBorderCharacters.d.ts133238060267812064 0
-75D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules133242206710706691 1
+75D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules133242206712686681 1
 70D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\lib\eventHandlers.js133238060244182065 0
 105D:\_yandex\chat_deploy\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\tag.js133238060241322105 0
 81D:\_yandex\chat_deploy\node_modules\postcss-minify-gradients\node_modules\postcss133242206716560208 1
@@ -7537,7 +7537,7 @@
 124D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\docs\user-guide\postcss-plugin.md133238060248462044 0
 66D:\_yandex\chat_deploy\node_modules\es-abstract\helpers\IsArray.js133238060304902044 0
 82D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\symlinked\package\bar.js133238060238812052 0
-52D:\_yandex\chat_deploy\node_modules\js-yaml\lib\type133242206365472593 1
+52D:\_yandex\chat_deploy\node_modules\js-yaml\lib\type133242206365512567 1
 59D:\_yandex\chat_deploy\node_modules\table\dist\src\utils.js133238060246252056 0
 70D:\_yandex\chat_deploy\node_modules\table\dist\src\validateConfig.d.ts133238060272622091 0
 72D:\_yandex\chat_deploy\node_modules\table\dist\src\validateConfig.js.map133238060261952062 0
@@ -7645,7 +7645,7 @@
 85D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\SVGStringList.js133238060287902100 0
 78D:\_yandex\chat_deploy\node_modules\svgo\plugins\removeAttributesBySelector.js133238060254362086 0
 61D:\_yandex\chat_deploy\node_modules\readable-stream\README.md133238060244152087 0
-62D:\_yandex\chat_deploy\node_modules\request-promise-native\lib133238060191492017 1
+62D:\_yandex\chat_deploy\node_modules\request-promise-native\lib133242206960725824 1
 90D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\lib\tokenizer\utils.js133238060288422090 0
 90D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\node_modules\picocolors\types.ts133238060213272110 0
 80D:\_yandex\chat_deploy\node_modules\string.prototype.trimstart\implementation.js133238060209132091 0
@@ -7690,7 +7690,7 @@
 96D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules\postcss-value-parser133242206712866742 1
 141D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\selector-combinator-space-after\index.js133238060296412065 0
 119D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\@nodelib\fs.stat\out\providers\stat.js133238060227552051 0
-55D:\_yandex\chat_deploy\node_modules\stylelint\lib\utils133242207167950463 1
+55D:\_yandex\chat_deploy\node_modules\stylelint\lib\utils133242207167990488 1
 99D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\path-type\index.js133238060185842077 0
 52D:\_yandex\chat_deploy\node_modules\svgo\lib\path.js133238060252282086 0
 59D:\_yandex\chat_deploy\node_modules\svgo\lib\stringifier.js133238060262302064 0
@@ -7751,7 +7751,7 @@
 143D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\no-missing-end-of-source-newline\README.md133238060291982039 0
 80D:\_yandex\chat_deploy\node_modules\supports-preserve-symlinks-flag\package.json133238060214222066 0
 50D:\_yandex\chat_deploy\node_modules\lodash\fp\F.js133238060301262094 0
-51D:\_yandex\chat_deploy\node_modules\@babel\traverse133242205344894018 1
+51D:\_yandex\chat_deploy\node_modules\@babel\traverse133242205355031351 1
 77D:\_yandex\chat_deploy\node_modules\supports-preserve-symlinks-flag\README.md133238060221562087 0
 72D:\_yandex\chat_deploy\node_modules\supports-preserve-symlinks-flag\test133242207456754688 1
 68D:\_yandex\chat_deploy\node_modules\read-pkg-up\node_modules\find-up133242206931175761 1
@@ -7935,7 +7935,7 @@
 96D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\at-rule-conditional-no-parentheses133242207434464710 1
 92D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\lib\util\implicitRoles\details.js133238060254402015 0
 91D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\declaration-nested-properties133242207435114657 1
-73D:\_yandex\chat_deploy\node_modules\postcss-minify-gradients\node_modules133242206716400245 1
+73D:\_yandex\chat_deploy\node_modules\postcss-minify-gradients\node_modules133242206718750229 1
 93D:\_yandex\chat_deploy\node_modules\postcss-colormin\node_modules\postcss\lib\previous-map.js133238060237812038 0
 87D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\color-name\.npmignore133238060186282083 0
 71D:\_yandex\chat_deploy\node_modules\postcss-colormin\dist\keywords.json133238060210512067 0
@@ -8055,7 +8055,7 @@
 72D:\_yandex\chat_deploy\node_modules\postcss-merge-longhand\dist\index.js133238060198462045 0
 109D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\at-mixin-argumentless-call-parentheses\index.js133238060256572120 0
 87D:\_yandex\chat_deploy\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js133238060245222081 0
-121D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\number-max-precision133242207365827100 1
+121D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\number-max-precision133242207365867062 1
 95D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules\picocolors\types.ts133238060213312019 0
 108D:\_yandex\chat_deploy\node_modules\stylelint-scss\dist\rules\at-import-partial-extension-whitelist\index.js133238060255442029 0
 86D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets\lib\debug.js.map133238060199262058 0
@@ -8108,7 +8108,7 @@
 58D:\_yandex\chat_deploy\node_modules\entities\lib\generated133242205971398088 1
 73D:\_yandex\chat_deploy\node_modules\stylelint-order\utils\validateType.js133238060254332063 0
 55D:\_yandex\chat_deploy\node_modules\has-proto\.eslintrc133238060181022070 0
-67D:\_yandex\chat_deploy\node_modules\postcss-convert-values\dist\lib133238060210502063 1
+67D:\_yandex\chat_deploy\node_modules\postcss-convert-values\dist\lib133242206645084579 1
 66D:\_yandex\chat_deploy\node_modules\stylelint-order\rules\index.js133238060241972089 0
 143D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-block-semicolon-newline-before133242207328291196 1
 63D:\_yandex\chat_deploy\node_modules\stylelint-order\rules\order133242207422394673 1
@@ -8192,7 +8192,7 @@
 87D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\braces133242207224208988 1
 139D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\function-comma-newline-before\index.js133238060285072075 0
 90D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\camelcase133242207227289005 1
-91D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\color-name133242207230018990 1
+91D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\color-name133242207230058993 1
 121D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fast-glob\package\out\utils\pattern.d.ts133238060264542026 0
 101D:\_yandex\chat_deploy\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\index.js133238060252092109 0
 86D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\debug133242207230279020 1
@@ -8708,7 +8708,7 @@
 48D:\_yandex\chat_deploy\node_modules\esquery\dist133242206181458073 1
 147D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-block-single-line-max-declarations133242207329581269 1
 48D:\_yandex\chat_deploy\node_modules\posthtml\lib133242206905995781 1
-131D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-colon-space-before133242207331751264 1
+131D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-colon-space-before133242207331791223 1
 130D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-empty-line-before133242207332141251 1
 136D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\comment-empty-line-before\README.md133238060277302073 0
 52D:\_yandex\chat_deploy\node_modules\specificity\test133242207032260367 1
@@ -8743,7 +8743,7 @@
 57D:\_yandex\chat_deploy\node_modules\range-parser\index.js133238060191532010 0
 109D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\index.js133238060287152055 0
 105D:\_yandex\chat_deploy\node_modules\@ampproject\remapping\node_modules\@jridgewell\gen-mapping\dist\types133242205269210973 1
-120D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\length-zero-no-unit133242207347261243 1
+120D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\length-zero-no-unit133242207347301240 1
 59D:\_yandex\chat_deploy\node_modules\is-bigint\test\index.js133238060210622057 0
 95D:\_yandex\chat_deploy\node_modules\object-copy\node_modules\is-descriptor\node_modules\kind-of133242206582003008 1
 56D:\_yandex\chat_deploy\node_modules\iconv-lite\README.md133238060197292096 0
@@ -8858,7 +8858,7 @@
 75D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\.bin\svgo.ps1133238060332692139 0
 119D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\value-keyword-case133242207398554744 1
 76D:\_yandex\chat_deploy\node_modules\string.prototype.trimstart\test\index.js133238060221622064 0
-132D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\value-list-comma-newline-before133242207399104762 1
+132D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\value-list-comma-newline-before133242207399134687 1
 127D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\value-list-max-empty-lines133242207400474663 1
 82D:\_yandex\chat_deploy\node_modules\snapdragon-util\node_modules\is-buffer\LICENSE133238060191412038 0
 93D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\postcss\lib\previous-map.js133238060237722021 0
@@ -9148,7 +9148,7 @@
 83D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\AbortSignal.js133238060261132124 0
 159D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-block-no-shorthand-property-overrides\index.js133238060280462074 0
 151D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-block-no-duplicate-properties\index.js133238060279972057 0
-68D:\_yandex\chat_deploy\node_modules\postcss-merge-rules\node_modules133242206700318638 1
+68D:\_yandex\chat_deploy\node_modules\postcss-merge-rules\node_modules133242206705528505 1
 152D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-block-no-duplicate-properties\README.md133238060280102092 0
 139D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\declaration-bang-space-before\index.js133238060279742100 0
 71D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\chalk133242206806452547 1
@@ -9209,7 +9209,7 @@
 147D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\block-closing-brace-empty-line-before\index.js133238060269352049 0
 127D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\at-rule-whitelist\index.js133238060267772043 0
 128D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\at-rule-whitelist\README.md133238060267972060 0
-71D:\_yandex\chat_deploy\node_modules\postcss-merge-longhand\node_modules133242206696268494 1
+71D:\_yandex\chat_deploy\node_modules\postcss-merge-longhand\node_modules133242206698678517 1
 141D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\at-rule-semicolon-newline-after\index.js133238060266612112 0
 99D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\chalk\templates.js133238060210282063 0
 142D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\stylelint\lib\rules\at-rule-semicolon-newline-after\README.md133238060266812099 0
@@ -9346,7 +9346,7 @@
 79D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\tabindex-attr.js133238060311002144 0
 57D:\_yandex\chat_deploy\node_modules\cssnano\dist\index.js133238060188282064 0
 133D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\postcss-sorting\lib\createExpectedPropertiesOrder.js133238060225312051 0
-71D:\_yandex\chat_deploy\node_modules\postcss-ordered-values\node_modules133242206790942551 1
+71D:\_yandex\chat_deploy\node_modules\postcss-ordered-values\node_modules133242206793932829 1
 73D:\_yandex\chat_deploy\node_modules\postcss-media-query-parser\dist\nodes133242206692868466 1
 88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\mediaFeatureColonSpaceChecker.js133238060297822059 0
 115D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\postcss-sorting\lib\getComments.js133238060227522038 0
@@ -9375,7 +9375,7 @@
 57D:\_yandex\chat_deploy\node_modules\string-width\index.js133238060185982047 0
 115D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\postcss-sorting\lib\order\index.js133238060238502048 0
 71D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\lib\util\log.js133238060263152121 0
-60D:\_yandex\chat_deploy\node_modules\is-number-object\.github133238060225482049 1
+60D:\_yandex\chat_deploy\node_modules\is-number-object\.github133242206321617687 1
 66D:\_yandex\chat_deploy\node_modules\fast-glob\out\utils\pattern.js133238060239682101 0
 111D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\postcss-selector-parser\API.md133238060246062087 0
 80D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\README.md133238060279342065 0
@@ -9603,7 +9603,7 @@
 58D:\_yandex\chat_deploy\node_modules\lodash\fp\camelCase.js133238060293622081 0
 66D:\_yandex\chat_deploy\node_modules\eslint\lib\shared\ast-utils.js133238060237852061 0
 98D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\map-obj\readme.md133238060196382119 0
-58D:\_yandex\chat_deploy\node_modules\is-typed-array\.github133238060225472063 1
+58D:\_yandex\chat_deploy\node_modules\is-typed-array\.github133242206334197737 1
 72D:\_yandex\chat_deploy\node_modules\array.prototype.flat\test\shimmed.js133238060229182066 0
 66D:\_yandex\chat_deploy\node_modules\is-boolean-object\CHANGELOG.md133238060222832059 0
 101D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\locate-path\index.js133238060185862098 0
@@ -9753,7 +9753,7 @@
 100D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fill-range\index.js133238060198192045 0
 99D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fill-range\LICENSE133238060191292027 0
 70D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\no-extra-label.js133238060285462069 0
-104D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fill-range\node_modules133238060098868240 1
+104D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fill-range\node_modules133242207247998100 1
 104D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fill-range\package.json133238060180082033 0
 55D:\_yandex\chat_deploy\node_modules\postcss-jsx\LICENSE133238060180582023 0
 101D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fill-range\README.md133238060185922036 0
@@ -9862,7 +9862,7 @@
 65D:\_yandex\chat_deploy\node_modules\array.prototype.flat\index.js133238060219012015 0
 74D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\testfeat.js133238060311172062 0
 122D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fast-glob\out\providers\reader-async.d.ts133238060242032052 0
-82D:\_yandex\chat_deploy\node_modules\@humanwhocodes\object-schema\.github\workflows133242205406944259 1
+82D:\_yandex\chat_deploy\node_modules\@humanwhocodes\object-schema\.github\workflows133242205406984287 1
 62D:\_yandex\chat_deploy\node_modules\object.entries\polyfill.js133238060227102031 0
 120D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\fast-glob\out\providers\reader-async.js133238060243062082 0
 70D:\_yandex\chat_deploy\node_modules\@types\node\ts4.8\fs\promises.d.ts133238060280942119 0
@@ -9982,7 +9982,7 @@
 63D:\_yandex\chat_deploy\node_modules\stylelint\lib\lintSource.js133238060297632031 0
 62D:\_yandex\chat_deploy\node_modules\language-tags\package.json133238060180842052 0
 100D:\_yandex\chat_deploy\node_modules\stylelint-config-rational-order\node_modules\braces\lib\utils.js133238060219972045 0
-53D:\_yandex\chat_deploy\node_modules\is-bigint\.github133238060225502044 1
+53D:\_yandex\chat_deploy\node_modules\is-bigint\.github133242206302305529 1
 70D:\_yandex\chat_deploy\node_modules\handlebars\dist\amd\precompiler.js133238060276772106 0
 70D:\_yandex\chat_deploy\node_modules\relateurl\lib\relate\absolutize.js133238060232842072 0
 103D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\node_modules\postcss\lib\tokenize.js133238060245892073 0
@@ -10127,7 +10127,7 @@
 53D:\_yandex\chat_deploy\node_modules\kind-of\README.md133238060205022011 0
 86D:\_yandex\chat_deploy\node_modules\postcss\node_modules\nanoid\async\index.browser.js133238060224392026 0
 124D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\selector.js133238060238662086 0
-48D:\_yandex\chat_deploy\node_modules\aws4\.github133238060214882043 1
+48D:\_yandex\chat_deploy\node_modules\aws4\.github133242205765790672 1
 93D:\_yandex\chat_deploy\node_modules\read-pkg-up\node_modules\type-fest\source\promisable.d.ts133238060232252099 0
 69D:\_yandex\chat_deploy\node_modules\functions-have-names\CHANGELOG.md133238060219542043 0
 71D:\_yandex\chat_deploy\node_modules\es-abstract\2021\Number\subtract.js133238060322932031 0
@@ -10158,7 +10158,7 @@
 92D:\_yandex\chat_deploy\node_modules\meow\node_modules\type-fest\source\iterable-element.d.ts133238060233512038 0
 50D:\_yandex\chat_deploy\node_modules\lodash\some.js133238060313762051 0
 59D:\_yandex\chat_deploy\node_modules\strip-ansi\package.json133238060191342081 0
-72D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\dist133242207189497284 1
+72D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\dist133242207189547326 1
 85D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\.bin\resolve.cmd133238060332512034 0
 71D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\lib133242207203807531 1
 66D:\_yandex\chat_deploy\node_modules\es-abstract\2020\DateString.js133238060287842047 0
@@ -10288,7 +10288,7 @@
 84D:\_yandex\chat_deploy\node_modules\aria-query\lib\etc\roles\dpub\docGlossrefRole.js133238060258182096 0
 106D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-block-no-duplicate-properties\index.js133238060276232057 0
 88D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\lib\parser\create.js133238060281332097 0
-99D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-descendant-combinator-no-non-space133242207141830477 1
+99D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-descendant-combinator-no-non-space133242207141870511 1
 73D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\printer.js.map133238060258122065 0
 74D:\_yandex\chat_deploy\node_modules\es-abstract\2017\IsConcatSpreadable.js133238060305862049 0
 87D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\lib\parser\index.js133238060284702056 0
@@ -10359,7 +10359,7 @@
 78D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\walker133242207189077273 1
 87D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\utils\clone.cjs133238060235972060 0
 93D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\lib\util\implicitRoles\menuitem.js133238060277742108 0
-76D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-select\lib133242206844982576 1
+76D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-select\lib133242206845032584 1
 101D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\utils\create-custom-error.cjs133238060239812032 0
 89D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\nodes\HTMLOListElement-impl.js133238060297972039 0
 74D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\entities\lib133242206872610237 1
@@ -10458,7 +10458,7 @@
 59D:\_yandex\chat_deploy\node_modules\readable-stream\LICENSE133238060180312050 0
 103D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\syntax\node\NestingSelector.cjs133238060267712119 0
 56D:\_yandex\chat_deploy\node_modules\sprintf-js\README.md133238060191382029 0
-88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\no-missing-end-of-source-newline133242207132030492 1
+88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\no-missing-end-of-source-newline133242207132070459 1
 91D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\syntax\node\Nth.cjs133238060267862076 0
 92D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\cosmiconfig\dist133242205508265851 1
 96D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\css-tree\cjs\syntax\node\Operator.cjs133238060269262090 0
@@ -10590,7 +10590,7 @@
 84D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\cosmiconfig\dist\types.js133238060226952075 0
 91D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableColElement.js133238060283212075 0
 88D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\cosmiconfig\dist\types.js.map133238060248112051 0
-81D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\balanced-match\.github133238060203602105 1
+81D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\balanced-match\.github133242207168400573 1
 55D:\_yandex\chat_deploy\node_modules\fast-glob\README.md133238060249572051 0
 96D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\scope\index.js133238060262972069 0
 84D:\_yandex\chat_deploy\node_modules\stylelint\node_modules\balanced-match\LICENSE.md133238060191362024 0
@@ -10621,7 +10621,7 @@
 69D:\_yandex\chat_deploy\node_modules\stylelint\lib\needlessDisables.js133238060297962086 0
 78D:\_yandex\chat_deploy\node_modules\reusify\benchmarks\createNoCodeFunction.js133238060218662172 0
 74D:\_yandex\chat_deploy\node_modules\stylelint\lib\normalizeRuleSettings.js133238060298232033 0
-83D:\_yandex\chat_deploy\node_modules\postcss-ordered-values\node_modules\postcss\lib133242206792272574 1
+83D:\_yandex\chat_deploy\node_modules\postcss-ordered-values\node_modules\postcss\lib133242206792312566 1
 87D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-select\lib\pseudos.js133238060211352029 0
 108D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-block-semicolon-newline-before\README.md133238060303362065 0
 74D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\helpers\json.js133238060289842044 0
@@ -10705,7 +10705,7 @@
 78D:\_yandex\chat_deploy\node_modules\stylelint\lib\utils\hasTplInterpolation.js133238060262072061 0
 96D:\_yandex\chat_deploy\node_modules\postcss-ordered-values\node_modules\postcss\lib\warn-once.js133238060247202032 0
 83D:\_yandex\chat_deploy\node_modules\stylelint\lib\utils\isAfterSingleLineComment.js133238060293492115 0
-71D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\max-empty-lines133242207117830425 1
+71D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\max-empty-lines133242207117870411 1
 99D:\_yandex\chat_deploy\node_modules\postcss-discard-duplicates\node_modules\postcss\lib\tokenize.js133238060245952062 0
 75D:\_yandex\chat_deploy\node_modules\@babel\helper-hoist-variables\README.md133238060187522095 0
 96D:\_yandex\chat_deploy\node_modules\stylelint\lib\utils\isBlocklessAtRuleAfterBlocklessAtRule.js133238060293722060 0
@@ -10831,7 +10831,7 @@
 70D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\block-no-empty133242207082220399 1
 87D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\block-opening-brace-space-after133242207084780384 1
 84D:\_yandex\chat_deploy\node_modules\source-map-support\browser-source-map-support.js133238060184062056 0
-88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\block-opening-brace-space-before133242207084920415 1
+88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\block-opening-brace-space-before133242207084970421 1
 79D:\_yandex\chat_deploy\node_modules\eslint-plugin-import\lib\rules\namespace.js133238060245302086 0
 68D:\_yandex\chat_deploy\node_modules\es-abstract\2018\HourFromTime.js133238060302672066 0
 71D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\color-hex-alpha133242207085250403 1
@@ -10860,7 +10860,7 @@
 78D:\_yandex\chat_deploy\node_modules\es-abstract\2019\CreateIterResultObject.js133238060285922044 0
 105D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-block-no-shorthand-property-overrides133242207095440369 1
 53D:\_yandex\chat_deploy\node_modules\lodash\fp\path.js133238060311642072 0
-98D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-block-semicolon-newline-before133242207095800412 1
+98D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-block-semicolon-newline-before133242207095830378 1
 56D:\_yandex\chat_deploy\node_modules\lodash\_baseRange.js133238060268122097 0
 74D:\_yandex\chat_deploy\node_modules\csso\lib\restructure\7-mergeRuleset.js133238060218152047 0
 95D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declaration-block-semicolon-space-after133242207097350421 1
@@ -10889,14 +10889,14 @@
 86D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\declarationBangSpaceChecker.js133238060245632069 0
 76D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\findMediaOperator.js133238060252402108 0
 65D:\_yandex\chat_deploy\node_modules\jsdom\node_modules\prelude-ls133242206411364460 1
-79D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\font-family-name-quotes133242207102970403 1
+79D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\font-family-name-quotes133242207103010410 1
 88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-combinator-allowed-list133242207140770503 1
 77D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-allowed-list133242207105900387 1
 79D:\_yandex\chat_deploy\node_modules\iconv-lite\encodings\tables\big5-added.json133238060231192070 0
 92D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-comma-space-after\README.md133238060304402053 0
 90D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-calc-no-unspaced-operator133242207106210515 1
 84D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-comma-newline-after133242207106810403 1
-82D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-comma-space-after133242207107150344 1
+82D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-comma-space-after133242207107190424 1
 87D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\ansi-styles\readme.md133238060196772049 0
 91D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-combinator-disallowed-list133242207141010504 1
 80D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\function-disallowed-list133242207107410377 1
@@ -10918,7 +10918,7 @@
 67D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\indentation133242207113930437 1
 57D:\_yandex\chat_deploy\node_modules\@parcel\codeframe\src133242205437885081 1
 62D:\_yandex\chat_deploy\node_modules\csso\lib\replace\Atrule.js133238060229552037 0
-82D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\keyframe-selector-notation133242207114810370 1
+82D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\keyframe-selector-notation133242207114850392 1
 55D:\_yandex\chat_deploy\node_modules\lodash\_basePick.js133238060266402046 0
 78D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\keyframes-name-pattern133242207116450556 1
 56D:\_yandex\chat_deploy\node_modules\lodash\propertyOf.js133238060312152080 0
@@ -10937,7 +10937,7 @@
 88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\media-feature-colon-space-before133242207118410371 1
 58D:\_yandex\chat_deploy\node_modules\emoji-regex\index.d.ts133238060227762065 0
 87D:\_yandex\chat_deploy\node_modules\eslint-plugin-import\docs\rules\no-named-default.md133238060273522077 0
-87D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\media-feature-name-allowed-list133242207118580363 1
+87D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\media-feature-name-allowed-list133242207118620391 1
 84D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\domhandler\lib\node.js133238060215772070 0
 74D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\webauthn.js133238060313102076 0
 90D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\media-feature-name-disallowed-list133242207121800510 1
@@ -11017,7 +11017,7 @@
 81D:\_yandex\chat_deploy\node_modules\postcss-calc\node_modules\postcss\lib\list.js133238060227142071 0
 90D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-list-comma-newline-before133242207144050469 1
 56D:\_yandex\chat_deploy\node_modules\ajv\lib\dot\enum.jst133238060265482015 0
-88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-list-comma-space-before133242207144340487 1
+88D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-list-comma-space-before133242207144380481 1
 78D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-max-attribute133242207144500634 1
 80D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133238060280612043 0
 62D:\_yandex\chat_deploy\node_modules\sass\types\value\list.d.ts133238060265962038 0
@@ -11031,7 +11031,7 @@
 81D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-max-pseudo-class133242207147650533 1
 73D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-max-type133242207148470495 1
 79D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-nested-pattern133242207149960512 1
-83D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-no-qualifying-type133242207150490520 1
+83D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-no-qualifying-type133242207150530533 1
 80D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\supports-color133242206812942597 1
 106D:\_yandex\chat_deploy\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src133242205502966032 1
 81D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\selector-no-vendor-prefix133242207150720454 1
@@ -11092,7 +11092,7 @@
 87D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\constraint-validation.js133238060275022092 0
 94D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\value-list-comma-space-before\index.js133238060292022020 0
 95D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\value-list-comma-space-before\README.md133238060309182047 0
-67D:\_yandex\chat_deploy\node_modules\stop-iteration-iterator\.github133238060221632059 1
+67D:\_yandex\chat_deploy\node_modules\stop-iteration-iterator\.github133242207047820415 1
 93D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\value-list-comma-space-after\index.js133238060291962033 0
 65D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\sort-keys.js133238060298552068 0
 56D:\_yandex\chat_deploy\node_modules\es-abstract\5\abs.js133238060245052043 0
@@ -11100,7 +11100,7 @@
 65D:\_yandex\chat_deploy\node_modules\nullthrows\nullthrows.js.flow133238060204002119 0
 70D:\_yandex\chat_deploy\node_modules\@eslint\eslintrc\dist\eslintrc.cjs133238060209962027 0
 95D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\value-list-comma-newline-after\index.js133238060291782061 0
-59D:\_yandex\chat_deploy\node_modules\safe-regex-test\.github133238060218662172 1
+59D:\_yandex\chat_deploy\node_modules\safe-regex-test\.github133242206988450409 1
 83D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\value-keyword-case\index.js133238060291712043 0
 53D:\_yandex\chat_deploy\node_modules\lightningcss\node133242206449231583 1
 49D:\_yandex\chat_deploy\node_modules\leven\license133238060192012083 0
@@ -11279,7 +11279,7 @@
 72D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\no-import-assign.js133238060286142033 0
 115D:\_yandex\chat_deploy\node_modules\postcss-normalize-timing-functions\node_modules\postcss\lib\css-syntax-error.js133238060211412052 0
 98D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\no-invalid-double-slash-comments\README.md133238060306542018 0
-70D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\node_modules133242206777335293 1
+70D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\node_modules133242206781135369 1
 84D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\no-extra-semicolons\index.js133238060285952017 0
 66D:\_yandex\chat_deploy\node_modules\request-promise-core\README.md133238060220212054 0
 54D:\_yandex\chat_deploy\node_modules\lmdb\src\lmdb-js.h133238060272152128 0
@@ -11518,7 +11518,7 @@
 128D:\_yandex\chat_deploy\node_modules\@ampproject\remapping\node_modules\@jridgewell\gen-mapping\dist\types\sourcemap-segment.d.ts133238060225362057 0
 103D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\block-closing-brace-empty-line-before\README.md133238060301822082 0
 95D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\at-rule-semicolon-space-before\index.js133238060266862070 0
-74D:\_yandex\chat_deploy\node_modules\snapdragon\node_modules\is-buffer\test133238060203622032 1
+74D:\_yandex\chat_deploy\node_modules\snapdragon\node_modules\is-buffer\test133242207011470564 1
 69D:\_yandex\chat_deploy\node_modules\dom-serializer\lib\esm\index.d.ts133238060234472119 0
 96D:\_yandex\chat_deploy\node_modules\stylelint\lib\rules\at-rule-semicolon-space-before\README.md133238060301762062 0
 94D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\cjs\container\TreeContainer\Base\index.js.map133238060277982064 0
@@ -11552,7 +11552,7 @@
 108D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133238060257292107 0
 60D:\_yandex\chat_deploy\node_modules\global-modules\README.md133238060197342133 0
 73D:\_yandex\chat_deploy\node_modules\stylelint\lib\reference\atKeywords.js133238060219282076 0
-60D:\_yandex\chat_deploy\node_modules\@parcel\utils\test\input133242205653947917 1
+60D:\_yandex\chat_deploy\node_modules\@parcel\utils\test\input133242205654377865 1
 69D:\_yandex\chat_deploy\node_modules\har-schema\lib\beforeRequest.json133238060230842099 0
 80D:\_yandex\chat_deploy\node_modules\autoprefixer\node_modules\picocolors\LICENSE133238060181482058 0
 86D:\_yandex\chat_deploy\node_modules\es-abstract\2015\IsCompatiblePropertyDescriptor.js133238060305512045 0
@@ -11583,7 +11583,7 @@
 53D:\_yandex\chat_deploy\node_modules\lodash\fp\ceil.js133238060294022073 0
 51D:\_yandex\chat_deploy\node_modules\stylehacks\dist133242207060830432 1
 76D:\_yandex\chat_deploy\node_modules\es-abstract\2022\OrdinaryObjectCreate.js133238060315892066 0
-59D:\_yandex\chat_deploy\node_modules\stylehacks\node_modules133242207063620404 1
+59D:\_yandex\chat_deploy\node_modules\stylehacks\node_modules133242207066940437 1
 71D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\.bin\svgo133238060332692139 0
 78D:\_yandex\chat_deploy\node_modules\es-abstract\2015\ObjectDefineProperties.js133238060314212070 0
 59D:\_yandex\chat_deploy\node_modules\stylehacks\package.json133238060180132085 0
@@ -11598,7 +11598,7 @@
 90D:\_yandex\chat_deploy\node_modules\stylehacks\node_modules\postcss-selector-parser\API.md133238060246042126 0
 88D:\_yandex\chat_deploy\node_modules\stylehacks\node_modules\postcss-selector-parser\dist133242207067610400 1
 62D:\_yandex\chat_deploy\node_modules\lodash\_charsStartIndex.js133238060277152082 0
-46D:\_yandex\chat_deploy\node_modules\eslint\lib133242206082913865 1
+46D:\_yandex\chat_deploy\node_modules\eslint\lib133242206083473818 1
 64D:\_yandex\chat_deploy\node_modules\lodash\fp\matchesProperty.js133238060309622056 0
 57D:\_yandex\chat_deploy\node_modules\has-bigints\README.md133238060218892012 0
 96D:\_yandex\chat_deploy\node_modules\stylehacks\node_modules\postcss-selector-parser\package.json133238060245132028 0
@@ -11731,7 +11731,7 @@
 56D:\_yandex\chat_deploy\node_modules\strip-ansi\readme.md133238060196472052 0
 92D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\lib\values\expressions\MemberExpression.js133238060262122117 0
 91D:\_yandex\chat_deploy\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js133238060231912062 0
-54D:\_yandex\chat_deploy\node_modules\string_decoder\lib133238060186002044 1
+54D:\_yandex\chat_deploy\node_modules\string_decoder\lib133242207056800547 1
 58D:\_yandex\chat_deploy\node_modules\string_decoder\LICENSE133238060180162032 0
 52D:\_yandex\chat_deploy\node_modules\is-string\.nycrc133238060192072053 0
 56D:\_yandex\chat_deploy\node_modules\coa\lib\coaobject.js133238060224572126 0
@@ -11751,7 +11751,7 @@
 69D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\js-yaml133242206876780151 1
 67D:\_yandex\chat_deploy\node_modules\stringify-entities\package.json133238060180142029 0
 64D:\_yandex\chat_deploy\node_modules\stringify-entities\readme.md133238060203492060 0
-88D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\atrule133242206852642582 1
+88D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\atrule133242206852682583 1
 132D:\_yandex\chat_deploy\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2133242205492620672 1
 76D:\_yandex\chat_deploy\node_modules\string.prototype.trimstart\.editorconfig133238060180142029 0
 56D:\_yandex\chat_deploy\node_modules\is-buffer\index.d.ts133238060204122052 0
@@ -11832,7 +11832,7 @@
 59D:\_yandex\chat_deploy\node_modules\optionator\lib\index.js133238060195322039 0
 57D:\_yandex\chat_deploy\node_modules\har-validator\LICENSE133238060181032065 0
 84D:\_yandex\chat_deploy\node_modules\electron-to-chromium\full-chromium-versions.json133238060224532054 0
-64D:\_yandex\chat_deploy\node_modules\stop-iteration-iterator\test133238060203542012 1
+64D:\_yandex\chat_deploy\node_modules\stop-iteration-iterator\test133242207048490568 1
 57D:\_yandex\chat_deploy\node_modules\has-flag\package.json133238060181032065 0
 86D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs133238060278142049 0
 72D:\_yandex\chat_deploy\node_modules\regexp.prototype.flags\test\index.js133238060221732130 0
@@ -11872,7 +11872,7 @@
 60D:\_yandex\chat_deploy\node_modules\deep-equal\test\_tape.js133238060205212082 0
 110D:\_yandex\chat_deploy\node_modules\static-extend\node_modules\is-data-descriptor\node_modules\kind-of\LICENSE133238060191372026 0
 112D:\_yandex\chat_deploy\node_modules\static-extend\node_modules\is-data-descriptor\node_modules\kind-of\README.md133238060185992059 0
-77D:\_yandex\chat_deploy\node_modules\static-extend\node_modules\is-buffer\test133238060203612055 1
+77D:\_yandex\chat_deploy\node_modules\static-extend\node_modules\is-buffer\test133242207043870365 1
 76D:\_yandex\chat_deploy\node_modules\binary-extensions\binary-extensions.json133238060192602055 0
 93D:\_yandex\chat_deploy\node_modules\static-extend\node_modules\is-accessor-descriptor\LICENSE133238060191392051 0
 57D:\_yandex\chat_deploy\node_modules\lodash\_baseKeysIn.js133238060263202098 0
@@ -11970,7 +11970,7 @@
 54D:\_yandex\chat_deploy\node_modules\sprintf-js\LICENSE133238060196522038 0
 60D:\_yandex\chat_deploy\node_modules\object-copy\package.json133238060180712039 0
 51D:\_yandex\chat_deploy\node_modules\sprintf-js\test133242207034810386 1
-50D:\_yandex\chat_deploy\node_modules\colord\plugins133242205855393498 1
+50D:\_yandex\chat_deploy\node_modules\colord\plugins133242205855433552 1
 59D:\_yandex\chat_deploy\node_modules\sprintf-js\test\test.js133238060235512052 0
 69D:\_yandex\chat_deploy\node_modules\sprintf-js\src\angular-sprintf.js133238060231062073 0
 62D:\_yandex\chat_deploy\node_modules\is-color-stop\util\unit.js133238060238692035 0
@@ -11993,7 +11993,7 @@
 62D:\_yandex\chat_deploy\node_modules\specificity\specificity.js133238060210302056 0
 65D:\_yandex\chat_deploy\node_modules\@babel\template\lib\string.js133238060236412022 0
 69D:\_yandex\chat_deploy\node_modules\handlebars\dist\handlebars.min.js133238060262072061 0
-59D:\_yandex\chat_deploy\node_modules\es-get-iterator\.github133238060233522046 1
+59D:\_yandex\chat_deploy\node_modules\es-get-iterator\.github133242206053998136 1
 60D:\_yandex\chat_deploy\node_modules\specificity\test\test.js133238060226962028 0
 68D:\_yandex\chat_deploy\node_modules\specificity\dist\specificity.mjs133238060224242057 0
 55D:\_yandex\chat_deploy\node_modules\resolve-url\LICENSE133238060186142099 0
@@ -12131,7 +12131,7 @@
 75D:\_yandex\chat_deploy\node_modules\snapdragon\node_modules\define-property133242207007560372 1
 83D:\_yandex\chat_deploy\node_modules\remark-stringify\lib\visitors\thematic-break.js133238060254902072 0
 49D:\_yandex\chat_deploy\node_modules\picomatch\lib133242206622252990 1
-73D:\_yandex\chat_deploy\node_modules\snapdragon\node_modules\is-descriptor133242207013100363 1
+73D:\_yandex\chat_deploy\node_modules\snapdragon\node_modules\is-descriptor133242207013140397 1
 73D:\_yandex\chat_deploy\node_modules\snapdragon\node_modules\is-extendable133242207014660400 1
 87D:\_yandex\chat_deploy\node_modules\snapdragon\node_modules\extend-shallow\package.json133238060180212053 0
 51D:\_yandex\chat_deploy\node_modules\lodash\chunk.js133238060294232111 0
@@ -12230,7 +12230,7 @@
 66D:\_yandex\chat_deploy\node_modules\fastest-levenshtein\LICENSE.md133238060222872085 0
 58D:\_yandex\chat_deploy\node_modules\simple-swizzle\LICENSE133238060191452051 0
 98D:\_yandex\chat_deploy\node_modules\postcss-reduce-initial\node_modules\picocolors\picocolors.d.ts133238060209262052 0
-63D:\_yandex\chat_deploy\node_modules\simple-swizzle\node_modules133238060098358245 1
+63D:\_yandex\chat_deploy\node_modules\simple-swizzle\node_modules133242207005000555 1
 104D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-minify-selectors\src133242205557562198 1
 50D:\_yandex\chat_deploy\node_modules\domhandler\lib133242205960288186 1
 58D:\_yandex\chat_deploy\node_modules\lodash\intersection.js133238060305222022 0
@@ -12264,8 +12264,8 @@
 61D:\_yandex\chat_deploy\node_modules\side-channel\package.json133238060214322093 0
 58D:\_yandex\chat_deploy\node_modules\side-channel\README.md133238060222582051 0
 66D:\_yandex\chat_deploy\node_modules\es-abstract\2021\InLeapYear.js133238060303402073 0
-59D:\_yandex\chat_deploy\node_modules\es-to-primitive\.github133238060236052098 1
-53D:\_yandex\chat_deploy\node_modules\side-channel\test133238060209162103 1
+59D:\_yandex\chat_deploy\node_modules\es-to-primitive\.github133242206057763875 1
+53D:\_yandex\chat_deploy\node_modules\side-channel\test133242207003690394 1
 58D:\_yandex\chat_deploy\node_modules\shebang-regex\index.js133238060191442034 0
 60D:\_yandex\chat_deploy\node_modules\shebang-command\index.js133238060186082126 0
 55D:\_yandex\chat_deploy\node_modules\path-type\readme.md133238060203942053 0
@@ -12308,7 +12308,7 @@
 62D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\package.json133238060270522027 0
 69D:\_yandex\chat_deploy\node_modules\send\node_modules\ms\package.json133238060186092067 0
 59D:\_yandex\chat_deploy\node_modules\lodash\wrapperLodash.js133238060320142134 0
-46D:\_yandex\chat_deploy\node_modules\semver\bin133238060186102032 1
+46D:\_yandex\chat_deploy\node_modules\semver\bin133242206996120736 1
 53D:\_yandex\chat_deploy\node_modules\gopd\CHANGELOG.md133238060210642097 0
 55D:\_yandex\chat_deploy\node_modules\semver\CHANGELOG.md133238060212092049 0
 90D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\postcss\lib\stringify.js133238060244012046 0
@@ -12393,7 +12393,7 @@
 77D:\_yandex\chat_deploy\node_modules\@parcel\namer-default\lib\DefaultNamer.js133238060188472020 0
 59D:\_yandex\chat_deploy\node_modules\rgba-regex\package.json133238060180272042 0
 91D:\_yandex\chat_deploy\node_modules\postcss-merge-rules\node_modules\postcss\lib\postcss.js133238060236562069 0
-43D:\_yandex\chat_deploy\node_modules\qs\test133242206919515796 1
+43D:\_yandex\chat_deploy\node_modules\qs\test133242206919555761 1
 81D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\css-caret-color.js133238060278422042 0
 51D:\_yandex\chat_deploy\node_modules\rgba-regex\test133242206985240379 1
 55D:\_yandex\chat_deploy\node_modules\is-arguments\.nycrc133238060197262034 0
@@ -12406,7 +12406,7 @@
 55D:\_yandex\chat_deploy\node_modules\rgb-regex\README.md133238060191482124 0
 128D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\constructors.js133238060212332057 0
 77D:\_yandex\chat_deploy\node_modules\remark-stringify\lib\visitors\emphasis.js133238060244562036 0
-50D:\_yandex\chat_deploy\node_modules\rgb-regex\test133238060217632049 1
+50D:\_yandex\chat_deploy\node_modules\rgb-regex\test133242206984540410 1
 53D:\_yandex\chat_deploy\node_modules\pify\package.json133238060180632042 0
 92D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\svgo\plugins\removeMetadata.js133238060256922069 0
 55D:\_yandex\chat_deploy\node_modules\reusify\.travis.yml133238060191492017 0
@@ -12425,7 +12425,7 @@
 60D:\_yandex\chat_deploy\node_modules\resolve-url\changelog.md133238060209172098 0
 99D:\_yandex\chat_deploy\node_modules\postcss-normalize-charset\node_modules\postcss\lib\warn-once.js133238060247222096 0
 57D:\_yandex\chat_deploy\node_modules\resolve-url\readme.md133238060217652032 0
-52D:\_yandex\chat_deploy\node_modules\resolve-url\test133238060220882053 1
+52D:\_yandex\chat_deploy\node_modules\resolve-url\test133242206981290543 1
 60D:\_yandex\chat_deploy\node_modules\node-addon-api\nothing.c133238060178472036 0
 72D:\_yandex\chat_deploy\node_modules\@eslint\eslintrc\lib\shared\types.js133238060246142055 0
 68D:\_yandex\chat_deploy\node_modules\@parcel\core\lib\ParcelConfig.js133238060272652033 0
@@ -12477,7 +12477,7 @@
 62D:\_yandex\chat_deploy\node_modules\resolve\test\pathfilter.js133238060265812060 0
 62D:\_yandex\chat_deploy\node_modules\resolve\test\precedence.js133238060266052067 0
 67D:\_yandex\chat_deploy\node_modules\es-abstract\2021\ArrayCreate.js133238060262262110 0
-57D:\_yandex\chat_deploy\node_modules\resolve\test\resolver133242206977175760 1
+57D:\_yandex\chat_deploy\node_modules\resolve\test\resolver133242206979925763 1
 62D:\_yandex\chat_deploy\node_modules\resolve\test\shadowed_core133242206980085807 1
 99D:\_yandex\chat_deploy\node_modules\postcss-normalize-positions\node_modules\postcss\lib\warning.js133238060248182028 0
 56D:\_yandex\chat_deploy\node_modules\array-unique\LICENSE133238060192642046 0
@@ -12486,7 +12486,7 @@
 106D:\_yandex\chat_deploy\node_modules\postcss-normalize-whitespace\node_modules\postcss-value-parser\LICENSE133238060186322051 0
 82D:\_yandex\chat_deploy\node_modules\@babel\traverse\lib\path\inference\util.js.map133238060250732010 0
 89D:\_yandex\chat_deploy\node_modules\resolve\test\shadowed_core\node_modules\util\index.js133238060260852064 0
-61D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\baz133242206970695733 1
+61D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\baz133242206970735824 1
 71D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\browser_field133242206972715772 1
 68D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\cup.coffee133238060218652123 0
 68D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\other_path133242206976615783 1
@@ -12522,14 +12522,14 @@
 87D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\nested_symlinks\mylib\sync.js133238060269362133 0
 80D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\multirepo\package.json133238060273242088 0
 55D:\_yandex\chat_deploy\node_modules\lodash\fp\commit.js133238060295662050 0
-76D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\multirepo\packages133242206973795868 1
+76D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\multirepo\packages133242206974485738 1
 72D:\_yandex\chat_deploy\node_modules\log-symbols\node_modules\ansi-styles133242206517355912 1
 117D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\dom-serializer\node_modules\domelementtype\package.json133238060209382022 0
 87D:\_yandex\chat_deploy\node_modules\axobject-query\lib\etc\objects\ComplementaryRole.js133238060243202095 0
 99D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\multirepo\packages\package-b\package.json133238060273642024 0
 95D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\multirepo\packages\package-a\index.js133238060259462059 0
 89D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\malformed_package_json\index.js133238060259052058 0
-50D:\_yandex\chat_deploy\node_modules\is-map\.github133238060229492052 1
+50D:\_yandex\chat_deploy\node_modules\is-map\.github133242206318987685 1
 91D:\_yandex\chat_deploy\node_modules\is-extendable\node_modules\is-plain-object\package.json133238060180942075 0
 71D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\no-extra-parens.js133238060285572052 0
 81D:\_yandex\chat_deploy\node_modules\resolve\test\resolver\incorrect_main\index.js133238060258792067 0
@@ -12550,8 +12550,8 @@
 71D:\_yandex\chat_deploy\node_modules\es-abstract\2022\thisNumberValue.js133238060323672059 0
 103D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules\postcss\lib\previous-map.js133238060237762083 0
 60D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\y133242206969195797 1
-64D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\y\bbb133238060256352101 1
-64D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\y\ccc133238060257172118 1
+64D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\y\bbb133242206969145813 1
+64D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\y\ccc133242206969595797 1
 73D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\y\bbb\index.js133238060256452081 0
 59D:\_yandex\chat_deploy\node_modules\pascalcase\package.json133238060180672055 0
 64D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\x\aaa133242206966535896 1
@@ -12560,7 +12560,7 @@
 95D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\postcss-value-parser\lib\parse.js133238060206142083 0
 55D:\_yandex\chat_deploy\node_modules\lodash\fp\sortBy.js133238060313792089 0
 51D:\_yandex\chat_deploy\node_modules\lodash\hasIn.js133238060304432098 0
-64D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\x\ccc133238060255762086 1
+64D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\x\ccc133242206966715790 1
 89D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\nodes\HTMLInputElement-impl.js133238060297162092 0
 73D:\_yandex\chat_deploy\node_modules\resolve\test\node_path\x\aaa\index.js133238060255062050 0
 85D:\_yandex\chat_deploy\node_modules\resolve\test\module_dir\zmodules\bbb\package.json133238060270432083 0
@@ -12581,7 +12581,7 @@
 68D:\_yandex\chat_deploy\node_modules\resolve\lib\normalize-options.js133238060264902087 0
 55D:\_yandex\chat_deploy\node_modules\resolve\lib\sync.js133238060268162182 0
 84D:\_yandex\chat_deploy\node_modules\@babel\types\lib\builders\generated\index.js.map133238060244002026 0
-50D:\_yandex\chat_deploy\node_modules\@babel\runtime133242205330998313 1
+50D:\_yandex\chat_deploy\node_modules\@babel\runtime133242205340358323 1
 60D:\_yandex\chat_deploy\node_modules\is-extendable\index.d.ts133238060204102057 0
 59D:\_yandex\chat_deploy\node_modules\resolve\example\sync.js133238060267902054 0
 71D:\_yandex\chat_deploy\node_modules\request-promise-native\package.json133238060198292002 0
@@ -12689,7 +12689,7 @@
 62D:\_yandex\chat_deploy\node_modules\remark-parse\lib\decode.js133238060206092058 0
 64D:\_yandex\chat_deploy\node_modules\remark-parse\lib\defaults.js133238060211292062 0
 74D:\_yandex\chat_deploy\node_modules\es-abstract\2019\IsConcatSpreadable.js133238060305942040 0
-59D:\_yandex\chat_deploy\node_modules\remark-parse\lib\locate133242206945875747 1
+59D:\_yandex\chat_deploy\node_modules\remark-parse\lib\locate133242206945905812 1
 62D:\_yandex\chat_deploy\node_modules\remark-parse\lib\parser.js133238060235942078 0
 67D:\_yandex\chat_deploy\node_modules\remark-parse\lib\set-options.js133238060236912062 0
 64D:\_yandex\chat_deploy\node_modules\remark-parse\lib\unescape.js133238060255052114 0
@@ -12845,7 +12845,7 @@
 83D:\_yandex\chat_deploy\node_modules\read-pkg-up\node_modules\locate-path\index.d.ts133238060186192072 0
 80D:\_yandex\chat_deploy\node_modules\read-pkg-up\node_modules\locate-path\license133238060196662059 0
 55D:\_yandex\chat_deploy\node_modules\read-pkg\index.d.ts133238060186202024 0
-67D:\_yandex\chat_deploy\node_modules\function.prototype.name\.github133238060238682114 1
+67D:\_yandex\chat_deploy\node_modules\function.prototype.name\.github133242206223798113 1
 53D:\_yandex\chat_deploy\node_modules\read-pkg\index.js133238060191542082 0
 54D:\_yandex\chat_deploy\node_modules\debug\src\index.js133238060233542086 0
 88D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\postcss\lib\at-rule.js133238060187712041 0
@@ -12911,7 +12911,7 @@
 56D:\_yandex\chat_deploy\node_modules\raw-body\SECURITY.md133238060210352035 0
 96D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\cssnano\src\index.js133238060188462009 0
 71D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\xhtml.js133238060313882016 0
-66D:\_yandex\chat_deploy\node_modules\coa\node_modules\color-convert133242205844543538 1
+66D:\_yandex\chat_deploy\node_modules\coa\node_modules\color-convert133242205844583556 1
 57D:\_yandex\chat_deploy\node_modules\node-releases\LICENSE133238060180742055 0
 78D:\_yandex\chat_deploy\node_modules\handlebars\lib\handlebars\compiler\base.js133238060238442100 0
 79D:\_yandex\chat_deploy\node_modules\eslint-config-airbnb-base\node_modules\.bin133242206093463878 1
@@ -12933,7 +12933,7 @@
 73D:\_yandex\chat_deploy\node_modules\fast-glob\out\providers\provider.d.ts133238060257092065 0
 64D:\_yandex\chat_deploy\node_modules\queue-microtask\package.json133238060191552092 0
 48D:\_yandex\chat_deploy\node_modules\mime\mime.js133238060202142056 0
-46D:\_yandex\chat_deploy\node_modules\qs\.github133238060239202050 1
+46D:\_yandex\chat_deploy\node_modules\qs\.github133242206918975780 1
 45D:\_yandex\chat_deploy\node_modules\qs\.nycrc133238060191572098 0
 49D:\_yandex\chat_deploy\node_modules\qs\LICENSE.md133238060236952101 0
 52D:\_yandex\chat_deploy\node_modules\qs\test\parse.js133238060218692032 0
@@ -12948,7 +12948,7 @@
 60D:\_yandex\chat_deploy\node_modules\punycode\punycode.es6.js133238060180362067 0
 56D:\_yandex\chat_deploy\node_modules\punycode\punycode.js133238060187692041 0
 44D:\_yandex\chat_deploy\node_modules\psl\.env133238060178102055 0
-44D:\_yandex\chat_deploy\node_modules\psl\dist133242206916805835 1
+44D:\_yandex\chat_deploy\node_modules\psl\dist133242206916855882 1
 55D:\_yandex\chat_deploy\node_modules\psl\dist\psl.min.js133238060222642032 0
 87D:\_yandex\chat_deploy\node_modules\@parcel\workers\test\integration\workerfarm\ping.js133238060243412149 0
 91D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\css-tree\lib\walker\create.js133238060246702053 0
@@ -13131,7 +13131,7 @@
 62D:\_yandex\chat_deploy\node_modules\get-intrinsic\CHANGELOG.md133238060217032023 0
 89D:\_yandex\chat_deploy\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node133238060329632108 0
 76D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\svgo\.svgo.yml133238060262862033 0
-70D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\svgo\bin133238060191582098 1
+70D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\svgo\bin133242206892820361 1
 79D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\svgo\CHANGELOG.md133238060262192077 0
 69D:\_yandex\chat_deploy\node_modules\handlebars\dist\amd\handlebars.js133238060260102042 0
 74D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\svgo\plugins133242206897220215 1
@@ -13220,7 +13220,7 @@
 82D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\js-yaml\CHANGELOG.md133238060254112048 0
 62D:\_yandex\chat_deploy\node_modules\mathml-tag-names\readme.md133238060197082115 0
 78D:\_yandex\chat_deploy\node_modules\es-abstract\2020\FromPropertyDescriptor.js133238060297302060 0
-74D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\js-yaml\dist133242206876600213 1
+74D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\js-yaml\dist133242206876650182 1
 84D:\_yandex\chat_deploy\node_modules\postcss-reporter\node_modules\chalk\package.json133238060180442094 0
 80D:\_yandex\chat_deploy\node_modules\@babel\helpers\lib\helpers\defineAccessor.js133238060248532111 0
 81D:\_yandex\chat_deploy\node_modules\postcss-svgo\node_modules\js-yaml\lib\js-yaml133242206879400223 1
@@ -13497,7 +13497,7 @@
 62D:\_yandex\chat_deploy\node_modules\postcss-svgo\dist\index.js133238060187692041 0
 60D:\_yandex\chat_deploy\node_modules\postcss-sorting\index.js133238060225842055 0
 71D:\_yandex\chat_deploy\node_modules\cssnano-utils\types\sameParent.d.ts133238060227752153 0
-55D:\_yandex\chat_deploy\node_modules\postcss-sorting\lib133242206829772612 1
+55D:\_yandex\chat_deploy\node_modules\postcss-sorting\lib133242206831302744 1
 60D:\_yandex\chat_deploy\node_modules\graceful-fs\package.json133238060209532042 0
 61D:\_yandex\chat_deploy\node_modules\postcss-sorting\README.md133238060247362152 0
 76D:\_yandex\chat_deploy\node_modules\postcss-sorting\lib\getContainingNode.js133238060216742068 0
@@ -13655,13 +13655,13 @@
 82D:\_yandex\chat_deploy\node_modules\postcss-sass\node_modules\picocolors\README.md133238060203752002 0
 84D:\_yandex\chat_deploy\node_modules\@eslint\eslintrc\node_modules\debug\package.json133238060210872042 0
 103D:\_yandex\chat_deploy\node_modules\eslint-utils\node_modules\eslint-visitor-keys\lib\visitor-keys.json133238060200582107 0
-59D:\_yandex\chat_deploy\node_modules\postcss-safe-parser\lib133242206813492536 1
+59D:\_yandex\chat_deploy\node_modules\postcss-safe-parser\lib133242206813532574 1
 63D:\_yandex\chat_deploy\node_modules\postcss-safe-parser\LICENSE133238060180442094 0
 100D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\node_modules\postcss\package.json133238060248812058 0
 74D:\_yandex\chat_deploy\node_modules\postcss-safe-parser\lib\safe-parser.js133238060193062050 0
 65D:\_yandex\chat_deploy\node_modules\postcss-reporter\CHANGELOG.md133238060186292071 0
 61D:\_yandex\chat_deploy\node_modules\postcss-reporter\index.js133238060191622075 0
-56D:\_yandex\chat_deploy\node_modules\postcss-reporter\lib133242206804352582 1
+56D:\_yandex\chat_deploy\node_modules\postcss-reporter\lib133242206804402585 1
 60D:\_yandex\chat_deploy\node_modules\postcss-reporter\LICENSE133238060196762047 0
 76D:\_yandex\chat_deploy\node_modules\eslint-config-airbnb-base\rules\style.js133238060231872106 0
 88D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\HTMLOListElement.js133238060281622032 0
@@ -13722,7 +13722,7 @@
 64D:\_yandex\chat_deploy\node_modules\postcss-reporter\lib\util.js133238060219392069 0
 73D:\_yandex\chat_deploy\node_modules\postcss-reduce-transforms\LICENSE-MIT133238060186332157 0
 75D:\_yandex\chat_deploy\node_modules\@types\node\ts4.8\stream\consumers.d.ts133238060281182171 0
-74D:\_yandex\chat_deploy\node_modules\postcss-reduce-transforms\node_modules133242206801122630 1
+74D:\_yandex\chat_deploy\node_modules\postcss-reduce-transforms\node_modules133242206803442633 1
 57D:\_yandex\chat_deploy\node_modules\neo-async\iterator.js133238060260242070 0
 97D:\_yandex\chat_deploy\node_modules\postcss-minify-params\node_modules\postcss\lib\lazy-result.js133238060224872017 0
 48D:\_yandex\chat_deploy\node_modules\chokidar\lib133242205832493494 1
@@ -13923,7 +13923,7 @@
 63D:\_yandex\chat_deploy\node_modules\normalize-path\package.json133238060180732035 0
 81D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\WebSocket.js133238060288712039 0
 73D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\utils\fix-tracker.js133238060264732050 0
-77D:\_yandex\chat_deploy\node_modules\postcss-normalize-whitespace\node_modules133242206782458222 1
+77D:\_yandex\chat_deploy\node_modules\postcss-normalize-whitespace\node_modules133242206787775679 1
 52D:\_yandex\chat_deploy\node_modules\json5\lib\cli.js133238060181932045 0
 84D:\_yandex\chat_deploy\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133238060245952062 0
 74D:\_yandex\chat_deploy\node_modules\postcss-normalize-whitespace\README.md133238060191672070 0
@@ -13996,7 +13996,7 @@
 70D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\CHANGELOG.md133238060186362045 0
 62D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\dist133242206775525363 1
 86D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\node_modules\is-absolute-url133242206775775303 1
-81D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\node_modules\picocolors133242206776165342 1
+81D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\node_modules\picocolors133242206776215351 1
 71D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\dist\lib133242206710216741 1
 60D:\_yandex\chat_deploy\node_modules\glob-parent\CHANGELOG.md133238060197342133 0
 78D:\_yandex\chat_deploy\node_modules\postcss-normalize-url\node_modules\postcss133242206777645348 1
@@ -14110,7 +14110,7 @@
 94D:\_yandex\chat_deploy\node_modules\postcss-normalize-unicode\node_modules\picocolors\types.ts133238060213292028 0
 60D:\_yandex\chat_deploy\node_modules\lodash\_mapCacheClear.js133238060286342044 0
 96D:\_yandex\chat_deploy\node_modules\postcss-normalize-charset\node_modules\postcss\lib\result.js133238060240312033 0
-83D:\_yandex\chat_deploy\node_modules\postcss-normalize-timing-functions\node_modules133242206764034946 1
+83D:\_yandex\chat_deploy\node_modules\postcss-normalize-timing-functions\node_modules133242206767974880 1
 74D:\_yandex\chat_deploy\node_modules\cssstyle\lib\properties\borderRight.js133238060249572051 0
 80D:\_yandex\chat_deploy\node_modules\postcss-normalize-timing-functions\README.md133238060191702070 0
 94D:\_yandex\chat_deploy\node_modules\postcss-normalize-timing-functions\node_modules\picocolors133242206763004793 1
@@ -14174,7 +14174,7 @@
 82D:\_yandex\chat_deploy\node_modules\log-symbols\node_modules\color-name\.npmignore133238060186632092 0
 118D:\_yandex\chat_deploy\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\selectors\nesting.js133238060231792078 0
 65D:\_yandex\chat_deploy\node_modules\postcss-normalize-string\dist133242206755404214 1
-73D:\_yandex\chat_deploy\node_modules\postcss-normalize-string\node_modules133242206755914177 1
+73D:\_yandex\chat_deploy\node_modules\postcss-normalize-string\node_modules133242206761394201 1
 81D:\_yandex\chat_deploy\node_modules\postcss-normalize-string\node_modules\postcss133242206756604136 1
 76D:\_yandex\chat_deploy\node_modules\jsdom\node_modules\escodegen\LICENSE.BSD133238060180882082 0
 51D:\_yandex\chat_deploy\node_modules\getpass\LICENSE133238060197352069 0
@@ -14246,7 +14246,7 @@
 71D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\dist133242206749124187 1
 63D:\_yandex\chat_deploy\node_modules\mdn-data\css\selectors.json133238060241082019 0
 78D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\LICENSE-MIT133238060186382020 0
-79D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\node_modules133242206750944156 1
+79D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\node_modules133242206754614228 1
 79D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\package.json133238060180532038 0
 76D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\README.md133238060191712013 0
 90D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\node_modules\picocolors133242206749774219 1
@@ -14312,7 +14312,7 @@
 80D:\_yandex\chat_deploy\node_modules\postcss-normalize-repeat-style\dist\index.js133238060198422041 0
 53D:\_yandex\chat_deploy\node_modules\has-proto\LICENSE133238060186822044 0
 68D:\_yandex\chat_deploy\node_modules\postcss-normalize-positions\dist133242206742592116 1
-76D:\_yandex\chat_deploy\node_modules\postcss-normalize-positions\node_modules133242206743292093 1
+76D:\_yandex\chat_deploy\node_modules\postcss-normalize-positions\node_modules133242206748299864 1
 73D:\_yandex\chat_deploy\node_modules\postcss-normalize-positions\README.md133238060191712013 0
 97D:\_yandex\chat_deploy\node_modules\postcss-normalize-positions\node_modules\postcss-value-parser133242206748514171 1
 101D:\_yandex\chat_deploy\node_modules\postcss-normalize-positions\node_modules\postcss-value-parser\lib133242206748734164 1
@@ -14467,7 +14467,7 @@
 87D:\_yandex\chat_deploy\node_modules\@babel\core\lib\transformation\file\generate.js.map133238060272842040 0
 78D:\_yandex\chat_deploy\node_modules\axobject-query\lib\etc\objects\NoteRole.js133238060264892078 0
 98D:\_yandex\chat_deploy\node_modules\postcss-minify-gradients\node_modules\postcss\lib\processor.js133238060239242091 0
-73D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules133242206727552093 1
+73D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules133242206731851901 1
 73D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\package.json133238060180562046 0
 81D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules\postcss133242206728282015 1
 97D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser133242206732171927 1
@@ -14494,7 +14494,7 @@
 69D:\_yandex\chat_deploy\node_modules\fast-glob\out\providers\stream.js133238060244052065 0
 122D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\pseudo.js133238060236792082 0
 77D:\_yandex\chat_deploy\node_modules\handlebars\lib\handlebars\helpers\with.js133238060280962082 0
-81D:\_yandex\chat_deploy\node_modules\postcss-minify-params\node_modules\picocolors133242206719870236 1
+81D:\_yandex\chat_deploy\node_modules\postcss-minify-params\node_modules\picocolors133242206719900195 1
 99D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\mutation-observer\MutationRecord-impl.js133238060291352036 0
 122D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\string.js133238060240522118 0
 119D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\tag.js133238060241382060 0
@@ -14539,7 +14539,7 @@
 83D:\_yandex\chat_deploy\node_modules\postcss-minify-selectors\dist\lib\canUnquote.js133238060206322081 0
 62D:\_yandex\chat_deploy\node_modules\postcss-minify-params\dist133242206719520220 1
 65D:\_yandex\chat_deploy\node_modules\postcss-minify-params\LICENSE133238060186412041 0
-70D:\_yandex\chat_deploy\node_modules\postcss-minify-params\node_modules133242206720190193 1
+70D:\_yandex\chat_deploy\node_modules\postcss-minify-params\node_modules133242206725337398 1
 70D:\_yandex\chat_deploy\node_modules\postcss-minify-params\package.json133238060180562046 0
 63D:\_yandex\chat_deploy\node_modules\object.values\test\tests.js133238060231772056 0
 78D:\_yandex\chat_deploy\node_modules\postcss-minify-params\node_modules\postcss133242206721690286 1
@@ -14693,7 +14693,7 @@
 92D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\lib\rules\no-danger-with-children.js133238060265832055 0
 100D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules\postcss\lib\warn-once.js133238060247222096 0
 95D:\_yandex\chat_deploy\node_modules\postcss-discard-duplicates\node_modules\postcss\lib\root.js133238060241242075 0
-46D:\_yandex\chat_deploy\node_modules\pn\scripts133238060252862069 1
+46D:\_yandex\chat_deploy\node_modules\pn\scripts133242206626742993 1
 99D:\_yandex\chat_deploy\node_modules\postcss-minify-font-values\node_modules\picocolors\package.json133238060196842056 0
 56D:\_yandex\chat_deploy\node_modules\lodash\fp\findKey.js133238060301832071 0
 84D:\_yandex\chat_deploy\node_modules\handlebars\dist\amd\handlebars\helpers\lookup.js133238060273712084 0
@@ -15053,7 +15053,7 @@
 87D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\domhandler\lib\element.js133238060210482060 0
 84D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\domelementtype\LICENSE133238060191762084 0
 60D:\_yandex\chat_deploy\node_modules\json-stringify-safe\test133242206422953809 1
-57D:\_yandex\chat_deploy\node_modules\object.hasown\.github133238060236262023 1
+57D:\_yandex\chat_deploy\node_modules\object.hasown\.github133242206598013048 1
 86D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\domelementtype\readme.md133238060196872047 0
 87D:\_yandex\chat_deploy\node_modules\postcss-html\node_modules\dom-serializer\index.d.ts133238060209342112 0
 55D:\_yandex\chat_deploy\node_modules\hsla-regex\index.js133238060197302042 0
@@ -15116,7 +15116,7 @@
 63D:\_yandex\chat_deploy\node_modules\es-abstract\2021\WeekDay.js133238060329982084 0
 100D:\_yandex\chat_deploy\node_modules\postcss-discard-overridden\node_modules\postcss\lib\container.js133238060203922050 0
 102D:\_yandex\chat_deploy\node_modules\postcss-discard-overridden\node_modules\postcss\lib\declaration.js133238060215812045 0
-61D:\_yandex\chat_deploy\node_modules\is-boolean-object\.github133238060227672053 1
+61D:\_yandex\chat_deploy\node_modules\is-boolean-object\.github133242206304525517 1
 95D:\_yandex\chat_deploy\node_modules\postcss-discard-overridden\node_modules\postcss\lib\list.js133238060227112078 0
 74D:\_yandex\chat_deploy\node_modules\es-abstract\2016\ArraySpeciesCreate.js133238060265552044 0
 95D:\_yandex\chat_deploy\node_modules\postcss-discard-overridden\node_modules\postcss\lib\node.js133238060232082056 0
@@ -15154,7 +15154,7 @@
 72D:\_yandex\chat_deploy\node_modules\@csstools\css-tokenizer\package.json133238060188952065 0
 93D:\_yandex\chat_deploy\node_modules\postcss-discard-empty\node_modules\postcss\lib\at-rule.js133238060187772097 0
 51D:\_yandex\chat_deploy\node_modules\minimist\.nycrc133238060186592046 0
-85D:\_yandex\chat_deploy\node_modules\postcss-discard-comments\node_modules\postcss\lib133242206654424548 1
+85D:\_yandex\chat_deploy\node_modules\postcss-discard-comments\node_modules\postcss\lib133242206654464533 1
 97D:\_yandex\chat_deploy\node_modules\postcss-discard-empty\node_modules\postcss\lib\declaration.js133238060215872076 0
 54D:\_yandex\chat_deploy\node_modules\lodash\isObject.js133238060307672070 0
 52D:\_yandex\chat_deploy\node_modules\lodash\fp\xor.js133238060320552047 0
@@ -15377,7 +15377,7 @@
 56D:\_yandex\chat_deploy\node_modules\postcss-calc\LICENSE133238060180642035 0
 101D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-svgo\package.json133238060201222042 0
 61D:\_yandex\chat_deploy\node_modules\postcss-calc\node_modules133242206636713449 1
-90D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver133242206169368153 1
+90D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver133242206172858105 1
 61D:\_yandex\chat_deploy\node_modules\postcss-calc\package.json133238060226542062 0
 82D:\_yandex\chat_deploy\node_modules\cssstyle\lib\properties\webkitTextFillColor.js133238060266782054 0
 58D:\_yandex\chat_deploy\node_modules\postcss-calc\README.md133238060230122082 0
@@ -15435,7 +15435,7 @@
 61D:\_yandex\chat_deploy\node_modules\postcss\node_modules\.bin133242206630313005 1
 60D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\hasProp.js133238060255952041 0
 63D:\_yandex\chat_deploy\node_modules\postcss\node_modules\nanoid133242206633643429 1
-67D:\_yandex\chat_deploy\node_modules\postcss\node_modules\nanoid\bin133238060220362022 1
+67D:\_yandex\chat_deploy\node_modules\postcss\node_modules\nanoid\bin133242206632973175 1
 85D:\_yandex\chat_deploy\node_modules\@jridgewell\source-map\dist\types\source-map.d.ts133238060228882019 0
 72D:\_yandex\chat_deploy\node_modules\@swc\helpers\lib\_async_generator.js133238060214922038 0
 80D:\_yandex\chat_deploy\node_modules\postcss\node_modules\nanoid\index.browser.js133238060227122045 0
@@ -15519,7 +15519,7 @@
 51D:\_yandex\chat_deploy\node_modules\pn\inspector.js133238060238092058 0
 45D:\_yandex\chat_deploy\node_modules\pn\net.js133238060239242091 0
 44D:\_yandex\chat_deploy\node_modules\pn\os.js133238060240092059 0
-55D:\_yandex\chat_deploy\node_modules\is-callable\.github133238060225942086 1
+55D:\_yandex\chat_deploy\node_modules\is-callable\.github133242206306715550 1
 51D:\_yandex\chat_deploy\node_modules\pn\package.json133238060180642035 0
 46D:\_yandex\chat_deploy\node_modules\pn\path.js133238060240902053 0
 52D:\_yandex\chat_deploy\node_modules\pn\perf_hooks.js133238060241832058 0
@@ -15679,7 +15679,7 @@
 87D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\events\KeyboardEvent-impl.js133238060257112117 0
 55D:\_yandex\chat_deploy\node_modules\parcel\package.json133238060217902042 0
 53D:\_yandex\chat_deploy\node_modules\lodash\fp\flip.js133238060302882071 0
-46D:\_yandex\chat_deploy\node_modules\parcel\src133242206606482982 1
+46D:\_yandex\chat_deploy\node_modules\parcel\src133242206606522986 1
 88D:\_yandex\chat_deploy\node_modules\eslint-module-utils\node_modules\debug\src\common.js133238060193282017 0
 53D:\_yandex\chat_deploy\node_modules\parcel\src\bin.js133238060193782068 0
 57D:\_yandex\chat_deploy\node_modules\.bin\loose-envify.ps1133238060332622063 0
@@ -15716,7 +15716,7 @@
 72D:\_yandex\chat_deploy\node_modules\ordered-binary\assets\powers-dre.png133238060225422089 0
 68D:\_yandex\chat_deploy\node_modules\ordered-binary\.idea\modules.xml133238060229462110 0
 66D:\_yandex\chat_deploy\node_modules\eslint-config-airbnb\README.md133238060239682101 0
-50D:\_yandex\chat_deploy\node_modules\optionator\lib133242206601373008 1
+50D:\_yandex\chat_deploy\node_modules\optionator\lib133242206601403005 1
 72D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\dialog.js133238060288802069 0
 59D:\_yandex\chat_deploy\node_modules\optionator\package.json133238060208292034 0
 58D:\_yandex\chat_deploy\node_modules\optionator\lib\help.js133238060187792046 0
@@ -15823,7 +15823,7 @@
 72D:\_yandex\chat_deploy\node_modules\cssstyle\lib\properties\borderTop.js133238060252702062 0
 59D:\_yandex\chat_deploy\node_modules\es-abstract\2015\Set.js133238060320992086 0
 68D:\_yandex\chat_deploy\node_modules\object.entries\implementation.js133238060214582064 0
-54D:\_yandex\chat_deploy\node_modules\is-weakref\.github133238060224942061 1
+54D:\_yandex\chat_deploy\node_modules\is-weakref\.github133242206336587830 1
 63D:\_yandex\chat_deploy\node_modules\object.entries\package.json133238060232902058 0
 64D:\_yandex\chat_deploy\node_modules\es-abstract\2022\BinaryOr.js133238060272962085 0
 60D:\_yandex\chat_deploy\node_modules\object.entries\README.md133238060235542062 0
@@ -15839,7 +15839,7 @@
 59D:\_yandex\chat_deploy\node_modules\object.assign\.eslintrc133238060186562028 0
 56D:\_yandex\chat_deploy\node_modules\object.assign\.nycrc133238060191912030 0
 57D:\_yandex\chat_deploy\node_modules\object.assign\auto.js133238060240442030 0
-54D:\_yandex\chat_deploy\node_modules\object.assign\dist133238060241282055 1
+54D:\_yandex\chat_deploy\node_modules\object.assign\dist133242206590833155 1
 59D:\_yandex\chat_deploy\node_modules\is-weakmap\package.json133238060205062088 0
 57D:\_yandex\chat_deploy\node_modules\content-type\index.js133238060197652093 0
 67D:\_yandex\chat_deploy\node_modules\object.assign\implementation.js133238060243562013 0
@@ -15871,7 +15871,7 @@
 55D:\_yandex\chat_deploy\node_modules\object-keys\LICENSE133238060222042054 0
 64D:\_yandex\chat_deploy\node_modules\.bin\node-gyp-build-test.ps1133238060332632069 0
 60D:\_yandex\chat_deploy\node_modules\object-keys\package.json133238060180692130 0
-52D:\_yandex\chat_deploy\node_modules\object-keys\test133238060227662069 1
+52D:\_yandex\chat_deploy\node_modules\object-keys\test133242206589273174 1
 61D:\_yandex\chat_deploy\node_modules\object-keys\test\index.js133238060228232042 0
 126D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\malformed_package_json\package.json133238060272152128 0
 53D:\_yandex\chat_deploy\node_modules\object-is\auto.js133238060203992075 0
@@ -15900,7 +15900,7 @@
 86D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\stylehacks133242205589700101 1
 66D:\_yandex\chat_deploy\node_modules\object-inspect\util.inspect.js133238060244882088 0
 65D:\_yandex\chat_deploy\node_modules\object-inspect\test\bigint.js133238060206612116 0
-63D:\_yandex\chat_deploy\node_modules\object-inspect\test\browser133238060222752046 1
+63D:\_yandex\chat_deploy\node_modules\object-inspect\test\browser133242206586702970 1
 67D:\_yandex\chat_deploy\node_modules\object-inspect\test\circular.js133238060215892082 0
 63D:\_yandex\chat_deploy\node_modules\object-inspect\test\deep.js133238060219472064 0
 75D:\_yandex\chat_deploy\node_modules\eslint-config-airbnb-base\whitespace.js133238060236622051 0
@@ -16302,7 +16302,7 @@
 66D:\_yandex\chat_deploy\node_modules\msgpackr\dist\index.min.js.map133238060251582097 0
 62D:\_yandex\chat_deploy\node_modules\msgpackr\dist\node.cjs.map133238060253492067 0
 58D:\_yandex\chat_deploy\node_modules\is-arrayish\.npmignore133238060186762074 0
-38D:\_yandex\chat_deploy\dist\index.html133242214244013644 0
+38D:\_yandex\chat_deploy\dist\index.html133242225962535829 0
 70D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\features\heif.js133238060297902081 0
 57D:\_yandex\chat_deploy\node_modules\msgpackr\dist\test.js133238060241082019 0
 51D:\_yandex\chat_deploy\node_modules\ms\package.json133238060180752044 0
@@ -16310,7 +16310,7 @@
 51D:\_yandex\chat_deploy\node_modules\mkdirp\index.js133238060193172072 0
 61D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\index.js133238060275712102 0
 53D:\_yandex\chat_deploy\node_modules\mkdirp\bin\cmd.js133238060187812104 0
-52D:\_yandex\chat_deploy\node_modules\minimist\.github133238060242442071 1
+52D:\_yandex\chat_deploy\node_modules\minimist\.github133242206541625962 1
 52D:\_yandex\chat_deploy\node_modules\minimist\example133242206541905928 1
 94D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\cjs\container\OtherContainer\PriorityQueue.js133238060255402066 0
 57D:\_yandex\chat_deploy\node_modules\minimist\package.json133238060239642034 0
@@ -16732,7 +16732,7 @@
 53D:\_yandex\chat_deploy\node_modules\lodash\setWith.js133238060313512093 0
 53D:\_yandex\chat_deploy\node_modules\lodash\shuffle.js133238060313562073 0
 68D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\lib\elementType.js133238060240512068 0
-53D:\_yandex\chat_deploy\node_modules\is-symbol\.github133238060227662069 1
+53D:\_yandex\chat_deploy\node_modules\is-symbol\.github133242206332827690 1
 73D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\no-useless-escape.js133238060293412117 0
 55D:\_yandex\chat_deploy\node_modules\lodash\snakeCase.js133238060313702039 0
 56D:\_yandex\chat_deploy\node_modules\lodash\_baseTimes.js133238060273472014 0
@@ -17003,12 +17003,12 @@
 71D:\_yandex\chat_deploy\node_modules\eslint\lib\cli-engine\xml-escape.js133238060300762074 0
 53D:\_yandex\chat_deploy\node_modules\lodash\_Symbol.js133238060288912047 0
 54D:\_yandex\chat_deploy\node_modules\json5\lib\index.js133238060198852110 0
-55D:\_yandex\chat_deploy\node_modules\has-symbols\.github133238060231842072 1
+55D:\_yandex\chat_deploy\node_modules\has-symbols\.github133242206270735536 1
 49D:\_yandex\chat_deploy\node_modules\for-each\test133242206218518048 1
 90D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\cjs\container\OtherContainer\Stack.js.map133238060257772050 0
 52D:\_yandex\chat_deploy\node_modules\lodash\_toKey.js133238060288972030 0
 55D:\_yandex\chat_deploy\node_modules\lodash\_toSource.js133238060289042049 0
-57D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\.github133238060272412078 1
+57D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\.github133242206429283768 1
 90D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\picocolors\LICENSE133238060181332072 0
 77D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\orders\source.json133238060216152034 0
 62D:\_yandex\chat_deploy\node_modules\lodash\_trimmedEndIndex.js133238060289092064 0
@@ -17045,7 +17045,7 @@
 93D:\_yandex\chat_deploy\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133238060222222083 0
 54D:\_yandex\chat_deploy\node_modules\lodash\fp\assoc.js133238060291662092 0
 80D:\_yandex\chat_deploy\node_modules\@babel\helpers\lib\helpers\wrapRegExp.js.map133238060255902082 0
-53D:\_yandex\chat_deploy\node_modules\is-string\.github133238060225432048 1
+53D:\_yandex\chat_deploy\node_modules\is-string\.github133242206331437693 1
 51D:\_yandex\chat_deploy\node_modules\lodash\fp\at.js133238060291802059 0
 52D:\_yandex\chat_deploy\node_modules\asn1\Jenkinsfile133238060181502045 0
 56D:\_yandex\chat_deploy\node_modules\lodash\fp\attempt.js133238060291932117 0
@@ -17104,7 +17104,7 @@
 81D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\src\svgMappings.js133238060208852011 0
 60D:\_yandex\chat_deploy\node_modules\@parcel\transformer-html133242205636145595 1
 63D:\_yandex\chat_deploy\node_modules\lodash\fp\dropRightWhile.js133238060299682050 0
-54D:\_yandex\chat_deploy\node_modules\is-weakset\.github133238060229492052 1
+54D:\_yandex\chat_deploy\node_modules\is-weakset\.github133242206337697710 1
 58D:\_yandex\chat_deploy\node_modules\lodash\fp\dropWhile.js133238060299842078 0
 66D:\_yandex\chat_deploy\node_modules\aria-query\lib\ariaPropsMap.js133238060229572039 0
 53D:\_yandex\chat_deploy\node_modules\lodash\fp\each.js133238060299982063 0
@@ -17449,7 +17449,7 @@
 67D:\_yandex\chat_deploy\node_modules\html-encoding-sniffer\README.md133238060192172064 0
 99D:\_yandex\chat_deploy\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt133238060280302015 0
 68D:\_yandex\chat_deploy\node_modules\lmdb\dependencies\lmdb\libraries133242206453311606 1
-76D:\_yandex\chat_deploy\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133242206454921610 1
+76D:\_yandex\chat_deploy\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133242206454961588 1
 99D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\__tests__\src\util\getSuggestion-test.js133238060258892064 0
 86D:\_yandex\chat_deploy\node_modules\eslint\node_modules\escape-string-regexp\readme.md133238060197512031 0
 86D:\_yandex\chat_deploy\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133238060246772113 0
@@ -17512,7 +17512,7 @@
 54D:\_yandex\chat_deploy\node_modules\language-tags\test133242206446321558 1
 72D:\_yandex\chat_deploy\node_modules\language-tags\test\lib\index-test.js133238060229502064 0
 72D:\_yandex\chat_deploy\node_modules\language-tags\test\lib\SubtagTest.js133238060224982061 0
-58D:\_yandex\chat_deploy\node_modules\array-includes\.github133238060235392048 1
+58D:\_yandex\chat_deploy\node_modules\array-includes\.github133242205736470683 1
 62D:\_yandex\chat_deploy\node_modules\language-tags\lib\index.js133238060219492078 0
 60D:\_yandex\chat_deploy\node_modules\language-tags\lib\Tag.js133238060215942077 0
 59D:\_yandex\chat_deploy\node_modules\ipaddr.js\lib\ipaddr.js133238060208472119 0
@@ -17547,12 +17547,12 @@
 53D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\lib133242206430793798 1
 61D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\propName.js133238060265402019 0
 59D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\README.md133238060272212047 0
-63D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\__tests__\src133242206440001588 1
+63D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\__tests__\src133242206440051622 1
 83D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\__tests__\src\elementType-test.js133238060237932078 0
 55D:\_yandex\chat_deploy\node_modules\is-set\package.json133238060222072117 0
 85D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\__tests__\src\eventHandlers-test.js133238060242652056 0
 86D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\__tests__\src\getProp-parser-test.js133238060248332071 0
-66D:\_yandex\chat_deploy\node_modules\is-shared-array-buffer\.github133238060225462110 1
+66D:\_yandex\chat_deploy\node_modules\is-shared-array-buffer\.github133242206330107711 1
 82D:\_yandex\chat_deploy\node_modules\@babel\types\lib\converters\valueToNode.js.map133238060267192012 0
 79D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\__tests__\src\getProp-test.js133238060249022074 0
 102D:\_yandex\chat_deploy\node_modules\jsx-ast-utils\__tests__\src\getPropLiteralValue-flowparser-test.js133238060252022049 0
@@ -18051,7 +18051,7 @@
 85D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_initializer_define_property.mjs133238060279212089 0
 92D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\generated\XMLHttpRequestUpload.js133238060289092064 0
 66D:\_yandex\chat_deploy\node_modules\eslint-module-utils\resolve.js133238060230882123 0
-45D:\_yandex\chat_deploy\dist\index.5074aba6.js133242214244013644 0
+45D:\_yandex\chat_deploy\dist\index.5074aba6.js133242225962555847 0
 79D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\events\Event-impl.js133238060254972112 0
 92D:\_yandex\chat_deploy\node_modules\jsdom\lib\jsdom\living\events\EventModifierMixin-impl.js133238060255372146 0
 93D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\postcss\lib\result.js133238060240422055 0
@@ -18172,7 +18172,7 @@
 87D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\esm\container\ContainerBase\index.d.ts133238060262642056 0
 130D:\_yandex\chat_deploy\node_modules\@csstools\css-parser-algorithms\dist\parse\parse-comma-separated-list-of-component-values.d.ts133238060231302061 0
 63D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\cjs\index.d.ts133238060214662017 0
-58D:\_yandex\chat_deploy\node_modules\@babel\types\lib\clone133242205363347114 1
+58D:\_yandex\chat_deploy\node_modules\@babel\types\lib\clone133242205363387112 1
 61D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\cjs\index.js133238060218872064 0
 65D:\_yandex\chat_deploy\node_modules\js-sdsl\dist\cjs\index.js.map133238060222072117 0
 91D:\_yandex\chat_deploy\node_modules\handlebars\dist\amd\handlebars\internal\proto-access.js133238060277872082 0
@@ -18257,7 +18257,7 @@
 60D:\_yandex\chat_deploy\node_modules\is-weakref\test\index.js133238060210592063 0
 66D:\_yandex\chat_deploy\node_modules\is-weakref\.github\FUNDING.yml133238060225472063 0
 56D:\_yandex\chat_deploy\node_modules\is-weakmap\.eslintrc133238060180912041 0
-54D:\_yandex\chat_deploy\node_modules\is-weakmap\.github133242206335237699 1
+54D:\_yandex\chat_deploy\node_modules\is-weakmap\.github133242206335267778 1
 58D:\_yandex\chat_deploy\node_modules\is-weakmap\.travis.yml133238060218872064 0
 55D:\_yandex\chat_deploy\node_modules\is-weakmap\index.js133238060192082044 0
 54D:\_yandex\chat_deploy\node_modules\is-weakmap\LICENSE133238060186722079 0
@@ -18265,7 +18265,7 @@
 69D:\_yandex\chat_deploy\node_modules\doctrine\LICENSE.closure-compiler133238060198992069 0
 60D:\_yandex\chat_deploy\node_modules\is-weakmap\test\index.js133238060198852110 0
 66D:\_yandex\chat_deploy\node_modules\is-weakmap\.github\FUNDING.yml133238060222842021 0
-64D:\_yandex\chat_deploy\node_modules\is-weakmap\.github\workflows133238060225482049 1
+64D:\_yandex\chat_deploy\node_modules\is-weakmap\.github\workflows133242206335297670 1
 59D:\_yandex\chat_deploy\node_modules\is-typedarray\README.md133238060186712049 0
 64D:\_yandex\chat_deploy\node_modules\is-typed-array\.editorconfig133238060180902052 0
 57D:\_yandex\chat_deploy\node_modules\is-typed-array\.nycrc133238060192072053 0
@@ -18293,7 +18293,7 @@
 65D:\_yandex\chat_deploy\node_modules\is-string\.github\FUNDING.yml133238060225912042 0
 68D:\_yandex\chat_deploy\node_modules\is-shared-array-buffer\.eslintrc133238060186722079 0
 65D:\_yandex\chat_deploy\node_modules\is-shared-array-buffer\.nycrc133238060192082044 0
-104D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\docs\versioned_docs133242205516855573 1
+104D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\docs\versioned_docs133242205517225601 1
 63D:\_yandex\chat_deploy\node_modules\is-shared-array-buffer\test133242206330547678 1
 78D:\_yandex\chat_deploy\node_modules\is-shared-array-buffer\.github\FUNDING.yml133238060225932044 0
 61D:\_yandex\chat_deploy\node_modules\@babel\template\README.md133238060187502049 0
@@ -18336,7 +18336,7 @@
 66D:\_yandex\chat_deploy\node_modules\is-negative-zero\.editorconfig133238060180932036 0
 102D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\baz\doom.js133238060241392057 0
 66D:\_yandex\chat_deploy\node_modules\is-negative-zero\.eslintignore133238060186732051 0
-60D:\_yandex\chat_deploy\node_modules\is-negative-zero\.github133238060227662069 1
+60D:\_yandex\chat_deploy\node_modules\is-negative-zero\.github133242206320237615 1
 59D:\_yandex\chat_deploy\node_modules\is-negative-zero\.nycrc133238060197212064 0
 65D:\_yandex\chat_deploy\node_modules\is-negative-zero\package.json133238060218862048 0
 71D:\_yandex\chat_deploy\node_modules\@babel\helpers\scripts\package.json133238060257942051 0
@@ -18386,7 +18386,7 @@
 83D:\_yandex\chat_deploy\node_modules\handlebars\dist\amd\handlebars\compiler\base.js133238060231212042 0
 56D:\_yandex\chat_deploy\node_modules\is-decimal\readme.md133238060197222095 0
 64D:\_yandex\chat_deploy\node_modules\is-date-object\.eslintignore133238060186752036 0
-58D:\_yandex\chat_deploy\node_modules\is-date-object\.github133238060227692049 1
+58D:\_yandex\chat_deploy\node_modules\is-date-object\.github133242206312557869 1
 57D:\_yandex\chat_deploy\node_modules\is-date-object\.nycrc133238060197232043 0
 78D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\lib\rules\no-danger.js133238060266062112 0
 55D:\_yandex\chat_deploy\node_modules\is-date-object\test133242206313157696 1
@@ -18398,7 +18398,7 @@
 72D:\_yandex\chat_deploy\node_modules\es-abstract\2020\Number\leftShift.js133238060310862032 0
 61D:\_yandex\chat_deploy\node_modules\is-color-stop\.travis.yml133238060213602019 0
 51D:\_yandex\chat_deploy\node_modules\extglob\LICENSE133238060197422079 0
-53D:\_yandex\chat_deploy\node_modules\is-color-stop\lib133242206308637737 1
+53D:\_yandex\chat_deploy\node_modules\is-color-stop\lib133242206308677710 1
 59D:\_yandex\chat_deploy\node_modules\is-color-stop\README.md133238060192122043 0
 65D:\_yandex\chat_deploy\node_modules\chrome-trace-event\CHANGES.md133238060199072036 0
 54D:\_yandex\chat_deploy\node_modules\is-color-stop\util133242206310487675 1
@@ -18440,10 +18440,10 @@
 89D:\_yandex\chat_deploy\node_modules\autoprefixer\node_modules\postcss\lib\previous-map.js133238060237882037 0
 58D:\_yandex\chat_deploy\node_modules\is-arguments\.eslintrc133238060192132016 0
 92D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\stylehacks\types133242205590160076 1
-56D:\_yandex\chat_deploy\node_modules\is-arguments\.github133238060228242122 1
+56D:\_yandex\chat_deploy\node_modules\is-arguments\.github133242206299675541 1
 61D:\_yandex\chat_deploy\node_modules\is-arguments\CHANGELOG.md133238060223972182 0
 58D:\_yandex\chat_deploy\node_modules\@babel\types\README.md133238060187482076 0
-59D:\_yandex\chat_deploy\node_modules\es-abstract\2020\BigInt133242206020708148 1
+59D:\_yandex\chat_deploy\node_modules\es-abstract\2020\BigInt133242206020758194 1
 64D:\_yandex\chat_deploy\node_modules\es-abstract\2022\ToNumber.js133238060326492033 0
 57D:\_yandex\chat_deploy\node_modules\is-arguments\index.js133238060209502101 0
 69D:\_yandex\chat_deploy\node_modules\eslint\lib\rules\require-await.js133238060297512112 0
@@ -18460,7 +18460,7 @@
 64D:\_yandex\chat_deploy\node_modules\ipaddr.js\lib\ipaddr.js.d.ts133238060212472022 0
 52D:\_yandex\chat_deploy\node_modules\extglob\index.js133238060192302013 0
 59D:\_yandex\chat_deploy\node_modules\internal-slot\.eslintrc133238060192142049 0
-57D:\_yandex\chat_deploy\node_modules\internal-slot\.github133238060227672053 1
+57D:\_yandex\chat_deploy\node_modules\internal-slot\.github133242206294895553 1
 59D:\_yandex\chat_deploy\node_modules\internal-slot\README.md133238060225492107 0
 77D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\__tests__\__util__133242206134518689 1
 81D:\_yandex\chat_deploy\node_modules\@babel\types\lib\traverse\traverseFast.js.map133238060280702100 0
@@ -18594,7 +18594,7 @@
 83D:\_yandex\chat_deploy\node_modules\has-values\node_modules\is-buffer\test\basic.js133238060205072071 0
 61D:\_yandex\chat_deploy\node_modules\has-tostringtag\.eslintrc133238060181022070 0
 65D:\_yandex\chat_deploy\node_modules\@swc\helpers\lib\_ts_param.js133238060266112023 0
-59D:\_yandex\chat_deploy\node_modules\has-tostringtag\.github133238060230152025 1
+59D:\_yandex\chat_deploy\node_modules\has-tostringtag\.github133242206272775487 1
 73D:\_yandex\chat_deploy\node_modules\es-abstract\2016\DetachArrayBuffer.js133238060291542051 0
 73D:\_yandex\chat_deploy\node_modules\has-tostringtag\test\shams\core-js.js133238060193862064 0
 71D:\_yandex\chat_deploy\node_modules\has-tostringtag\.github\FUNDING.yml133238060230512057 0
@@ -18609,7 +18609,7 @@
 54D:\_yandex\chat_deploy\node_modules\extsprintf\LICENSE133238060197412053 0
 61D:\_yandex\chat_deploy\node_modules\has-symbols\test\tests.js133238060224472120 0
 69D:\_yandex\chat_deploy\node_modules\has-symbols\test\shams\core-js.js133238060200402047 0
-53D:\_yandex\chat_deploy\node_modules\has-proto\.github133238060218902046 1
+53D:\_yandex\chat_deploy\node_modules\has-proto\.github133242206270135561 1
 81D:\_yandex\chat_deploy\node_modules\aria-query\lib\etc\roles\ariaGraphicsRoles.js133238060224082060 0
 86D:\_yandex\chat_deploy\node_modules\class-utils\node_modules\define-property\README.md133238060187212042 0
 54D:\_yandex\chat_deploy\node_modules\has-proto\index.js133238060192212092 0
@@ -18673,7 +18673,7 @@
 118D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-reduce-transforms\types\index.d.ts133238060207382075 0
 65D:\_yandex\chat_deploy\node_modules\@types\node\ts4.8\crypto.d.ts133238060269602060 0
 71D:\_yandex\chat_deploy\node_modules\handlebars\lib\handlebars\logger.js133238060273532084 0
-49D:\_yandex\chat_deploy\node_modules\fastq\.github133242206210798132 1
+49D:\_yandex\chat_deploy\node_modules\fastq\.github133242206210828105 1
 86D:\_yandex\chat_deploy\node_modules\handlebars\lib\handlebars\internal\proto-access.js133238060278262127 0
 68D:\_yandex\chat_deploy\node_modules\es-abstract\2022\IteratorStep.js133238060310632067 0
 77D:\_yandex\chat_deploy\node_modules\handlebars\lib\handlebars\helpers\each.js133238060255242069 0
@@ -18806,7 +18806,7 @@
 58D:\_yandex\chat_deploy\node_modules\get-value\package.json133238060181062075 0
 71D:\_yandex\chat_deploy\node_modules\es-abstract\2017\GetGlobalObject.js133238060298162100 0
 68D:\_yandex\chat_deploy\node_modules\get-symbol-description\.eslintrc133238060186852064 0
-66D:\_yandex\chat_deploy\node_modules\get-symbol-description\.github133238060227732040 1
+66D:\_yandex\chat_deploy\node_modules\get-symbol-description\.github133242206230948107 1
 72D:\_yandex\chat_deploy\node_modules\caniuse-lite\data\browserVersions.js133238060265822060 0
 65D:\_yandex\chat_deploy\node_modules\get-symbol-description\.nycrc133238060192242014 0
 71D:\_yandex\chat_deploy\node_modules\get-symbol-description\CHANGELOG.md133238060222132084 0
@@ -18816,7 +18816,7 @@
 55D:\_yandex\chat_deploy\node_modules\get-port\index.d.ts133238060186862023 0
 57D:\_yandex\chat_deploy\node_modules\get-port\package.json133238060181062075 0
 92D:\_yandex\chat_deploy\node_modules\eslint-plugin-jsx-a11y\lib\rules\prefer-tag-over-role.js133238060281692075 0
-57D:\_yandex\chat_deploy\node_modules\get-intrinsic\.github133238060224002020 1
+57D:\_yandex\chat_deploy\node_modules\get-intrinsic\.github133242206228058252 1
 55D:\_yandex\chat_deploy\node_modules\forwarded\README.md133238060204192040 0
 114D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133238060230622096 0
 57D:\_yandex\chat_deploy\node_modules\get-intrinsic\LICENSE133238060192262029 0
@@ -18936,7 +18936,7 @@
 65D:\_yandex\chat_deploy\node_modules\fast-levenshtein\package.json133238060181102050 0
 62D:\_yandex\chat_deploy\node_modules\fast-levenshtein\README.md133238060186902102 0
 76D:\_yandex\chat_deploy\node_modules\fast-json-stable-stringify\.eslintrc.yml133238060234742056 0
-70D:\_yandex\chat_deploy\node_modules\fast-json-stable-stringify\.github133238060236812109 1
+70D:\_yandex\chat_deploy\node_modules\fast-json-stable-stringify\.github133242206207348092 1
 74D:\_yandex\chat_deploy\node_modules\fast-json-stable-stringify\.travis.yml133238060235822124 0
 72D:\_yandex\chat_deploy\node_modules\fast-json-stable-stringify\benchmark133242206207508102 1
 70D:\_yandex\chat_deploy\node_modules\fast-json-stable-stringify\example133242206207748083 1
@@ -19134,7 +19134,7 @@
 91D:\_yandex\chat_deploy\node_modules\aria-query\lib\etc\roles\dpub\docAcknowledgmentsRole.js133238060249012073 0
 85D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\semver\semver.js133238060204232097 0
 86D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\.eslintrc133238060186952045 0
-84D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\.github133238060274412029 1
+84D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\.github133242206146544017 1
 85D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\async.js133238060230162053 0
 80D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\bin133242206147944045 1
 84D:\_yandex\chat_deploy\node_modules\eslint-plugin-react\node_modules\resolve\LICENSE133238060204232097 0
@@ -19539,7 +19539,7 @@
 46D:\_yandex\chat_deploy\node_modules\eslint\bin133242206060953907 1
 47D:\_yandex\chat_deploy\node_modules\eslint\conf133242206061393810 1
 62D:\_yandex\chat_deploy\node_modules\component-emitter\index.js133238060192512071 0
-51D:\_yandex\chat_deploy\node_modules\eslint\messages133242206086313887 1
+51D:\_yandex\chat_deploy\node_modules\eslint\messages133242206086353830 1
 55D:\_yandex\chat_deploy\node_modules\eslint\node_modules133242206089663869 1
 76D:\_yandex\chat_deploy\node_modules\eslint\node_modules\escape-string-regexp133242206089313883 1
 74D:\_yandex\chat_deploy\node_modules\es-abstract\2020\CopyDataProperties.js133238060283432020 0
@@ -19778,7 +19778,7 @@
 74D:\_yandex\chat_deploy\node_modules\es-to-primitive\helpers\isPrimitive.js133238060230182059 0
 71D:\_yandex\chat_deploy\node_modules\es-to-primitive\.github\FUNDING.yml133238060236322020 0
 65D:\_yandex\chat_deploy\node_modules\es-shim-unscopables\.eslintrc133238060181222101 0
-63D:\_yandex\chat_deploy\node_modules\es-shim-unscopables\.github133238060225552054 1
+63D:\_yandex\chat_deploy\node_modules\es-shim-unscopables\.github133242206055788124 1
 64D:\_yandex\chat_deploy\node_modules\es-shim-unscopables\index.js133238060197522099 0
 68D:\_yandex\chat_deploy\node_modules\es-shim-unscopables\package.json133238060214762064 0
 65D:\_yandex\chat_deploy\node_modules\es-shim-unscopables\README.md133238060222892039 0
@@ -21087,7 +21087,7 @@
 72D:\_yandex\chat_deploy\node_modules\delayed-stream\lib\delayed_stream.js133238060210722072 0
 61D:\_yandex\chat_deploy\node_modules\define-property\README.md133238060187062066 0
 67D:\_yandex\chat_deploy\node_modules\define-properties\.editorconfig133238060181282051 0
-61D:\_yandex\chat_deploy\node_modules\define-properties\.github133238060221312045 1
+61D:\_yandex\chat_deploy\node_modules\define-properties\.github133242205948938184 1
 60D:\_yandex\chat_deploy\node_modules\define-properties\.nycrc133238060192442032 0
 95D:\_yandex\chat_deploy\node_modules\@babel\types\lib\utils\react\cleanJSXElementLiteralChild.js133238060281212097 0
 62D:\_yandex\chat_deploy\node_modules\define-properties\index.js133238060204282097 0
@@ -21293,7 +21293,7 @@
 82D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\picocolors133242205918103351 1
 66D:\_yandex\chat_deploy\node_modules\@parcel\watcher\src\Watcher.cc133238060230212041 0
 79D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\postcss133242205919513386 1
-83D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\postcss\lib133242205920663411 1
+83D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\postcss\lib133242205920693418 1
 87D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\postcss\LICENSE133238060181312043 0
 89D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\postcss\README.md133238060249492079 0
 94D:\_yandex\chat_deploy\node_modules\cssnano-util-raw-cache\node_modules\postcss\lib\at-rule.js133238060188272059 0
@@ -21330,7 +21330,7 @@
 76D:\_yandex\chat_deploy\node_modules\cssnano-util-get-arguments\dist\index.js133238060205222103 0
 63D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\dist133242205913943432 1
 70D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\LICENSE-MIT133238060181322036 0
-82D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\node_modules\picocolors133242205914353379 1
+82D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\node_modules\picocolors133242205914403449 1
 83D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\node_modules\postcss\lib133242205915683464 1
 92D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\node_modules\postcss\package.json133238060248972061 0
 89D:\_yandex\chat_deploy\node_modules\cssnano-preset-default\node_modules\postcss\README.md133238060249522087 0
@@ -21578,9 +21578,9 @@
 65D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\orders133242205885373919 1
 62D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\src133242205885483886 1
 77D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\orders\smacss.json133238060211672056 0
-82D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\picocolors133242205880291682 1
+82D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\picocolors133242205880331702 1
 79D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\postcss133242205881721714 1
-83D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\postcss\lib133242205882861626 1
+83D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\postcss\lib133242205882901677 1
 87D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\postcss\LICENSE133238060181322036 0
 92D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\postcss\package.json133238060249012073 0
 89D:\_yandex\chat_deploy\node_modules\css-declaration-sorter\node_modules\postcss\README.md133238060249552078 0
@@ -21611,7 +21611,7 @@
 86D:\_yandex\chat_deploy\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers133242205644685750 1
 66D:\_yandex\chat_deploy\node_modules\cross-spawn\lib\util\escape.js133238060194032042 0
 74D:\_yandex\chat_deploy\node_modules\cross-spawn\lib\util\resolveCommand.js133238060216192067 0
-52D:\_yandex\chat_deploy\node_modules\cosmiconfig\dist133242205862863519 1
+52D:\_yandex\chat_deploy\node_modules\cosmiconfig\dist133242205862893513 1
 55D:\_yandex\chat_deploy\node_modules\cosmiconfig\LICENSE133238060192502007 0
 60D:\_yandex\chat_deploy\node_modules\cosmiconfig\node_modules133242205875561704 1
 60D:\_yandex\chat_deploy\node_modules\cosmiconfig\package.json133238060181342037 0
@@ -21785,7 +21785,7 @@
 62D:\_yandex\chat_deploy\node_modules\color-convert\package.json133238060181372040 0
 50D:\_yandex\chat_deploy\node_modules\color\index.js133238060187192037 0
 49D:\_yandex\chat_deploy\node_modules\color\LICENSE133238060181392056 0
-54D:\_yandex\chat_deploy\node_modules\color\node_modules133242205849943490 1
+54D:\_yandex\chat_deploy\node_modules\color\node_modules133242205850353585 1
 54D:\_yandex\chat_deploy\node_modules\color\package.json133238060192542039 0
 51D:\_yandex\chat_deploy\node_modules\color\README.md133238060199042084 0
 78D:\_yandex\chat_deploy\node_modules\axobject-query\lib\etc\objects\AbbrRole.js133238060190722060 0
@@ -22499,7 +22499,7 @@
 53D:\_yandex\chat_deploy\node_modules\base\node_modules133242205776190728 1
 70D:\_yandex\chat_deploy\node_modules\@babel\traverse\lib\path\family.js133238060242022091 0
 79D:\_yandex\chat_deploy\node_modules\base\node_modules\define-property\README.md133238060187262059 0
-58D:\_yandex\chat_deploy\node_modules\balanced-match\.github133238060204402052 1
+58D:\_yandex\chat_deploy\node_modules\balanced-match\.github133242205775420707 1
 98D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\stylehacks\src\plugins133242205589589994 1
 59D:\_yandex\chat_deploy\node_modules\balanced-match\index.js133238060181482058 0
 60D:\_yandex\chat_deploy\node_modules\balanced-match\README.md133238060197792018 0
@@ -22583,7 +22583,7 @@
 54D:\_yandex\chat_deploy\node_modules\aria-query\LICENSE133238060181522023 0
 53D:\_yandex\chat_deploy\node_modules\axe-core\axe.d.ts133238060257102079 0
 51D:\_yandex\chat_deploy\node_modules\axe-core\axe.js133238060235542062 0
-52D:\_yandex\chat_deploy\node_modules\axe-core\locales133242205767790667 1
+52D:\_yandex\chat_deploy\node_modules\axe-core\locales133242205767830682 1
 60D:\_yandex\chat_deploy\node_modules\axe-core\locales\da.json133238060245642055 0
 51D:\_yandex\chat_deploy\node_modules\acorn\README.md133238060227452099 0
 60D:\_yandex\chat_deploy\node_modules\axe-core\locales\de.json133238060246952080 0
@@ -22602,7 +22602,7 @@
 55D:\_yandex\chat_deploy\node_modules\aws-sign2\README.md133238060187262059 0
 68D:\_yandex\chat_deploy\node_modules\available-typed-arrays\.eslintrc133238060187272043 0
 94D:\_yandex\chat_deploy\node_modules\@csstools\media-query-list-parser\dist\util\node-type.d.ts133238060246672049 0
-66D:\_yandex\chat_deploy\node_modules\available-typed-arrays\.github133238060225612049 1
+66D:\_yandex\chat_deploy\node_modules\available-typed-arrays\.github133242205764830724 1
 71D:\_yandex\chat_deploy\node_modules\available-typed-arrays\CHANGELOG.md133238060219642056 0
 66D:\_yandex\chat_deploy\node_modules\available-typed-arrays\LICENSE133238060197802036 0
 71D:\_yandex\chat_deploy\node_modules\available-typed-arrays\package.json133238060214882043 0
@@ -22765,7 +22765,7 @@
 79D:\_yandex\chat_deploy\node_modules\array.prototype.flatmap\.github\FUNDING.yml133238060235862067 0
 66D:\_yandex\chat_deploy\node_modules\array.prototype.flat\.eslintrc133238060187282066 0
 85D:\_yandex\chat_deploy\node_modules\aria-query\lib\etc\roles\literal\separatorRole.js133238060276862022 0
-64D:\_yandex\chat_deploy\node_modules\array.prototype.flat\.github133238060235342047 1
+64D:\_yandex\chat_deploy\node_modules\array.prototype.flat\.github133242205740050704 1
 64D:\_yandex\chat_deploy\node_modules\array.prototype.flat\auto.js133238060204422075 0
 94D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\docs\docs133242205516745570 1
 69D:\_yandex\chat_deploy\node_modules\array.prototype.flat\CHANGELOG.md133238060233032058 0
@@ -23165,7 +23165,7 @@
 62D:\_yandex\chat_deploy\node_modules\@trysound\sax\package.json133238060195952077 0
 59D:\_yandex\chat_deploy\node_modules\@trysound\sax\README.md133238060204472018 0
 60D:\_yandex\chat_deploy\node_modules\@trysound\sax\lib\sax.js133238060190832017 0
-52D:\_yandex\chat_deploy\node_modules\@swc\helpers\lib133242205674716126 1
+52D:\_yandex\chat_deploy\node_modules\@swc\helpers\lib133242205674756138 1
 56D:\_yandex\chat_deploy\node_modules\@swc\helpers\scripts133242205675206147 1
 52D:\_yandex\chat_deploy\node_modules\@swc\helpers\src133242205679036098 1
 62D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\index.mjs133238060283192030 0
@@ -23174,7 +23174,7 @@
 76D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_async_to_generator.mjs133238060272272104 0
 79D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_await_async_generator.mjs133238060272492046 0
 69D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_await_value.mjs133238060272672055 0
-62D:\_yandex\chat_deploy\node_modules\@babel\helpers\lib\helpers133242205319415799 1
+62D:\_yandex\chat_deploy\node_modules\@babel\helpers\lib\helpers133242205319505809 1
 85D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133238060272852043 0
 92D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs133238060273042092 0
 84D:\_yandex\chat_deploy\node_modules\@swc\helpers\src\_class_apply_descriptor_get.mjs133238060273182061 0
@@ -23617,7 +23617,7 @@
 60D:\_yandex\chat_deploy\node_modules\@parcel\packager-raw\src133242205609589985 1
 75D:\_yandex\chat_deploy\node_modules\@parcel\packager-raw\lib\RawPackager.js133238060188392037 0
 68D:\_yandex\chat_deploy\node_modules\@parcel\packager-js\package.json133238060241292087 0
-59D:\_yandex\chat_deploy\node_modules\@parcel\packager-js\src133242205608539987 1
+59D:\_yandex\chat_deploy\node_modules\@parcel\packager-js\src133242205608590017 1
 74D:\_yandex\chat_deploy\node_modules\@parcel\packager-js\src\.eslintrc.json133238060240442030 0
 78D:\_yandex\chat_deploy\node_modules\@parcel\packager-js\src\CJSOutputFormat.js133238060194192123 0
 74D:\_yandex\chat_deploy\node_modules\@parcel\packager-js\src\dev-prelude.js133238060207362078 0
@@ -23769,7 +23769,7 @@
 119D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-normalize-repeat-style\src\index.js133238060188412099 0
 121D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-normalize-repeat-style\src\lib\map.js133238060194232029 0
 107D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-normalize-positions\src133242205562639144 1
-64D:\_yandex\chat_deploy\node_modules\@babel\types\lib\definitions133242205370654498 1
+64D:\_yandex\chat_deploy\node_modules\@babel\types\lib\definitions133242205370704463 1
 120D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-normalize-positions\types\index.d.ts133238060207382075 0
 116D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-normalize-positions\src\index.js133238060188422077 0
 120D:\_yandex\chat_deploy\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-normalize-display-values\LICENSE-MIT133238060181652024 0
@@ -24374,7 +24374,7 @@
 80D:\_yandex\chat_deploy\node_modules\@babel\types\lib\definitions\placeholders.js133238060273012058 0
 93D:\_yandex\chat_deploy\node_modules\@jridgewell\gen-mapping\dist\types\sourcemap-segment.d.ts133238060229282034 0
 63D:\_yandex\chat_deploy\node_modules\@humanwhocodes\config-array133242205401702086 1
-72D:\_yandex\chat_deploy\node_modules\@humanwhocodes\object-schema\.github133238060231302061 1
+72D:\_yandex\chat_deploy\node_modules\@humanwhocodes\object-schema\.github133242205406864335 1
 77D:\_yandex\chat_deploy\node_modules\@humanwhocodes\object-schema\CHANGELOG.md133238060228852102 0
 72D:\_yandex\chat_deploy\node_modules\@humanwhocodes\object-schema\LICENSE133238060181742075 0
 93D:\_yandex\chat_deploy\node_modules\@humanwhocodes\object-schema\tests\validation-strategy.js133238060224632044 0
@@ -24485,7 +24485,7 @@
 118D:\_yandex\chat_deploy\node_modules\@csstools\css-parser-algorithms\dist\consume\consume-component-block-function.d.ts133238060222392090 0
 54D:\_yandex\chat_deploy\node_modules\@babel\compat-data133242205272450979 1
 52D:\_yandex\chat_deploy\node_modules\@babel\generator133242205293110990 1
-69D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets133242205296810969 1
+69D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets133242205297610956 1
 69D:\_yandex\chat_deploy\node_modules\@babel\helper-environment-visitor133242205304443508 1
 67D:\_yandex\chat_deploy\node_modules\@babel\helper-module-transforms133242205306768910 1
 74D:\_yandex\chat_deploy\node_modules\@babel\helper-split-export-declaration133242205309515853 1
@@ -24494,7 +24494,7 @@
 49D:\_yandex\chat_deploy\node_modules\@babel\parser133242205330728321 1
 51D:\_yandex\chat_deploy\node_modules\@babel\template133242205343598306 1
 48D:\_yandex\chat_deploy\node_modules\@babel\types133242205358901332 1
-52D:\_yandex\chat_deploy\node_modules\@babel\types\lib133242205374354424 1
+52D:\_yandex\chat_deploy\node_modules\@babel\types\lib133242205376944414 1
 56D:\_yandex\chat_deploy\node_modules\@babel\types\LICENSE133238060181762079 0
 60D:\_yandex\chat_deploy\node_modules\@babel\types\lib\asserts133242205359311338 1
 62D:\_yandex\chat_deploy\node_modules\@babel\types\lib\ast-types133242205359551359 1
@@ -24824,7 +24824,7 @@
 73D:\_yandex\chat_deploy\node_modules\@babel\helper-environment-visitor\lib133242205304833496 1
 77D:\_yandex\chat_deploy\node_modules\@babel\helper-environment-visitor\LICENSE133238060181802032 0
 82D:\_yandex\chat_deploy\node_modules\@babel\helper-environment-visitor\lib\index.js133238060193582081 0
-73D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets\lib133242205297420957 1
+73D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets\lib133242205297460991 1
 82D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets\package.json133238060236142044 0
 92D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets\node_modules\lru-cache133242205299980955 1
 89D:\_yandex\chat_deploy\node_modules\@babel\helper-compilation-targets\node_modules\semver133242205300400972 1
@@ -24917,7 +24917,7 @@
 73D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\caching.js.map133238060217342028 0
 74D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\config-chain.js133238060221492051 0
 80D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\config-descriptors.js133238060228452062 0
-64D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\files133242205277000980 1
+64D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\files133242205277051032 1
 66D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\full.js133238060250212089 0
 66D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\item.js133238060255112046 0
 69D:\_yandex\chat_deploy\node_modules\@babel\core\lib\config\partial.js133238060255802085 0
@@ -25038,7 +25038,7 @@
 34D:\_yandex\chat_deploy\img\add.svg133225123993856560 0
 39D:\_yandex\chat_deploy\img\location.svg133225123993866476 0
 31D:\_yandex\chat_deploy\dist\img133242205256000981 1
-50D:\_yandex\chat_deploy\dist\index.71b8dddc.css.map133242214244233551 0
+50D:\_yandex\chat_deploy\dist\index.71b8dddc.css.map133242225962755792 0
 41D:\_yandex\chat_deploy\dist\notfound.html133225123993886349 0
 41D:\_yandex\chat_deploy\dist\img\media.svg133225123993866476 0
 42D:\_yandex\chat_deploy\.vscode\launch.json133238120446388531 0
