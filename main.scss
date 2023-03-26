@@ -227,9 +227,9 @@ li {
         margin-left: 3;
         background: #EFEFEF;
         > img {
-            position: absolute;
-            top: 24px;
-            left: 24px;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
         }
     }
     .chat-name {
