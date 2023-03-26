@@ -1,5 +1,6 @@
 import API, { UserAPI } from '../api/UserAPI';
 import { userUpdateProfile, updatePassword, userSearch } from '../api/interfaces';
+import store from '../models/components/store';
 
 class UserController {
   private readonly api: UserAPI;
@@ -18,7 +19,7 @@ class UserController {
   async updateAvatar(data: FormData) {
     try {
       // console.log(data);
-      await this.api.updateAvatar(data);
+      return await this.api.updateAvatar(data);
     } catch (e: any) {
       console.error(e);
     }

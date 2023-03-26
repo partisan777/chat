@@ -21,6 +21,9 @@ export class UserAPI extends BaseAPI {
   public updatePassword(data: updatePassword) {
     return this.http.put('/password', data);
   }
+  public readUser() {
+    return this.http.get('/user');
+  };
 
   read = undefined;
   create = undefined;

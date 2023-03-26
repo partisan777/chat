@@ -155,19 +155,20 @@ li {
 }
 
 .chat-sidebar {
-    max-width: 450px;
-    
+    max-width: 550px;
     min-width: 350px;
     height: auto;
     float: left;
     min-height: 550px;
     .chat-sidebar-header{
-        height: 100px;
+        height: 130px;
         display: flex;
         // position: absolute;
         flex-direction: column;
         justify-content: flex-end;
         align-items: flex-start;
+        padding: 15px;
+        
         > button {
             height: 20px;
             width: 80px;
@@ -195,9 +196,11 @@ li {
 }
 
 
-#create-chat-button, #profile-search-button, #profile-link-div, #search {
+#create-chat-button, #profile-search-button,
+#profile-link-div, #search, #delete-chat-button {
     width: 300px;
     height: 22px;
+    margin: 3px;
 }
 
 

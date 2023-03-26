@@ -127,8 +127,10 @@ export class MessengerBase extends Component {
           click: () => {
             const input = this.children.messageInput as Input;
             const message = input.getValue();
-            input.setValue('');
-            MessagesController.sendMessage(this.props.selectedChat!, message);
+            if (message !== '') {
+              MessagesController.sendMessage(this.props.selectedChat!, message);
+              input.setValue('');
+            }
           }
         }
       });

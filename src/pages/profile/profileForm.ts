@@ -37,7 +37,6 @@ export class ProfileFormPage extends Component {
   };
   init() {
     let profile = store.getState().user;
-    // profile
     this.props.avatarLink = "https://ya-praktikum.tech/api/v2/resources" + profile.avatar;
     
     

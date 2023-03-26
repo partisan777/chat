@@ -27,7 +27,9 @@ class ChatsController {
     this.api.addUsers(id, [userId]);
   }
 
-  
+  deleteUsersFromChat(id: number, userId: number) {
+    this.api.deleteUsers(id, [userId]);
+  }
 
   async delete(id: number) {
     await this.api.delete(id);
@@ -41,6 +43,12 @@ class ChatsController {
   selectChat(id: number) {
     store.set('selectedChat', id);
   }
+
+  getUsers(id: number) {
+    return this.api.getUsers(id);
+  }
+
+  
 }
 
 const controller = new ChatsController();

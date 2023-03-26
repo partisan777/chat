@@ -33,6 +33,7 @@ interface chatItemProps {
   id: number;
   title: string;
   unread_count: number;
+  avatar: string;
   selectedChat: ChatInfo;
   events: {
     click: () => void;
@@ -58,6 +59,7 @@ export class ChatItem extends Component {
     constructor(props: chatItemProps) {
       if (!props.com_tagName) props.com_tagName = 'div';
       if (!props.com_className) props.com_className = "chat-item";
+      if (props.avatar) props.avatar = "https://ya-praktikum.tech/api/v2/resources" + props.avatar;
       super(props);
     }
     

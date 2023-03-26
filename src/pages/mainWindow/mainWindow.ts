@@ -1,10 +1,14 @@
 import { Component } from "../../models/components/components";
 import mainWindowTemplate from './mainWindow_tpls.hbs';
 import { ChatItem } from "../../models/chatItems/chatItem";
-import { MessengerHeaderPage} from "../messengerHeader/messengerHeader";
 import { Messenger, MessengerBase }  from "../messenger/messenger";
 import { ChatsList } from "../../models/chatList/chatList";
 import ChatsController from "../../controllers/chatController"
+import { Link } from "../../models/link/link";
+import { Button } from "../../models/button/button";
+import { Input } from "../../models/input/input";
+import { CreateChatFormPage } from "../createChat/createChat";
+import store from "../../models/components/store";
 
 interface MainWindowProps {
 	pageTitle?: string;
@@ -28,14 +32,70 @@ export class MainWindowPage extends Component {
 		super(props)
 	}
 	init() {
-        this.children.messengerHeader = new MessengerHeaderPage({})
-		this.children.messenger = new Messenger({});
+        this.children.messenger = new Messenger({});
 		this.children.chatsList = new ChatsList({ isLoaded: false });
 		
+		this.children.changePasswordFormPage = new CreateChatFormPage({pageTitle: 'Создать чат'})
+
+		
+		this.children.linkToProfile = new Link({
+            label: 'Профиль>',
+            to: '/profile',
+			com_el_id: "profile-link-div"
+          });
+
+        this.children.searchInput = new Input ({ 
+			type: "search",
+			name: "search",
+			elem_id: "search"    
+		});
+
+		this.children.searchButton = new Button ({
+			labelVisible: "Поиск",
+			buttonClass: "button-button",
+			type: "button",
+			elem_id: "profile-search-button",
+			com_el_id: "profile-search-button-div"
+			
+		});
+		this.children.deleteChatButton = new Button ({
+			labelVisible: "Удалить чат",
+			buttonClass: "button-button",
+			type: "button",
+			elem_id: "delete-chat-button",
+			com_el_id: "delete-chat-button-div",
+			events: {
+			  click: () => {
+				const chatId = store.getState().selectedChat
+				if (!chatId) {
+					alert("Выберите чат");
+				} else {
+					const chatName = store.getState().chats.filter((item => item.id === chatId))[0]?.title
+					let result = confirm(`Удалить чат ${chatName}`);
+					if (result) {
+						console.log(chatId);
+						ChatsController.delete(chatId);
+					}
+				}	
+			  }}
+		});
+
+		this.children.createChatButton = new Button ({
+			labelVisible: 'Создать чат',
+			buttonClass: "button-button",
+			// type: "button",
+			elem_id: "create-chat-button",
+			events: {
+			  click: (e: Event) => {
+				e.preventDefault();
+				this.children.changePasswordFormPage.changeVisible();
+			  }},
+			com_el_id: "create-chat-button-div"  
+		  });
 
 		ChatsController.fetchChats().finally(() => {
 			(this.children.chatsList as Component).setProps({
-			  isLoaded: true          
+			isLoaded: true          
 			})
 			
 		  });

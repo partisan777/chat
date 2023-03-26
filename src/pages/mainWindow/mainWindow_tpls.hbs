@@ -1,7 +1,11 @@
 <div class="chat-sidebar" id="chat-sidebar">
-    {{#if messengerHeader}}
-        {{{messengerHeader}}}      
-    {{/if}}
+    <div class = "chat-sidebar-header" id="chat-sidebar-header">
+        {{{createChatButton}}}
+        {{{linkToProfile}}}
+        {{{searchInput}}} 
+        {{{searchButton}}}
+        {{{deleteChatButton}}}
+    </div>
     {{{chatsList}}}
 </div>
 {{{messenger}}}

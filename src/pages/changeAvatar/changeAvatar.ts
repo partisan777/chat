@@ -3,6 +3,8 @@ import changeAvatarTemplate from './changeAvatar_tmpl.hbs';
 import { Button } from '../../models/button/button';
 import { Input } from '../../models/input/input';
 import UserController from "../../controllers/userController"
+import store from '../../models/components/store';
+import AuthController from '../../controllers/authController';
 
 
 interface ChangeAvatarFormPageProps {
@@ -11,6 +13,7 @@ interface ChangeAvatarFormPageProps {
   com_el_id?: string;
   com_tagName?: string;
 	com_isVisible?: boolean;
+  message?: string;
 };
 
 export class ChangeAvatarFormPage extends Component {
@@ -46,12 +49,14 @@ export class ChangeAvatarFormPage extends Component {
             let input = document.getElementById("add-avatar-input");
             let data = new FormData()
             if ((input as HTMLInputElement).files) {
-              // console.log((input as HTMLInputElement).files![0])
               data.append('avatar', (input as HTMLInputElement).files![0])
-              // console.log(UserController.updateAvatar(data))
-              await UserController.updateAvatar(data);
+              const newUser = await UserController.updateAvatar(data);
+              store.set('user', newUser)
+              let img = document.getElementById('profile-avatar')?.querySelector('img');
+              img.setAttribute('src', "https://ya-praktikum.tech/api/v2/resources" + store.getState().user.avatar)
+              this.setProps({'message': 'Аватар обновлен'})
             }
-            e.preventDefault()
+            e.preventDefault();
       }}
      
       
@@ -65,6 +70,7 @@ export class ChangeAvatarFormPage extends Component {
       events: {
           click: (e: Event) => { 
             this.hide()
+            window.
             e.preventDefault()
       }}
     });

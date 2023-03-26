@@ -16,7 +16,7 @@ interface inputDataProps {
 	divErrorCheckType?: string,
 	eventActions?: Function,
 	class?: string,
-	value?: string,
+	// value?: string,
 	errormessage?: string,
 	events?: object,
 	com_className?: string,
@@ -45,8 +45,11 @@ export class Input extends Component {
 		  this._element?.querySelector('input')?.removeEventListener(eventName, events[eventName]);
 		});
 	}
+
 	setValue(value: string) {
-		return (this.element as HTMLInputElement).value = value;
+		// return (this.element as HTMLInputElement).value = value;
+
+		return (this.element.querySelector('input') as HTMLInputElement).value = value;
 	}
 
 	getName() {
