@@ -6,8 +6,9 @@ export class UserAPI extends BaseAPI {
     super('/user');
   }
 
-  public search(data: userSearch) {
-    return this.http.post('/search', data);
+  public search(login: string) {
+    console.log('/search', {login});
+    return this.http.post('/search', {login});
   }
 
   public updateProfile(data: userUpdateProfile) {

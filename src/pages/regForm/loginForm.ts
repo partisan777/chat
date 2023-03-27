@@ -70,22 +70,9 @@ export class LoginFormPage extends Component {
             
         });
         
-        /*this.children.logHasAccButton = new Button ({
-            labelVisible: "Нет аккаунта?",
-            buttonClass: "link-button",
-            type:"submit",
-            elem_id: "log-has-acc-button"
-            
-        });*/
         this.children.link = new Link({
             label: 'Нет аккаунта',
             to: '/register',
-            /*events: {
-              click: (e) => {
-                console.log(e);
-                e.preventDefault();                
-              }
-            }*/
           });
         }
 
@@ -97,7 +84,6 @@ export class LoginFormPage extends Component {
           .map((child) => ([(child as Input).getName(), (child as Input).getValue()]))
     
         const data = Object.fromEntries(values);
-        console.log(data)
         AuthController.signin(data as SignupData);
       }
 

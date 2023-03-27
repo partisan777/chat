@@ -39,7 +39,8 @@ export class AddUserFormPage extends Component {
       type: "button",
       elem_id:"add-user-button",
       events: {click: () => {
-        this.onSubmit()} }
+        this.onSubmit()
+        this.hide()} }
     })
     
     this.children.closeadduser = new Button ({
@@ -55,14 +56,13 @@ export class AddUserFormPage extends Component {
       .values(this.children)
       .filter(child => child instanceof Input)
       .map((child) => ([(child as Input).getName(), (child as Input).getValue()]))
-      console.log(values)
-    let data = {};
+    let login: string;
     for (let i: number = 0; i < values.length; i++) {
-        data[values[i][0]] = values[i][1];
+      login = values[i][1];
     }
-    const userId = await UserController.search(data)
-    ChatsController.addUserToChat(store.getState().selectedChat, userId)
-    
+    const users = await UserController.search(login);
+    const userId = users[0].id;
+    ChatsController.addUserToChat(store.getState().selectedChat, userId);
   }
   
   render() {

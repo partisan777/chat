@@ -35,7 +35,7 @@ export class MainWindowPage extends Component {
         this.children.messenger = new Messenger({});
 		this.children.chatsList = new ChatsList({ isLoaded: false });
 		
-		this.children.changePasswordFormPage = new CreateChatFormPage({pageTitle: 'Создать чат'})
+		this.children.createChatFormPage = new CreateChatFormPage({pageTitle: 'Создать чат'})
 
 		
 		this.children.linkToProfile = new Link({
@@ -73,8 +73,9 @@ export class MainWindowPage extends Component {
 					const chatName = store.getState().chats.filter((item => item.id === chatId))[0]?.title
 					let result = confirm(`Удалить чат ${chatName}`);
 					if (result) {
-						console.log(chatId);
 						ChatsController.delete(chatId);
+						store.set('selectedChat',  undefined);
+						ChatsController.fetchChats()						
 					}
 				}	
 			  }}
@@ -88,7 +89,7 @@ export class MainWindowPage extends Component {
 			events: {
 			  click: (e: Event) => {
 				e.preventDefault();
-				this.children.changePasswordFormPage.changeVisible();
+				this.children.createChatFormPage.changeVisible();
 			  }},
 			com_el_id: "create-chat-button-div"  
 		  });

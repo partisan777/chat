@@ -44,15 +44,15 @@ export default class HTTPTransport {
     });
   }
 
-  public delete<Response>(path: string): Promise<Response> {
+  public delete<Response>(path: string, data: unknown): Promise<Response> {
     return this.request<Response>(this.endpoint + path, {
       method: Method.Delete,
+      data,
     });
   }
 
   private request<Response>(url: string, options: Options = {method: Method.Get}): Promise<Response> {
     const {method, data} = options;
-    // console.log(data)
     return new Promise((resolve, reject) => {
       const xhr = new XMLHttpRequest();
       xhr.open(method, url);
@@ -75,7 +75,6 @@ export default class HTTPTransport {
       if(!(data instanceof FormData)){
         xhr.setRequestHeader("Content-Type", "application/json");
       };
-     
       xhr.withCredentials = true;
       xhr.responseType = 'json';
       if (method === Method.Get || !data) {
@@ -85,6 +84,7 @@ export default class HTTPTransport {
         if (data instanceof FormData) {
           xhr.send(data);
         } else {
+          console.log(JSON.stringify(data));
           xhr.send(JSON.stringify(data));
         } 
       }

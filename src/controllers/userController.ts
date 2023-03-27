@@ -35,9 +35,9 @@ class UserController {
     }
     
   }
-  async search(data: userSearch) {
+  async search(data: string) {
     try {
-      await this.api.search(data);
+      return await this.api.search(data);
     } catch (e: any) {
       console.error(e);
     }

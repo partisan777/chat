@@ -24,6 +24,7 @@ interface MessengerProps {
   com_tagName?: string;
   com_isVisible?: boolean;
   selectedChatId?: number;
+  chatTitle: string | undefined;
 }
 
 export class MessengerBase extends Component {
@@ -149,6 +150,7 @@ export class MessengerBase extends Component {
   }
   
   protected render(): DocumentFragment {
+    // console.log(store);
     return this.compile(messenger_tmpl, this.props);
     } 
   }
@@ -159,14 +161,15 @@ const withSelectedChatMessages = withStore(state => {
     return {
       messages: [],
       selectedChat: undefined,
-      userId: state.user.id
+      userId: state.user.id,
+      chatTitle: undefined
     };
   }
   return {
     messages: (state.messages || {})[selectedChatId] || [],
     selectedChat: state.selectedChat,
     userId: state.user.id,
-    chatTile: state.chats.filter((item => item.id === state.selectedChat))[0].title
+    chatTitle: state.chats.filter((item => item.id === state.selectedChat))[0].title
   };
 });
 
