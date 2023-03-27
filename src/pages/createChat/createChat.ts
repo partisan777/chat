@@ -45,7 +45,6 @@ export class CreateChatFormPage extends Component {
           ChatController.create(chatname)
           ChatController.fetchChats()
           this.hide();
-          // MessagesController.sendMessage(this.props.selectedChat!, message);
         }
       }
     })

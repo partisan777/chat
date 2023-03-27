@@ -41,7 +41,8 @@ export class DelUserFormPage extends Component {
       type: "button",
       elem_id:"del-user-button",
       events: {click: () => {
-        this.onSubmit()
+        this.onSubmit();
+        this.hide();
       }}
 
     })
@@ -70,16 +71,12 @@ export class DelUserFormPage extends Component {
     } else {
       const login: string = values[0][1];
       const chatUsers = await ChatController.getUsers(chatId);
-      // console.log(chatUsers[0].login, login)
       const userId = chatUsers.filter(item => item.login === login)[0]?.id
       console.log(chatId, userId);
       await ChatController.deleteUsersFromChat(chatId, userId)
+      store.set('selectedChat',  undefined);
+			ChatController.fetchChats()
     }
-     
-    
-    //chatUsers.filter(item => console.log(item[0].login, login)) //[0]?.id
-    // console.log(userId);
-    
   }
   
   render() {
