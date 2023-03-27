@@ -84,7 +84,6 @@ export default class HTTPTransport {
         if (data instanceof FormData) {
           xhr.send(data);
         } else {
-          console.log(JSON.stringify(data));
           xhr.send(JSON.stringify(data));
         } 
       }
